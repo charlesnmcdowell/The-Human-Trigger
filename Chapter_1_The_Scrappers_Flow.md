@@ -2,11 +2,11 @@
 
 The blade didn't just hum; it *hungry-growled* against the magnetic lock of the saya. Zero Vex felt the vibration in his molars, a red-hot itch that demanded to be scratched.
 
-Sector 4 smelled of sulfur and wet rust—the scent of a ship dying slowly. Below him, the Centurion-class enforcement bot didn't patrol; it prowled. It was a mass of corporate-grey armor and twitchy hydraulics, hunting for anything without a valid ID tag.
+Sector 4 smelled of sulfur and wet rust—the scent of a ship dying slowly. It was an abandoned hydroponics bay, the walls slick with black mold that ate radiation and bled sludge onto the deck plates. Below him, the Centurion-class enforcement bot didn't patrol; it prowled through the overgrown, rotting vines like a metallic panther. It was a mass of corporate-grey armor and twitchy hydraulics, hunting for anything without a valid ID tag.
 
-Zero checked his thermal readout. **98%.** Just enough juice to cut God, provided God was made of titanium alloy.
+Zero checked his thermal readout. **98%.** Just enough juice to cut God, provided God was made of titanium alloy. But he wasn't here to fight gods; he was here to extract a Class-4 Micro-Fusion Cell. That fist-sized heart beating inside the bot’s chest was worth three months of clean air filters and maybe, just maybe, enough bribe money to keep the Void-Sharks off his back. Survival wasn't cheap in the shadow of Jupiter, and his rent was overdue.
 
-He didn't check his pulse. He knew where it was: hammering a frantic rhythm against his ribs. The fear was good. The fear kept you fast. In the Scrap-Vats of Europa, the fearless kids were the ones they shoveled into the incinerators.
+He didn't check his pulse. He knew where it was: hammering a frantic rhythm against his ribs. The fear was good. The fear kept you fast, sharpening the senses until the world moved in slow motion. In the Scrap-Vats of Europa, the fearless kids were the ones they shoveled into the incinerators, their unlived lives rising as black smoke into the smog-choked sky. He carried their ghosts with him, a silent chorus reminding him that every breath was stolen property.
 
 *Breathe. Sync. Drop.*
 
@@ -24,13 +24,17 @@ The impact rattled Zero’s teeth, jarring his skeleton. *Stronger than the simu
 
 "Get off me," Zero grunted.
 
-He twisted his hips, a move he’d learned dodging sorting claws in the bilge. He triggered the release.
+He twisted his hips, a move he’d learned dodging sorting claws in the bilge. But the Centurion was faster than the old hydraulic arms. Its free hand, a massive pincer designed to crush reinforced crates, clamped onto his shoulder. The servos whined, metal groaning against the armor-weave of his kimono.
+
+Zero grit his teeth, the pain sharp and immediate. He didn't pull away; that would tear the muscle. Instead, he leaned *into* the grip, driving his elbow into the bot's optical sensor. Glass shattered. The bot recoiled, its grip loosening just enough.
+
+He triggered the release.
 
 *SNAKT.*
 
-The thermal katana cleared the sheath. The air in the corridor instantly blistered, the temperature spiking twenty degrees. The red plasma edge wasn't a solid thing; it was a contained error in physics.
+The thermal katana cleared the sheath. The air in the corridor instantly blistered, the temperature spiking twenty degrees. The red plasma edge wavered like a heat mirage, a contained error in physics that distorted the light around it.
 
-Zero didn't swing like a duelist. He swung like a butcher.
+Zero didn't swing like a duelist. He swung like a butcher, putting the full weight of his frustration behind the blow—frustration at the endless grind, the corporate stranglehold, the sheer audacity of a universe that wanted him dead.
 
 He drove the blade upward, aimed not at the armor, but at the heat-sink vent under the chassis. The Centurion tried to backpedal, but it was programmed for intimidation, not a knife fight.
 
@@ -46,9 +50,9 @@ Zero exhaled, a long, shuddering breath. His hands were shaking. They always sho
 
 He tapped his comms bead. "Cas. Tell me you recorded that."
 
-"Recorded it?" Cas’s voice crackled in his ear, sounding bored. "I’m already editing the highlight reel. But you got sloppy on the dismount, Samurai. You let it track you for 0.4 seconds. In the real world, you're dead."
+"Recorded it?" Cas’s voice crackled in his ear, overlaid with the frantic *clack-clack-clack* of a mechanical keyboard and the wet pop of chewing gum. "I’m already editing the highlight reel and spoofing the timestamp so it looks like you weren't even in the sector. But you got sloppy on the dismount, Samurai. You let it track you for 0.4 seconds. If that bot had been running the new patch, you'd be scrap."
 
-"In the real world, I'm expensive," Zero muttered, slapping the cooling catch on his hilt. "Path?"
+"If that bot had been running the new patch, I'd be scrap," Zero muttered, slapping the cooling catch on his hilt. The bravado felt hollow, a mask he wore to hide the trembling in his fingers. He knelt by the ruined chassis, his vibro-knife working quickly to pry the glowing fusion cell from its housing. It was warm to the touch, humming with contained power. He pocketed it, feeling the weight of his survival against his hip. "Path?"
 
 "Clear. But the heat just spiked. You woke up the hive, Hiro. Run."
 
