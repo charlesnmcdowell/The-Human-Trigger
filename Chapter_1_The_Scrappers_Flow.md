@@ -50,7 +50,7 @@ A long, shuddering breath escaped him. His hands were shaking. They always shook
 
 He tapped his comms bead. "Cas. Tell me you got the money shot."
 
-"Got it? I'm practically minting the NFT right now," Cas’s voice crackled in his ear, overlaid with the frantic *clack-clack-clack* of a mechanical keyboard and the wet pop of chewing gum. "But seriously, Zero? A frontal assault on a Centurion? Do you know what the insurance premiums are on that kimono? If you die, I’m selling your organs to the lowest bidder just to cover the deductible."
+"Got it? I'm minting the 'Kill-Creds' as we speak," Cas’s voice crackled in his ear, overlaid with the frantic *clack-clack-clack* of a mechanical keyboard and the wet pop of chewing gum. "But seriously, Zero? A frontal assault on a Centurion? Do you know what the insurance premiums are on that kimono? If you die, I’m selling your organs to the lowest bidder just to cover the deductible."
 
 "If that bot was running the new patch, I'd be a smear on the wall, and you'd be out a pilot," Zero muttered, slapping the cooling catch on his hilt. The bravado felt hollow, a mask he wore to hide the trembling in his fingers. He knelt by the ruined chassis, his vibro-knife working quickly to pry the glowing fusion cell from its housing. It was warm to the touch, humming with contained power. He pocketed it, feeling the weight of his survival against his hip. "So, are we rich yet, or do I need to scrap the legs too?"
 
