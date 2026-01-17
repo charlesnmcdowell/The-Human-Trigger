@@ -18,7 +18,7 @@ He hit the deck plates with a magnetic *thud* that shook the dust from the air. 
 
 Zero didn't wait for the threats. He stepped into the kill-box.
 
-The bot’s Gatling arm spun up—a scream of motors. Zero dropped his center of gravity, the floor slick with oil under his boots. He didn't draw the katana yet. He used the heavy, lead-lined sheath as a shield, deflecting the bot's swinging limb with a spark-showering crash.
+The bot’s Gatling arm spun up—a scream of motors. He dropped his center of gravity, boots finding purchase on the oil-slicked floor. He didn't draw the katana yet. He used the heavy, lead-lined sheath as a shield, deflecting the bot's swinging limb with a spark-showering crash.
 
 The impact rattled Zero’s teeth, jarring his skeleton. *Stronger than the simulation.*
 
@@ -26,7 +26,7 @@ The impact rattled Zero’s teeth, jarring his skeleton. *Stronger than the simu
 
 He twisted his hips, a move he’d learned dodging sorting claws in the bilge. But the Centurion was faster than the old hydraulic arms. Its free hand, a massive pincer designed to crush reinforced crates, clamped onto his shoulder. The servos whined, metal groaning against the armor-weave of his kimono.
 
-Zero grit his teeth, the pain sharp and immediate. He didn't pull away; that would tear the muscle. Instead, he leaned *into* the grip, driving his elbow into the bot's optical sensor. Glass shattered. The bot recoiled, its grip loosening just enough.
+Pain flared sharp and immediate in his shoulder. He didn't pull away; that would tear the muscle. Instead, he leaned *into* the grip, driving his elbow into the bot's optical sensor. Glass shattered. The bot recoiled, its grip loosening just enough.
 
 He triggered the release.
 
@@ -34,19 +34,19 @@ He triggered the release.
 
 The thermal katana cleared the sheath. The air in the corridor instantly blistered, the temperature spiking twenty degrees. The red plasma edge wavered like a heat mirage, a contained error in physics that distorted the light around it.
 
-Zero didn't swing like a duelist. He swung like a butcher, putting the full weight of his frustration behind the blow—frustration at the endless grind, the corporate stranglehold, the sheer audacity of a universe that wanted him dead.
+This wasn't a duel. It was butchery, fueled by the frustration of the endless grind, the corporate stranglehold, and the sheer audacity of a system rigged to crush him.
 
 He drove the blade upward, aimed not at the armor, but at the heat-sink vent under the chassis. The Centurion tried to backpedal, but it was programmed for intimidation, not a knife fight.
 
 The blade bit. Metal screamed—a high, wet tearing sound as the thermal edge boiled through the bot’s waist.
 
-Zero rolled past, the heat singing the leather of his kimono. He came up in a crouch, sliding three meters, turning to face his enemy.
+Momentum carried him past the ruin, the heat singing the leather of his kimono. He came up in a crouch, sliding three meters, turning to face his enemy.
 
 The Centurion stood there, optic flickering. It tried to raise its gun arm, but the hydraulics were already weeping boiling fluid onto the deck. The top half of the machine slid slowly, almost comically, to the left. It hit the floor with the sound of a dumpster falling from orbit.
 
 Silence rushed back into the corridor, heavy and cold.
 
-Zero exhaled, a long, shuddering breath. His hands were shaking. They always shook *after*.
+A long, shuddering breath escaped him. His hands were shaking. They always shook *after*.
 
 He tapped his comms bead. "Cas. Tell me you recorded that."
 
