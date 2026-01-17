@@ -1,6 +1,6 @@
 # The Crew of the NS-FW-32
 
-## Zero Vex / Hiro (The Jailbreaker)
+## Zero Vex (The Jailbreaker)
 **Archetype:** Shadow-Runner / Rogue Pilot
 
 **Visuals:**
@@ -45,7 +45,7 @@
 **Crew Dynamics:**
 - **Jax:** Gets along well.
 - **Cas:** Neutral.
-- **Hiro:** Skeptical of his sanity.
+- **Zero:** Skeptical of his sanity.
 
 ---
 
@@ -91,7 +91,7 @@
 
 **Crew Dynamics:**
 - **General:** Comical relief, annoys everyone.
-- **Hiro:** Loved and cherished by him.
+- **Zero:** Loved and cherished by him.
 - **Val:** Neutral.
 
 ---
