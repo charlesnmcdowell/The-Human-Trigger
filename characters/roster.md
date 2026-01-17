@@ -16,6 +16,7 @@
 **Traits:**
 - **Pros:** Loyal, determined, honorable, curious.
 - **Cons:** Risky, self-sacrificing, meddlesome, prying.
+- **Personality Archetype:** "The Last Samurai of the Sprawl." Modeled after Hiro Protagonist (*Snow Crash*). He is intelligent, slightly arrogant about his skills but deeply cynical about the system. He speaks with a dry, noir-inflected wit. He treats the absurd reality of his world with a deadpan acceptance.
 
 **Crew Dynamics:**
 - **Cas:** Works very well with her; she is loved and cherished by him.
@@ -86,6 +87,7 @@
 **Traits:**
 - **Pros:** Kindness, curious, brave, optimistic.
 - **Cons:** Childish, impatient, flirty.
+- **Personality Archetype:** "The Hustler Prodigy." Modeled after Jazz Bashara (*Artemis*). She is whip-smart, sarcastic, and speaks in a rapid-fire, hustler dialect. She is constantly looking for the angle, referencing prices, bribes, and the "economy" of the situation. She masks her genius with irreverence.
 
 **Crew Dynamics:**
 - **General:** Comical relief, annoys everyone.

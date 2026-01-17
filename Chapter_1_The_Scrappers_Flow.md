@@ -16,7 +16,7 @@ He hit the deck plates with a magnetic *thud* that shook the dust from the air. 
 
 "Unauthorized bio-sig," the bot’s vocoder buzzed, sounding like a chainsaw hitting a nail. "Compli—"
 
-Zero didn't wait for the threats. He stepped into the kill-box.
+"Yeah, yeah. Save the sermon for the bandwidth," Zero muttered. He didn't wait for the threats. He stepped into the kill-box.
 
 The bot’s Gatling arm spun up—a scream of motors. He dropped his center of gravity, boots finding purchase on the oil-slicked floor. He didn't draw the katana yet. He used the heavy, lead-lined sheath as a shield, deflecting the bot's swinging limb with a spark-showering crash.
 
@@ -26,7 +26,7 @@ The impact rattled Zero’s teeth, jarring his skeleton. *Stronger than the simu
 
 He twisted his hips, a move he’d learned dodging sorting claws in the bilge. But the Centurion was faster than the old hydraulic arms. Its free hand, a massive pincer designed to crush reinforced crates, clamped onto his shoulder. The servos whined, metal groaning against the armor-weave of his kimono.
 
-Pain flared sharp and immediate in his shoulder. He didn't pull away; that would tear the muscle. Instead, he leaned *into* the grip, driving his elbow into the bot's optical sensor. Glass shattered. The bot recoiled, its grip loosening just enough.
+"You're making this very difficult to expense," Zero grit out. Pain flared sharp and immediate in his shoulder. He didn't pull away; that would tear the muscle. Instead, he leaned *into* the grip, driving his elbow into the bot's optical sensor. Glass shattered. The bot recoiled, its grip loosening just enough.
 
 He triggered the release.
 
@@ -48,12 +48,12 @@ Silence rushed back into the corridor, heavy and cold.
 
 A long, shuddering breath escaped him. His hands were shaking. They always shook *after*.
 
-He tapped his comms bead. "Cas. Tell me you recorded that."
+He tapped his comms bead. "Cas. Tell me you got the money shot."
 
-"Recorded it?" Cas’s voice crackled in his ear, overlaid with the frantic *clack-clack-clack* of a mechanical keyboard and the wet pop of chewing gum. "I’m already editing the highlight reel and spoofing the timestamp so it looks like you weren't even in the sector. But you got sloppy on the dismount, Samurai. You let it track you for 0.4 seconds. If that bot had been running the new patch, you'd be scrap."
+"Got it? I'm practically minting the NFT right now," Cas’s voice crackled in his ear, overlaid with the frantic *clack-clack-clack* of a mechanical keyboard and the wet pop of chewing gum. "But seriously, Hiro? A frontal assault on a Centurion? Do you know what the insurance premiums are on that kimono? If you die, I’m selling your organs to the lowest bidder just to cover the deductible."
 
-"If that bot had been running the new patch, I'd be scrap," Zero muttered, slapping the cooling catch on his hilt. The bravado felt hollow, a mask he wore to hide the trembling in his fingers. He knelt by the ruined chassis, his vibro-knife working quickly to pry the glowing fusion cell from its housing. It was warm to the touch, humming with contained power. He pocketed it, feeling the weight of his survival against his hip. "Path?"
+"If that bot was running the new patch, I'd be a smear on the wall, and you'd be out a pilot," Zero muttered, slapping the cooling catch on his hilt. The bravado felt hollow, a mask he wore to hide the trembling in his fingers. He knelt by the ruined chassis, his vibro-knife working quickly to pry the glowing fusion cell from its housing. It was warm to the touch, humming with contained power. He pocketed it, feeling the weight of his survival against his hip. "So, are we rich yet, or do I need to scrap the legs too?"
 
-"Clear. But the heat just spiked. You woke up the hive, Hiro. Run."
+"Rich is a strong word. Let's go with 'solvent for the next forty-eight hours.' Now move your ass, Samurai. The heat just spiked. You woke up the hive. Run."
 
 Zero didn't need telling twice. He sprinted, the red afterimage of the kill still burning in his eyes.
