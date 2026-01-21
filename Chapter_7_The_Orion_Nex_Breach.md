@@ -14,7 +14,7 @@ Zero crawled through the tight shaft. "I'm in."
 
 He dropped into the warehouse. "Opening bay doors."
 
-Jax loaded crates.
+Jax loaded crates, his "Dread-Plate" armor whining under the strain. The massive exoskeleton allowed him to lift pallets that would have crushed a standard forklift.
 
 Suddenly, lights out. *// INTRUDER ALERT. //*
 

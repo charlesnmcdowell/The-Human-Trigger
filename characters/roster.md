@@ -63,7 +63,8 @@
 
 **Visuals:**
 - Caucasian, exceptionally tall and muscular.
-- His body is a map of industrial cybernetics—heavy hydraulic limbs and reinforced plating designed for Jovian mining.
+- **Armor:** Wears massive, articulated "Dread-Plate" armor—a bulky, industrial-grade exoskeleton originally designed for deep-core mining but modified for war. It features exaggerated pauldrons and thick plating that gives him a walking-tank silhouette, reminiscent of heavy shock-troopers but covered in welding burns and hazard stripes.
+- His body underneath is a map of industrial cybernetics—heavy hydraulic limbs and reinforced plating.
 
 **Weapon of Choice:**
 - A heavy, customized Anti-Armor Rail-Rifle.
@@ -77,8 +78,10 @@
 - **Combat:** Stationary, accurate, heavy. He doesn't dodge; he tanks hits with his armor and returns fire with rail-gun precision.
 
 **Traits:**
+- **Pros:** Chill, wise, organized.
 - **Cons:** Cowardly, risk-averse.
 - **Personality Archetype:** "The Old Soul of the Belt." Jax is a walking encyclopedia of Jovian lore. He has worked every dirty job in the system—miner, hauler, bouncer, demolitionist. When the crew is confused about a piece of tech, a faction, or a legend, Jax has a story about it. He speaks slowly, deliberately ("tectonic"), often using metaphors related to mining or structural engineering.
+- **Comic Relief:** Despite his terrifying appearance, he is surprisingly domestic and risk-averse ("Do we *have* to explode the door? I just fixed the hinges"). He acts as the crew's "Team Dad," fussing over meal times and safety protocols while actively crushing enemies.
 
 **Crew Dynamics:**
 - Gets along with everybody.

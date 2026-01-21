@@ -8,9 +8,9 @@ He reached the rendezvous point. A docking bay airlock, welded shut. He ignited 
 
 He kicked the door in.
 
-The bay was massive, dominated by the *Rusty Nail*. It was an ugly ship, built like a brick and painted like a bruise—mismatched hull plates of rust-brown and industrial grey welded together with more hope than engineering. A giant with a hydraulic claw arm sat on a crate near the ramp, eating an apple with a bayonet.
+The bay was massive, dominated by the *Rusty Nail*. It was an ugly ship, built like a brick and painted like a bruise—mismatched hull plates of rust-brown and industrial grey welded together with more hope than engineering. A giant wearing a massive, articulated "Dread-Plate" exoskeleton sat on a crate near the ramp. The armor was a bulky, industrial-grade monstrosity with exaggerated pauldrons and hazard stripes, making him look like a walking tank that had survived a welding accident. He was eating an apple with a bayonet held in his hydraulic claw arm.
 
-"You're late," the giant said. "You smell like ozone."
+"You're late," the giant said, his voice rumbling from the armor's external speakers. "You smell like ozone."
 
 "I had a disagreement with a door. You Jax?"
 

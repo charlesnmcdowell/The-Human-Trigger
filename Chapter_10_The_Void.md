@@ -4,7 +4,7 @@ We dropped out in deep space.
 
 Zero climbed out of the mech. Val shoved a water bottle at him. "You're insane. But good flying."
 
-Jax slapped his back. "Silas looked like he swallowed a lemon!"
+Jax slapped his back, the massive gauntlet of his Dread-Plate nearly knocking the wind out of him. "Did you see his face? Silas looked like he swallowed a lemon!"
 
 Cas typed. "Kill-Creds are trending #1."
 
