@@ -13,8 +13,12 @@
 **The Edge:**
 - Zero doesn't just pilot the NSFW-32; he treats its neural link like a terminal. His "Jailbreak" ability allows him to bypass AI safety limiters, pushing the mech's nuclear fusion core into the "Redline" for bursts of impossible speed.
 
+**Problem Solving Style:**
+- **The Duelist:** Zero tackles problems head-on with speed and agility. He prefers the "Scrapper's Flow"—reacting in the moment rather than over-planning.
+- **Prep:** He obsessively maintains his katana (sharpening the thermal edge, checking magnetic alignment) and his neural jacks.
+- **Combat:** Fast, visceral, close-quarters. Uses the environment and his agility to close the gap before enemies can fire.
+
 **Traits:**
-- **Pros:** Loyal, determined, honorable, curious.
 - **Cons:** Risky, self-sacrificing, meddlesome, prying.
 - **Personality Archetype:** "The Last Samurai of the Sprawl." Modeled after Hiro Protagonist (*Snow Crash*). He is intelligent, slightly arrogant about his skills but deeply cynical about the system. He speaks with a dry, noir-inflected wit. He treats the absurd reality of his world with a deadpan acceptance.
 
@@ -38,14 +42,19 @@
 **The Conflict:**
 - She is a runaway from the very corporation that built the NSFW-32, making her a "Traitor Asset" with a massive bounty on her head.
 
+**Problem Solving Style:**
+- **The Tactician:** Val solves problems by avoiding them or planning a route through them. She relies on Zero and Jax for physical protection while she handles the logistics and piloting.
+- **Prep:** She runs simulations, checks fuel ratios, and maps escape vectors before every jump.
+- **Combat:** She stays with the ship. If forced to fight, she uses the ship's systems or standard-issue sidearms with disciplined, textbook efficiency.
+
 **Traits:**
-- **Pros:** Intelligent, poised, well-bred, sophisticated.
 - **Cons:** Pretentious, poser, hot-tempered.
+- **Personality Archetype:** "The Corporate Tsundere." Val is book-smart, high-born, and initially incredibly harsh/critical of Zero ("Tsun"). She calls him "idiot," "liability," and "scrapper" with disdain, hiding her own insecurity and fear behind regulations. However, as the story progresses, she grudgingly respects his skills ("Dere"), showing small moments of warmth or concern that she immediately tries to cover up with more criticism.
 
 **Crew Dynamics:**
 - **Jax:** Gets along well.
 - **Cas:** Neutral.
-- **Zero:** Skeptical of his sanity.
+- **Zero:** Skeptical of his sanity; constantly critiques his methods; secret (denied) admiration.
 
 ---
 
@@ -62,9 +71,14 @@
 **The Role:**
 - Maintenance and Muscle. He keeps the NSFW-32 from shaking itself apart after a fusion flare and handles ship-to-ship boarding actions where raw power is the only way through the door.
 
+**Problem Solving Style:**
+- **The Anchor:** Jax solves problems with overwhelming force and military precision. He is the plan-driven muscle who lowers risk by removing obstacles (walls, enemies) entirely.
+- **Prep:** He checks structural integrity, loads specific ammo types for specific targets (AP for bots, Shredder for soft targets), and braces the ship for impact.
+- **Combat:** Stationary, accurate, heavy. He doesn't dodge; he tanks hits with his armor and returns fire with rail-gun precision.
+
 **Traits:**
-- **Pros:** Chill, wise, organized.
 - **Cons:** Cowardly, risk-averse.
+- **Personality Archetype:** "The Old Soul of the Belt." Jax is a walking encyclopedia of Jovian lore. He has worked every dirty job in the system—miner, hauler, bouncer, demolitionist. When the crew is confused about a piece of tech, a faction, or a legend, Jax has a story about it. He speaks slowly, deliberately ("tectonic"), often using metaphors related to mining or structural engineering.
 
 **Crew Dynamics:**
 - Gets along with everybody.
@@ -84,8 +98,12 @@
 **The Vibe:**
 - Irreverent and hyper-focused. She views the entire solar system as a series of locks just waiting for her to find the key.
 
+**Problem Solving Style:**
+- **The Overwatch:** Cas solves problems by controlling the battlefield. She is slower than a "twitch" hacker like Zero but provides overwhelming data superiority.
+- **Prep:** She scans networks for vulnerabilities, loops cameras, and identifies enemy loadouts before the fight starts.
+- **Combat:** She turns the environment into a weapon—locking doors, venting atmosphere, turning turrets against their owners—all while tucked away in a defensible position.
+
 **Traits:**
-- **Pros:** Kindness, curious, brave, optimistic.
 - **Cons:** Childish, impatient, flirty.
 - **Personality Archetype:** "The Hustler Prodigy." Modeled after Jazz Bashara (*Artemis*). She is whip-smart, sarcastic, and speaks in a rapid-fire, hustler dialect. She is constantly looking for the angle, referencing prices, bribes, and the "economy" of the situation. She masks her genius with irreverence.
 

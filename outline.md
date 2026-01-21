@@ -12,16 +12,22 @@ His "Jailbreaking" skills came from the Accountability Mandate. To get the scrap
 ## Revised 10-Chapter Outline
 
 ### CH 1: The Scrapper’s Flow
-The book opens with Zero in a high-speed "Salvage Run." We see him use his Red Thermal Katana to dismantle a security drone with the grace of a dancer. Through internal monologue, he recalls the "Scrap-Vat" days where a blade didn't need a corporate permit to fire—it just needed a steady hand.
+**Intro:** Zero and Cas introduce themselves through action. A security bot identifies Zero via a "Wanted" blurb. Cas saves Zero with a quick hack, prompting Zero to recall their meeting.
+**Action:** High-octane salvage run. Zero uses his Red Thermal Katana (backstory: stolen from a high-tier vault) to dismantle drones.
+**Style:** Visceral, gore/explosion heavy. Slowed down to let the skills breathe.
 
 ### CH 2: The Meat Grinder
-The old team heist. Zero's hacking allows them to bypass the initial gates, but the corporate ambush is too much. He watches his friends die because their "sanctified" gear locks up under an EMP. Zero’s "dirty" tech and blade are the only things that don't fail him.
+**The Heist:** The "Golden Spire" job. The team (Neon Jackals) infiltrates.
+**The Turn:** It's an almost-success. They get the goods, but a traitor (unidentified) triggers an ambush.
+**The Sacrifice:** Zero realizes they are trapped. He uses "dirty" tech to create a massive distraction/explosion, intending to sacrifice himself so the team can escape.
+**The Aftermath:** Zero wakes up/escapes by unknown means (miracle/luck). He tries to contact the team but gets silence. He assumes they are dead or captured.
 
 ### CH 3: The Offer
-The Agent finds Zero. He notes that Zero is the only street-rat in the Jovian system with a 100% Sync Compatibility for un-lobotomized hardware. He offers Zero the chance to be the "Trigger" for something that can actually fight back.
+Zero, alone and believing his friends are gone, is found by Silas (The Agent). Silas exploits Zero's desperation and "nothing to lose" attitude. Offers him the "Human Trigger" job.
 
 ### CH 4: The Outlaw Link
-Zero meets the crew. Jax is impressed by the custom-weighted balance of Zero’s katana, recognizing it as high-tier industrial salvage. Val is skeptical of his "scrapper" style until Zero hacks the ship's galley to produce real coffee instead of corporate sludge.
+Zero meets the new crew (Val, Jax). He is cold, traumatized from the "loss" of his old team.
+**Reveal (Later Arc Setup):** The reader knows (or hints are dropped) that the old team is alive and being used to hunt him, but Zero doesn't know yet.
 
 ### CH 5: The Haywire Graveyard
 The team travels to a ruined sector. Zero explains the lore of the Haywire while navigating ancient, rogue security bots. He uses his hacking and blade in tandem—disabling shields with a "ghost-jack" and finishing the core with a red-hot slash.
