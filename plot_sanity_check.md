@@ -23,6 +23,8 @@
 ### Factions & Organizations
 *   **The Corporation (Cognis):** Dominant political/military force. Owns the *Golden Spire* and manages the **Accountability Mandate**. Obsessed with "Sanctified Tech" and the "Human Trigger" doctrine.
 *   **Viper Squad / Corporate Aces:** Elite mercenaries. **Anti-Augmentation Doctrine:** They use Genetic Engineering (reflexes, bone density) rather than cybernetics to avoid hacking risks.
+    *   **Tactical Threat:** Zero's Logic-Bombs **do NOT work** on their bodies (Cyber-Pure). He can only target their "Sanctified" Cognis weapons.
+    *   **Combat Implication:** Zero cannot "DDoS their souls." He must rely on physical speed (The Lobotomizer) or terrain to survive them.
 *   **Void-Sharks:** Local pirate gang in the Jovian shadow. Petty criminals compared to the Corp.
 *   **Zero-Sum (formerly Neon Jackals):** Zero's old crew. Wiped out in the *Golden Spire* ambush.
 *   **The Human Trigger (New Crew):** Zero, Val, Jax, Cas (and Orion). Fugitives.

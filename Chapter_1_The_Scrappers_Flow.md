@@ -3,21 +3,26 @@ The blade Zero called 'The Lobotomizer' hungry-growled against the magnetic lock
 
 Sector 4 smelled of sulfur and wet rust—the scent of a ship dying slowly. It was an abandoned hydroponics bay, the walls slick with black mold that ate radiation and bled sludge onto the deck plates. Below Zero, the Centurion-class enforcement bot prowled through the overgrown, rotting vines like a metallic panther. The Cognis logo—a stylized eye trapped in a crosshair—gleamed on its chassis under the flicker of dying emergency lights.
 
-Zero checked his thermal readout. 98%. The unshielded plasma edge would burn at 3,000 Kelvin. It wasn't 'Sanctified'—Corporate-approved and safety-locked. It was a piece of industrial salvage he'd stripped of every limiter that kept a user from being cooked alive by their own weapon. The payout wasn't fighting gods; it was the Class-4 Micro-Fusion Cell beating inside the bot’s chest.
+Zero checked his thermal readout. 98%. The unshielded plasma edge would burn at 3,000 Kelvin. It wasn't 'Sanctified'—Corporate-approved and safety-locked. It was a piece of industrial salvage he'd stripped of every limiter that kept a user from being cooked alive by their own weapon. He was here for one thing, The payout, a Class-4 Micro-Fusion Cell beating inside the bot’s chest.
 
 His pulse hammered against his ribs. He prepared the Logic-Bomb in his neural deck.
 
-"Alright, Cognis," Zero whispered, tapping his temple where the illegal jack sat. "Let's see how your servers like a recursive paradox."
+"Heads up, Samurai," Cas's voice chirped in his ear, overlaying the bot's schematic on his HUD. "That's a Centurion Mark-IV. Manufactured by Cognis Heavy Industries. Retail price: more than your entire life's earnings. Their firewall is 'Sanctified' grade, meaning it phones home to the corporate servers every 0.4 seconds to check if it has permission to kill you. Don't let it make that call."
 
-The Accountability Mandate required every legal weapon to have a real-time handshake with the central servers. It was the law that ended the AI wars: no trigger pulls without a verified human soul on the other end. But if you clogged that handshake with junk data—a 'Logic-Bomb'—the weapon panicked. It stalled, waiting for an authorization that would never come.
+"Sanctified Grade? I doubt anything's angelic about their tech. Alright, Cognis," Zero whispered, tapping his temple where the illegal jack sat. "Let's see how your servers like a recursive paradox."
 
-Breathe. Sync. Drop.
+"Sanctified means it's 'Soul-Verified', genius," Cas corrected, her voice dripping with mock-patience. "It means that hunk of metal has a real-time handshake with the central servers. It's the Accountability Mandate in action—no trigger pulls without a verified human soul on the other end to take the legal rap. But you're about to clog that handshake with junk data, aren't you? A 'Logic-Bomb'. It's going to panic the weapon. It'll stall, waiting for an authorization that you're currently DDoSing into oblivion."
 
-Zero triggered the packet. The neural feedback hit him instantly—a copper taste flooding his mouth and a sharp, blinding spike behind his eyes. A "Data-Hangover" in the making.
+Zero was perched on a rusted catwalk twenty feet above the kill-zone, the metal grating biting into his knees. Below him, the Centurion's sensors swept the hydroponics bay in a fan of hard light, illuminating the rotting vines and the black sludge bleeding from the walls. The air was thick with humidity and the smell of ozone. Zero tightened his grip on the railing, his knuckles white under the lead-lined gloves. Hopping onto the railing with perfect balance he peered down at the massive bot. 
 
-He let gravity take the lead.
+*Breathe. Sync. Drop.*
 
-He hit the deck plates with a magnetic thud. The Centurion swiveled, its optic contracting.
+He tipped forward, dropping face-first into the void. Gravity took the lead, wind whipping his purple locs back like a kinetic contrail. Mid-air, he visualized the local mesh—a chaotic web of RF handshakes tethering the Centurion to the Cognis overmind. He twisted, flipping 180 degrees to drive the Lobotomizer into the bulkhead wall.
+
+The blade shrieked as its magnetic field bit into the metal, slowing his fall in a shower of sparks. Simultaneously, he channeled the Logic-Bomb through the sword’s unshielded coils, using the weapon as a broadcast antenna to blast the bot's receiver with a petabyte of recursive junk data. The neural feedback hit him instantly—a copper taste flooding his mouth and a sharp, blinding spike behind his eyes. A "Data-Hangover" in the making.
+
+
+He hit the deck plates with a magnetic *thud* that shook the dust from the air. The Centurion swiveled instantly, its single optic eye contracting from search-yellow to kill-purple.
 
 "Unauthorized bio-sig. Handshake failed. Attempting reconnect to Cognis Control..."
 
