@@ -18,7 +18,7 @@ He grabbed a massive bulkhead plate and hurled it like a frisbee. It sheared thr
 
 The other two turned on him. Plasma bolts slammed into his shields.
 
-He activated jump-jets, launching from the dreadnought. He landed on an asteroid, used it as a springboard, and ignited the blade mid-flight.
+He activated jump-jets, launching from the dreadnought. He landed on an asteroid, used it as a springboard, and ignited the Lobotomizer mid-flight.
 
 He cut the second ship in half. Debris vented into space.
 

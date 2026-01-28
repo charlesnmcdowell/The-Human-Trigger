@@ -8,7 +8,7 @@
 - Wears a high-tech leather street-wear kimono and a custom backpack rigged to hold his specialized katana saya.
 
 **Weapon of Choice:**
-- A high-frequency Red Thermal Katana used for both combat and "creative entry" through hull plating.
+- **The Lobotomizer:** A high-frequency Violet Thermal Katana used for both combat and "creative entry" through hull plating. It screams with 140 decibels of unshielded plasma when drawn.
 
 **The Edge:**
 - Zero doesn't just pilot the NSFW-32; he treats its neural link like a terminal. His "Jailbreak" ability allows him to bypass AI safety limiters, pushing the mech's nuclear fusion core into the "Redline" for bursts of impossible speed.

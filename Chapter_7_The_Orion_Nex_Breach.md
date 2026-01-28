@@ -24,7 +24,7 @@ Suddenly, lights out. *// INTRUDER ALERT. //*
 
 "Jax, load the ship," Zero hissed.
 
-He ignited the katana. The Aces fired. He deflected a bolt and slashed at the leader’s leg. The armor held.
+He ignited the Lobotomizer. The Aces fired. He deflected a bolt with the flat of the violet blade and slashed at the leader’s leg. The armor held.
 
 "Refined durasteel," he laughed, backhanding Zero.
 

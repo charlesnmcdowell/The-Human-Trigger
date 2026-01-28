@@ -4,7 +4,7 @@ Zero ran the schematics in his head, overlaying the ship’s blueprints on his H
 
 He holed up in Server Node 7, a frozen room filled with backup drives. The cold numbed the burn in his lungs.
 
-He sat with his back against a rack, the katana across his knees. He ran a diagnostic on the blade—magnetic containment at 94%. It was leaking heat, singing the deck plating.
+He sat with his back against a rack, the Lobotomizer across his knees. He ran a diagnostic on the blade—magnetic containment at 94%. It was leaking heat, singing the deck plating with a faint, violet aura.
 
 "Impressive work in the airlock," a voice said.
 

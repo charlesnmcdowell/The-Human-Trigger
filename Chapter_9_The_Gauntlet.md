@@ -2,7 +2,7 @@
 
 Zero launched into the void. Synced at 150%.
 
-The interceptors swarmed. He *blinked*, warping space-time. He swung the fusion blade. Two interceptors vanished.
+The interceptors swarmed. He *blinked*, warping space-time. He swung the fusion blade. Two interceptors vanished in balls of violet fire.
 
 "Concentrate fire!" Silas ordered.
 

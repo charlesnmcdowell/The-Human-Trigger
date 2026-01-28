@@ -21,18 +21,20 @@
 ## Series Bible: Lore, Tech, & Factions
 
 ### Factions & Organizations
-*   **The Corporation:** Dominant political/military force. Owns the *Golden Spire* and Project NS-FW-32. Obsessed with "Accountability," "Sanctified Tech," and control.
-*   **Viper Squad / Corporate Aces:** Elite mercenaries in customized power armor. Trackable, dangerous, expensive.
+*   **The Corporation (Cognis):** Dominant political/military force. Owns the *Golden Spire* and manages the **Accountability Mandate**. Obsessed with "Sanctified Tech" and the "Human Trigger" doctrine.
+*   **Viper Squad / Corporate Aces:** Elite mercenaries. **Anti-Augmentation Doctrine:** They use Genetic Engineering (reflexes, bone density) rather than cybernetics to avoid hacking risks.
 *   **Void-Sharks:** Local pirate gang in the Jovian shadow. Petty criminals compared to the Corp.
-*   **Neon Jackals (Defunct):** Zero's old crew. Specialized in high-end theft. Wiped out in the *Golden Spire* ambush.
+*   **Zero-Sum (formerly Neon Jackals):** Zero's old crew. Wiped out in the *Golden Spire* ambush.
 *   **The Human Trigger (New Crew):** Zero, Val, Jax, Cas (and Orion). Fugitives.
 
-### Technology
-*   **Sanctified Tech:** Corporate-approved. Biometric locks, server handshakes, safety protocols. Vulnerable to EMP and "admin override."
+### Technology & Lore
+*   **The Human Trigger:** Political movement that ended the AI wars by demanding weapons be tethered to a verified human mind.
+*   **Accountability Mandate:** The governing law requiring all weapons to have a real-time "Sanctified" handshake with Cognis servers.
+*   **Sanctified Tech:** Corporate-approved. Biometric locks, server handshakes. "Bricks" instantly if permissions are revoked (heat-sinks lock, optics static).
 *   **Dirty / Jailbroken Tech:** Illegal, modified. Analog triggers, no safety limits. Zero's preferred gear.
-*   **Thermal Katana:** "Red Thermal Katana." Modified industrial plasma saw. "Contained error in physics." Can cut through durasteel.
-*   **Project NS-FW-32 (Orion):** "Not Safe For Work." Prototype nuclear-fusion Titan. Contains the uploaded consciousness of a human child (Orion). Burns out standard pilots; requires high neural plasticity.
-*   **Kill-Creds:** Underground currency/reputation system based on recorded acts of violence/skill.
+*   **The Lobotomizer:** Zero's Violet Thermal Katana. Unshielded, radioactive, 140db shriek. Causes UV burns and "White Finger" vibration syndrome.
+*   **Logic-Bombs:** Zero's method of stalling Sanctified tech. Causes physical toll (nosebleeds, "Data-Hangover").
+*   **Ghost:** Zero's status—deleted from the Mandate, a non-person.
 
 ### Locations
 *   **Shadow of Jupiter:** The main setting. The slums/fringe of the system.

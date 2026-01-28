@@ -4,7 +4,7 @@ Deck 12 was a war zone. Corporate security engaging a riot of indentured crew.
 
 "Chaos is a ladder," Zero whispered, dropping from the vent.
 
-He reached the rendezvous point. A docking bay airlock, welded shut. He ignited the blade. *SNAKT.* The plasma edge chewed through the mag-locks.
+He reached the rendezvous point. A docking bay airlock, welded shut. He ignited the Lobotomizer. *SNAKT.* The plasma edge chewed through the mag-locks, casting a sick purple light against the walls.
 
 He kicked the door in.
 

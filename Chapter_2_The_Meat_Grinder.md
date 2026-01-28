@@ -1,61 +1,49 @@
-# Chapter 2: The Meat Grinder
+Chapter 2: The Meat Grinder
 
-The heist was supposed to be a "Milk Run." In the Jovian belt, milk curdles before it hits the glass.
+The memory tasted of sulfur and ozone, a phantom sting that bit harder than the Sector 4 vents. Zero watched the bot’s cooling fluids pool on the deck plates and saw Rook’s blood instead.
 
-Zero's old crew, the *Neon Jackals*, were pros. **Rook**, the team lead, treated every mission brief like a sermon. **Kilo**, the demolitionist, wore high-explosive ordnance like jewelry.
+"You’re grinding the rail again, Zero," Rook had said. He was leaning against the airlock of the High-Roller, buffing the white ceramic finish of a Cognis smart-carbine with a piece of silk. "You’ll polish that steel into a needle before we even dock."
 
-They stood in the airlock of the *Golden Spire*. Zero checked his deck, verifying the loop on the camera feeds. The code scrolled across his retinal display—green, clean, and looped. "Systems green. Five-minute window."
+Zero didn't stop the rhythmic scrape of the whetstone. "The magnetic track on the saya has a three-millisecond delay. If the handshake fails, I need the friction to be zero. I don't trust the magnets. I don't trust the ship. And I definitely don't trust that bone-white toy in your lap."
 
-Rook checked the action on his smart-gun, the sanctified tech humming with a bio-metric handshake. "Keep the door open, kid."
+Rook tapped the glowing green 'Sanctified' seal on the carbine’s receiver. It pulsed in time with his heartbeat. "It feels me, Zero. The Human Trigger. Cognis engineering says this tracks a heartbeat through a meter of reinforced concrete. No AI. Just my intent, amplified."
 
-Kilo patted the satchel charge on her hip, wiring the detonator with a pair of delicate, silver pliers. "No promises on the noise, Samurai."
+"It’s the Accountability Mandate, Rook," Zero said, looking up. The whetstone went silent. "The 'law' is a line of code in a Cognis server. That gun is a leash. The Human Trigger wasn't meant to empower you; it was meant to monitor you. If Cognis decides your pulse is a liability, that weapon bricks. It’s not yours. It’s theirs."
 
-They moved out. Zero stayed behind, the digital gatekeeper. He watched them on the monitors, ghosting through the ship’s interior.
+"Then it’s a good thing we’re the best contractors they’ve got," Kilo called out from the back, her hands buried in the guts of a thermite charge. "Silas, tell the boy the math. He’s making me nervous with that 'doomsday' talk."
 
-The ambush started with a glitch.
+Silas didn't turn from the pilot’s console. He sat rigid, his eyes glazed in the milky-white sheen of a deep-data trance. Unlike the others, Silas was a "Pure," his brain genetically tuned for data-processing rather than augmented with chips. "The route is verified. The vault's security mesh is on a sub-routine loop. There are no variables, Zero. Only the payout."
 
-The feed flickered. One second, relaxed movement. The next, blinding white light.
+"There’s always a variable," Zero muttered. He slid the Lobotomizer into the saya. SNAKT. The magnetic lock caught with a heavy, industrial thud.
 
-"Contact!" Rook’s voice tore through the comms. "It’s a trap!"
+The transition to the Golden Spire was a blur of pressurized steam and the metallic tang of recycled air. They moved through the corridors like shadows—until they hit the vault threshold. The world didn't explode. It went silent.
 
-"Abort!" Zero screamed, hands flying across the controls, trying to override the blast doors.
+Rook raised his carbine to clear the corner, but the weapon let out a pathetic, electronic whine. The green seal turned a jagged, pulsing red. The smart-carbine’s internal heat-sinks shrieked and locked, fusing the firing pin into the chamber.
 
-"Negative! We’re pinned! EMP!"
+"My HUD," Rook gasped, stumbling as his targeting optics—linked to the carbine's sensors—dissolved into grey static. "I’m blind! The Mandate... it’s revoking my permissions!"
 
-The transmission cut to feedback. On the monitor, the pristine white walls turned into a slaughterhouse.
+"Abort!" Zero screamed, but the comms were dead.
 
-Corporate security used high-velocity flechette rounds. Rook’s "sanctified" smart-gun locked up under the EMP. He fell trying to shield Kilo. Kilo tried to pull a manual pin, but a sniper round took her in the throat.
+"The math changed, Rook," Silas’s voice echoed once over the emergency channel, sounding thin and far away. "Cognis offered a Debt-Correction. A clean slate for my family. I’m just balancing the ledger."
 
-She fell, the charge rolling away.
+Then the ceiling vents hissed open.
 
-Zero stood in the airlock, frozen. *They’re gone.*
+The 'Cleaners' emerged. They weren't machines; they were the military's nightmare. Seven-foot-tall biological anomalies with hyper-oxygenated blood and skin grafted with sub-dermal carbon mesh. No cybernetics. No hackable limbs. Just raw, genetically-perfected violence.
 
-The airlock door hissed.
+A flechette burst caught Rook in the chest. Without his armor's active-integrity fields—which had also bricked—the ceramic plates shattered like glass. The needles turned his torso into a spray of red mist. Kilo didn't even scream; a sniper round from the high gallery—Silas’s perch—took her before she could touch the det-cord.
 
-Zero spun, hand going to his katana. He thumbed the activation stud, feeling the magnetic coils charge.
+Zero stood in the center of the slaughter. A Cleaner turned toward him, its unnaturally pale eyes tracking him with the cold focus of a predator. It raised a sidearm, the barrel spinning up.
 
-Three Corporate Black-Ops soldiers stepped through the steam.
+Zero leaned into the "Flow." He slammed his mind into the room's mesh, dropping a Logic-Bomb that forced a recursive handshake error on the Cleaner's weapon. The sidearm groaned, its Cognis firmware locking the trigger in a safety-loop.
 
-"Target identified," the lead soldier rasped. "The Hacker. Secure him."
+The Cleaner didn't panic. It dropped the gun and reached for a combat knife, its genetically-enhanced muscles coiling.
 
-They raised their pulse-rifles.
+Zero’s hand hit the hilt. He thought about the three milliseconds of friction he’d polished away.
 
-Zero looked at his hand on the hilt. A weapon made of scrap. No circuit board. No "off" switch.
+The Lobotomizer cleared the saya with a scream that tore the air. A violent, ionizing violet light erupted from the steel, turning the vault into a bruised indigo nightmare. 140 decibels of unshielded plasma shrieked through the room, blowing out the human guards' audio-filters.
 
-"Secure this," Zero whispered.
+Zero felt the acoustic shutters in his ears snap shut, plunging him into a vacuum of silence. He moved on the vibration of the deck. He wasn't faster than the genetic freak, but he was the only thing in the room the Mandate couldn't reach. He drove the violet steel through the Cleaner’s chest. The blade didn't cut; it boiled through the sub-dermal mesh and the heart beneath.
 
-He moved. The "Flow" took him—an inferno. He closed the distance. The thermal blade flashed.
+The violet glow reflected in the pooling blood, a jagged neon scar. The skin on Zero's forearms prickled and reddened—instant UV burns from the dirty blade.
 
-The soldier’s rifle was sliced in half. The soldier followed.
-
-The other two opened fire. Zero became the wind, sliding under a burst of plasma. He came up spinning, the katana a whirlwind of red death.
-
-He fought with the rage of a boy from the Scrap-Vats. He carved through the armor, through the flesh.
-
-When it was over, Zero stood alone in the airlock, surrounded by three corpses. The alarm blared.
-
-He looked at the monitor one last time. Rook and Kilo were still there.
-
-"I’m sorry," Zero whispered.
-
-He turned and ran deeper into the *Golden Spire*.
+Rook had wanted a legacy. He’d found a ledger instead.
