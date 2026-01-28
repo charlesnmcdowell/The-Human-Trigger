@@ -32,7 +32,11 @@
 *   **Accountability Mandate:** The governing law requiring all weapons to have a real-time "Sanctified" handshake with Cognis servers.
 *   **Sanctified Tech:** Corporate-approved. Biometric locks, server handshakes. "Bricks" instantly if permissions are revoked (heat-sinks lock, optics static).
 *   **Dirty / Jailbroken Tech:** Illegal, modified. Analog triggers, no safety limits. Zero's preferred gear.
-*   **The Lobotomizer:** Zero's Violet Thermal Katana. Unshielded, radioactive, 140db shriek. Causes UV burns and "White Finger" vibration syndrome.
+*   **The Lobotomizer:** Zero's Violet Thermal **Odachi** (Greatsword). A five-foot nightmare of unshielded engineering.
+    *   **Visuals:** Massive, two-handed field sword. Spine features exposed staged magnetic induction coils glowing bruised-indigo.
+    *   **Effect:** Creates a shimmering, violet "corona" of ionized plasma. Hisses like vipers.
+    *   **Physical Toll:** Causes UV burns and "White Finger" vibration syndrome. 140db shriek.
+    *   **Feel:** A localized meltdown held in a magnetic bottle.
 *   **Logic-Bombs:** Zero's method of stalling Sanctified tech. Causes physical toll (nosebleeds, "Data-Hangover").
 *   **Ghost:** Zero's status—deleted from the Mandate, a non-person.
 

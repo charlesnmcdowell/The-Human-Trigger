@@ -1,22 +1,22 @@
-Chapter 2: The Meat Grinder
+# Chapter 2: The Meat Grinder
 
 The memory tasted of sulfur and ozone, a phantom sting that bit harder than the Sector 4 vents. Zero watched the bot’s cooling fluids pool on the deck plates and saw Rook’s blood instead.
 
-"You’re grinding the rail again, Zero," Rook had said. He was leaning against the airlock of the High-Roller, buffing the white ceramic finish of a Cognis smart-carbine with a piece of silk. "You’ll polish that steel into a needle before we even dock."
+"You’re grinding the rail again, Zero," Rook had said. He was leaning against the airlock of the *High-Roller*, buffing the white ceramic finish of a Cognis smart-carbine with a piece of silk. "You’ll polish that steel into a needle before we even dock."
 
 Zero didn't stop the rhythmic scrape of the whetstone. "The magnetic track on the saya has a three-millisecond delay. If the handshake fails, I need the friction to be zero. I don't trust the magnets. I don't trust the ship. And I definitely don't trust that bone-white toy in your lap."
 
-Rook tapped the glowing green 'Sanctified' seal on the carbine’s receiver. It pulsed in time with his heartbeat. "It feels me, Zero. The Human Trigger. Cognis engineering says this tracks a heartbeat through a meter of reinforced concrete. No AI. Just my intent, amplified."
+Rook tapped the glowing green 'Sanctified' seal on the carbine’s receiver. It pulsed in time with his heartbeat. "It feels me, Zero. The Human Trigger. Cognis engineering says this tracks a heartbeat through a meter of reinforced concrete. No AI. Just my intent, amplified. That's the Mandate's promise—no machines deciding who dies. Only us."
 
-"It’s the Accountability Mandate, Rook," Zero said, looking up. The whetstone went silent. "The 'law' is a line of code in a Cognis server. That gun is a leash. The Human Trigger wasn't meant to empower you; it was meant to monitor you. If Cognis decides your pulse is a liability, that weapon bricks. It’s not yours. It’s theirs."
+"It’s the Accountability Mandate, Rook," Zero said, looking up. The whetstone went silent. "The 'law' is a line of code in a Cognis server. That gun is a leash. The Human Trigger wasn't meant to empower you; it was meant to monitor you. If Cognis decides your pulse is a liability, that weapon bricks. The heat-sinks lock, the optics turn to static, and you're left holding a very expensive club. It’s not yours. It’s theirs."
 
 "Then it’s a good thing we’re the best contractors they’ve got," Kilo called out from the back, her hands buried in the guts of a thermite charge. "Silas, tell the boy the math. He’s making me nervous with that 'doomsday' talk."
 
 Silas didn't turn from the pilot’s console. He sat rigid, his eyes glazed in the milky-white sheen of a deep-data trance. Unlike the others, Silas was a "Pure," his brain genetically tuned for data-processing rather than augmented with chips. "The route is verified. The vault's security mesh is on a sub-routine loop. There are no variables, Zero. Only the payout."
 
-"There’s always a variable," Zero muttered. He slid the Lobotomizer into the saya. SNAKT. The magnetic lock caught with a heavy, industrial thud.
+"There’s always a variable," Zero muttered. He slid the Lobotomizer into the saya. *SNAKT.* The magnetic lock caught with a heavy, industrial thud.
 
-The transition to the Golden Spire was a blur of pressurized steam and the metallic tang of recycled air. They moved through the corridors like shadows—until they hit the vault threshold. The world didn't explode. It went silent.
+The transition to the *Golden Spire* was a blur of pressurized steam and the metallic tang of recycled air. They moved through the corridors like shadows—until they hit the vault threshold. The world didn't explode. It went silent.
 
 Rook raised his carbine to clear the corner, but the weapon let out a pathetic, electronic whine. The green seal turned a jagged, pulsing red. The smart-carbine’s internal heat-sinks shrieked and locked, fusing the firing pin into the chamber.
 
@@ -28,7 +28,7 @@ Rook raised his carbine to clear the corner, but the weapon let out a pathetic, 
 
 Then the ceiling vents hissed open.
 
-The 'Cleaners' emerged. They weren't machines; they were the military's nightmare. Seven-foot-tall biological anomalies with hyper-oxygenated blood and skin grafted with sub-dermal carbon mesh. No cybernetics. No hackable limbs. Just raw, genetically-perfected violence.
+The 'Cleaners' emerged. They weren't machines; they were the military's nightmare. Seven-foot-tall biological anomalies with hyper-oxygenated blood and skin grafted with sub-dermal carbon mesh. No cybernetics. No hackable limbs. Just raw, genetically-perfected violence designed to bypass the hacking vulnerabilities of the cyborg era.
 
 A flechette burst caught Rook in the chest. Without his armor's active-integrity fields—which had also bricked—the ceramic plates shattered like glass. The needles turned his torso into a spray of red mist. Kilo didn't even scream; a sniper round from the high gallery—Silas’s perch—took her before she could touch the det-cord.
 
@@ -40,9 +40,9 @@ The Cleaner didn't panic. It dropped the gun and reached for a combat knife, its
 
 Zero’s hand hit the hilt. He thought about the three milliseconds of friction he’d polished away.
 
-The Lobotomizer cleared the saya with a scream that tore the air. A violent, ionizing violet light erupted from the steel, turning the vault into a bruised indigo nightmare. 140 decibels of unshielded plasma shrieked through the room, blowing out the human guards' audio-filters.
+The Lobotomizer cleared the saya with a scream that tore the air. It was an odachi, a greatsword of the old world reborn in violet fire. A violent, ionizing purple light erupted from the five-foot steel spine, turning the vault into a bruised indigo nightmare. 140 decibels of unshielded plasma shrieked through the room, blowing out the human guards' audio-filters.
 
-Zero felt the acoustic shutters in his ears snap shut, plunging him into a vacuum of silence. He moved on the vibration of the deck. He wasn't faster than the genetic freak, but he was the only thing in the room the Mandate couldn't reach. He drove the violet steel through the Cleaner’s chest. The blade didn't cut; it boiled through the sub-dermal mesh and the heart beneath.
+Zero felt the acoustic shutters in his ears snap shut, plunging him into a vacuum of silence. He moved on the vibration of the deck. He wasn't faster than the genetic freak, but he had reach. He swung the massive odachi in a wide, decapitating arc. The blade didn't cut; it boiled through the sub-dermal mesh and the heart beneath.
 
 The violet glow reflected in the pooling blood, a jagged neon scar. The skin on Zero's forearms prickled and reddened—instant UV burns from the dirty blade.
 
