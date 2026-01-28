@@ -1,51 +1,69 @@
 # Chapter 7: The Orion-Nex Breach
 
-"We need supplies," Jax rumbled.
+"We're running on fumes," Jax rumbled, checking the *Rusty Nail*'s diagnostics. "And we're out of protein packs. I can't work on an empty stomach."
 
-"Orion-Nex," Zero said. "Corporate supply depot. Minimal security."
+"Orion-Nex," Zero said, pulling up a star chart. "It's a Tier-2 Corporate supply depot. Automated. Minimal security."
 
-"Orion-Nex," Jax nodded. "Weak foundations. I welded those beams."
+Jax nodded. "I know it. Weak foundations in the loading bay. I welded those beams myself back in the day."
 
-"I can get us in through a vent," Zero said.
+"I can get us in through a vent," Zero said. "Simple in-and-out."
 
 ***
 
-Zero crawled through the tight shaft. "I'm in."
+Zero crawled through the tight maintenance shaft, the air stale and metallic. He reached the grate overlooking the warehouse floor and popped it. "I'm in," he whispered over the comms. "Opening bay doors."
 
-He dropped into the warehouse. "Opening bay doors."
+Jax moved onto the loading floor, his "Dread-Plate" armor whining under the strain. The massive exoskeleton, with its hazard-striped pauldrons and hydraulic pistons, allowed him to lift pallets that would have crushed a standard forklift. He worked with the rhythmic efficiency of a machine, stacking crates of supplies near the airlock.
 
-Jax loaded crates, his "Dread-Plate" armor whining under the strain. The massive exoskeleton allowed him to lift pallets that would have crushed a standard forklift.
+Suddenly, the warehouse went black.
 
-Suddenly, lights out. *// INTRUDER ALERT. //*
+*// INTRUDER ALERT. LOCKDOWN INITIATED. //*
 
-**Viper Squad.** Four mercenaries in power armor.
+Red emergency lights bathed the room in blood.
 
-"The Human Trigger," the leader boomed. "Price on your head."
+"Company," Zero hissed, dropping into a combat stance.
 
-"Jax, load the ship," Zero hissed.
+**Viper Squad.**
 
-He ignited the Lobotomizer. The Aces fired. He deflected a bolt with the flat of the violet blade and slashed at the leader’s leg. The armor held.
+Four figures emerged from the shadows. They moved with an unnatural, fluid grace—no mechanical stiffness, no servo-whine. They wore sleek, kinetic-dampening armor.
 
-"Refined durasteel," he laughed, backhanding Zero.
+"The Human Trigger," the leader's voice boomed, amplified. "There's a high price on your head."
 
-Zero hit a crate. Ribs screamed.
+"Jax, load the ship," Zero commanded. "I'll buy you time."
 
-"Zero!" Val yelled.
+"They're Corporate Aces," Jax warned, not stopping his work. "Gen-Mods. Be careful."
 
-"Cas! Drop the Titan!" Zero screamed.
+Zero ignited the Lobotomizer. "Let's see if your nervous system has a firewall."
 
-"You'll depressurize the station!"
+He focused, pushing the logic packet at the leader, trying to crash his motor cortex. *Breathe. Sync. Crash.*
+
+Nothing happened. The leader didn't stumble. His armor didn't freeze.
+
+"Cyber-Pure," Zero realized, a cold knot forming in his stomach. "No neural jacks. No handshakes."
+
+The Ace fired a plasma bolt. Zero deflected it with the flat of his blade, the magnetic field shoving the superheated gas aside, but the impact jarred his shoulder. He slashed at the leader’s leg, but the refined durasteel armor held, sparks showering the floor.
+
+"Refined durasteel," the Ace laughed, backhanding Zero with a gauntleted fist.
+
+Zero hit a crate, his ribs screaming in protest. He rolled, barely dodging a follow-up stomp that cracked the concrete floor.
+
+"Zero!" Val yelled over the comms. "We're clear, but you're pinned!"
+
+"Cas! Drop the Titan!" Zero screamed, spitting blood.
+
+"You'll depressurize the station!" Cas argued.
 
 "DO IT!"
 
-The ceiling tore open. **Hades dropped.**
+The ceiling tore open with a deafening screech of rending metal. Emergency shutters slammed down as debris rained onto the deck, followed by forty tons of fusion-powered consequences. **Hades dropped.**
 
-Zero scrambled into the cockpit. *// HELLO, ZERO. //*
+The impact shook the entire station. Zero scrambled up the gantry and vaulted into the open cockpit.
 
-He punched the leader into the wall. "Leave."
+*// HELLO, ZERO. //*
 
-They ran.
+"Time to go," Zero growled.
 
-We escaped.
+The Titan moved. Zero punched the Ace leader, sending him flying into the far wall with a wet crunch. "Get out of my way."
 
-"You reckless idiot," Val snapped. "But good catch on the drop."
+He grabbed the pallet of supplies Jax had prepped and fired the jump-jets, blasting out through the hole in the roof.
+
+"You reckless idiot," Val snapped as they docked. "But good catch on the drop."

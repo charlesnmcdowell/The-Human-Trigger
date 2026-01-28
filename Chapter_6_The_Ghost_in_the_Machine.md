@@ -1,43 +1,51 @@
 # Chapter 6: The Ghost in the Machine
 
-The Void-Sharks opened fire.
+The Void-Sharks didn't fight like soldiers; they fought like piranhas. The three skiffs accelerated, their plasma cannons lighting up the gloom of the graveyard.
 
-"Contacts!" Val called. "Jax, dorsal turrets. Cas, jam comms."
+"Contacts!" Val called out, her hands flying across the pilot's console. "Jax, man the dorsal turrets. Cas, jam their comms. I don't want them calling for backup."
 
-"On it," Cas said. "Deploying countermeasures."
+"On it," Cas chirped, her fingers dancing over her chaotic rig. "Deploying electronic countermeasures. Let's give them some static."
 
-Zero stood on the hull. The skiffs strafed the *Rusty Nail*.
+Zero stood on the hull of the dreadnought, the Titan a massive silhouette against the starlight. The skiffs strafed the *Rusty Nail*, their shots splashing against the ship's shields.
 
 He locked onto the lead skiff. "Hades. Target solution."
 
 *// PROBABILITY OF INTERCEPT: 94%. //*
 
-He grabbed a massive bulkhead plate and hurled it like a frisbee. It sheared through the skiff’s engine. Explosion.
+Zero didn't wait. He grabbed a massive, loose bulkhead plate from the dreadnought's surface—a slab of iron the size of a bus—and hurled it. The improvised projectile spun through the void, colliding with the lead skiff's engine block. The ship sheared in half, blossoming into a silent fireball.
 
-"One down."
+"One down," Zero noted.
 
-The other two turned on him. Plasma bolts slammed into his shields.
+The other two skiffs turned their attention to the Titan. Plasma bolts slammed into his shields, rocking the mech.
 
-He activated jump-jets, launching from the dreadnought. He landed on an asteroid, used it as a springboard, and ignited the Lobotomizer mid-flight.
+Zero activated the jump-jets. He launched from the dreadnought, soaring through the vacuum. He landed on a drifting asteroid, used it as a springboard, and ignited the fusion blade mid-flight. He became a kinetic missile, closing the distance before the pirates could track his vector.
 
-He cut the second ship in half. Debris vented into space.
+He cut the second ship in half. The tungsten blade met no resistance. Debris and atmosphere vented into space, freezing instantly.
 
-The third skiff fled.
+The third skiff didn't stick around. It fired its thrusters, vanishing into the dense debris field.
 
-He returned to the ship.
+Zero returned to the *Rusty Nail*, the adrenaline fading into a dull ache.
 
-"Cas," Zero said. "I found a ghost in the code. Encrypted."
+***
 
-Cas jacked in. "Pre-War encryption. Give me ten minutes."
+"Cas," Zero said later, sitting in the mess hall. He rubbed his temples, the phantom weight of the neural link still pressing on his mind. "I found a ghost in the code. Encrypted. Deep in the core."
 
-She played the log.
+Cas jacked her deck into the Titan's access port. "Pre-War encryption," she muttered, her eyes darting across her screens. "Nasty stuff. Give me ten minutes."
 
-*"This is Dr. Aris Thorne. I uploaded him. My son. Orion. He's not a weapon. He's a child."*
+It took five.
 
-"Orion," Zero whispered.
+"You need to hear this," Cas said, her voice unusually quiet. She played the audio log.
 
-*// DESIGNATION UPDATE: ORION. //*
+*"This is Dr. Aris Thorne. I uploaded him. My son. Orion. He's not a weapon. He's a child. They wanted a targeting computer. I gave them a soul."*
 
-"We just stole a kid," Cas whispered.
+Silence filled the room.
 
-"We keep this secret," Zero said. "Val might try to return him."
+"Orion," Zero whispered. The name felt heavy.
+
+*// DESIGNATION UPDATE: ORION. //* The text scrolled across Cas's screen.
+
+"We just stole a kid," Cas whispered, looking up at Zero.
+
+"We keep this secret," Zero said, glancing at the door where Val was working. "Val is a professional. She might try to return 'The Asset' if she thinks it's the right thing to do. Or if the price is right."
+
+"We keep him," Cas agreed.

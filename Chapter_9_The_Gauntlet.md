@@ -1,29 +1,57 @@
 # Chapter 9: The Gauntlet
 
-Zero launched into the void. Synced at 150%.
+"Launching!" Zero yelled.
 
-The interceptors swarmed. He *blinked*, warping space-time. He swung the fusion blade. Two interceptors vanished in balls of violet fire.
+The cargo bay doors blasted open, and the Titan shot out into the void, its thrusters screaming. Zero synced instantly, the white noise of the connection flooding his mind.
 
-"Concentrate fire!" Silas ordered.
+*// ORION READY. //*
 
-The cruiser fired turbo-lasers. Val barrel-rolled the *Rusty Nail*.
+"Let's clear a path," Zero said.
 
-"I need a hole!" Val yelled.
+The interceptors swarmed like angry hornets. Zero didn't try to outmaneuver them; he went through them. He pushed the Titan's thrusters to 150%, the g-force threatening to crush him against the pilot's couch.
 
-"I'll make one."
+He ignited the fusion blade. In the vacuum of space, the plasma edge was a silent, blinding line of violet destruction. He swung the massive sword, cleaving an interceptor in two as he roared past. The explosion was a brief, expanding sphere of gas that vanished as quickly as it appeared.
 
-Zero charged the cruiser, weaving through point-defense fire. He landed on the bridge viewports. He saw Silas.
+"Concentrate fire on the prototype!" Silas's voice cut through the open comms channel.
+
+The lead cruiser fired its turbo-lasers. Beams of coherent light slashed through the dark.
+
+"I can't shake them!" Val yelled over the comms. "Shields are at 30%!"
+
+"I need a hole!" Zero gritted out, deflecting a laser blast with the Titan's energy shield.
+
+"I can't make one!"
+
+"Then I will."
+
+Zero cut the thrusters and flipped the Titan 180 degrees. He locked onto the command cruiser—Silas's ship.
+
+"Hades... I mean, Orion. Divert all power to the jump-jets."
+
+*// WARNING. SAFETY LIMITS EXCEEDED. //*
+
+"Do it!"
+
+Zero engaged the jets. The Titan became a meteor, streaking toward the cruiser. Point-defense cannons filled the space around him with flak, but he weaved through the fire, the Scrapper's Flow guiding his hands.
+
+He didn't fire at the ship. He landed on it.
+
+The Titan's magnetic clamps locked onto the cruiser's bridge viewports with a bone-jarring thud. Zero looked through the reinforced glass. He saw Silas, standing on the bridge, his eyes wide with genuine shock.
+
+Zero raised the fusion blade. He channeled the reactor's output into the edge, turning the tungsten white-hot.
 
 "Transaction denied," Zero whispered.
 
-He struck the shield generator. Shields collapsed.
+He drove the blade down. It didn't pierce the hull—it overloaded the shield generator directly beneath the bridge. A massive feedback loop surged through the cruiser's systems. Lights blew out. Engines stalled. The ship drifted, dead in the water.
 
-"NOW!"
+"NOW!" Zero screamed.
 
-The *Rusty Nail* shot past. Zero jumped off, slashing three missiles that locked onto him.
+The *Rusty Nail* shot past the disabled cruiser, its engines flaring blue as Val punched the warp drive.
 
-Jax grabbed him with the mag-locks.
+Zero disengaged the mag-clamps and pushed off the hull, firing his maneuvering thrusters to match the ship's vector.
 
-"Jump!"
+"Gotcha!" Jax yelled. The cargo bay's tractor beam locked onto the Titan, reeling it in like a massive fish.
 
-We were gone.
+"Jump!" Val commanded.
+
+The stars elongated into streaks of light. The blockade vanished. They were gone.

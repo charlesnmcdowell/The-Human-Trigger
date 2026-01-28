@@ -1,71 +1,61 @@
 # Chapter 5: The Haywire Graveyard
 
-The white faded to static.
+The white light of the neural sync collapsed into the jagged static of a rejected handshake. The AI didn't speak; it screamed, a digital shriek tearing through Zero's frontal lobe.
 
 *// UNRECOGNIZED USER. PURGE PROTOCOL INITIATED. //*
 
-The AI screamed in Zero's frontal lobe.
+"Denied," Zero gritted out, his teeth clenched against the phantom pain of his synapses misfiring. "Handshake override."
 
-"Denied," Zero gritted out. "Handshake override."
+*// AUTHORIZATION INVALID. BIOMETRIC MISMATCH. //*
 
-*// AUTHORIZATION INVALID. //*
-
-He fought the code with *feeling*. He visualized the Scrap-Vats. The flow. He pushed that sensation into the link.
+The mech was trying to cook his brain. It wasn't designed for a human mind; it was designed to consume one. Zero fought the code with *feeling*, visualizing the radioactive sludge of the Scrap-Vats, the chaotic rhythm of the Flow. He didn't ask for permission; he forced his consciousness into the machine's architecture like a pry-bar.
 
 *// ANOMALY DETECTED. SYNC ESTABLISHED. //*
 
-His eyes snapped open. He *was* the Titan.
+His eyes snapped open. He wasn't sitting in a cockpit anymore. He *was* the Titan. He felt the fusion core beating in his chest, the hydraulic fluid pumping through his veins, the thick armor plating serving as a second skin.
 
-"Green board," Zero said.
+"Green board," Zero said, his voice echoing in the metallic skull of the machine.
 
-"We've got company," Val crackled. "Move the Asset!"
+"We've got company," Val's voice crackled over the comms, sharp and urgent. "Corporate security is breaching the bay doors. Move the Asset!"
 
-Zero walked the NSFW-32 out. A squad of Centurions formed a firing line.
+Zero willed the machine forward. The NSFW-32 moved with a heavy, terrifying grace. He stepped out of the containment hold just as a squad of Centurions formed a firing line.
 
-"Hades," Zero whispered. "Let's dance."
+"Hades," Zero whispered, tasting the name. "Let's dance."
 
-He drew the fusion blade. A skyscraper of sharpened tungsten.
+He drew the fusion blade. It was a skyscraper of sharpened tungsten wrapped in a containment field, humming with the power of a small star.
 
-The Centurions fired. Bullets sparked off his hull.
+The Centurions opened fire. Bullets sparked harmlessly off his matte-black hull, buzzing like angry flies.
 
-He moved. The Scrapper’s Flow translated. He sidestepped a rocket and brought the blade down. The floor split. The Centurions evaporated.
+Zero moved. The Scrapper’s Flow translated perfectly through the neural link. He didn't plod like a tank; he sidestepped a rocket with the agility of a duelist and brought the massive blade down in a thunderous arc. The deck plating split with a scream of tearing metal. The Centurions didn't just break; they evaporated in the thermal wash.
 
-"Holy..." Jax breathed.
+"Holy..." Jax breathed over the channel.
 
-Zero engaged jump-jets and landed on the *Rusty Nail*.
+"Asset secured," Zero said. He engaged the jump-jets, the sudden g-force slamming him into the pilot's couch as the Titan launched itself onto the cargo ramp of the *Rusty Nail*.
 
 "Punching it!" Val yelled.
 
-We blasted into space.
-
-"What do we call you?" Zero asked the empty cockpit.
-
-*// DESIGNATION: NS-FW-32. //*
-
-"How about... Hades?"
-
-*// DESIGNATION ACCEPTED. //*
+The ship lurched, engines screaming as they blasted out of the dock and into the void.
 
 ***
 
-We emerged in the **Haywire Graveyard**. A debris field of shattered warships.
+The *Rusty Nail* dropped out of warp in the **Haywire Graveyard**, a radioactive reef of shattered warships and orbital debris. It was a place where sensors went to die and ghosts came to hide.
 
-"We need to calibrate," Zero said. "Hades is running hot."
+"We need to calibrate," Zero said, his voice sounding thin in the quiet cockpit. "Hades is running hot."
 
-He walked Hades onto a derelict dreadnought. He went deep into the code, burning through safety protocols with his mind.
+He walked the Titan onto the hull of a derelict dreadnought, the magnetic clamps in the mech's feet locking onto the rusted iron. He dove deep into the code, burning through safety protocols with his mind, stripping away the limiters that Cognis had installed.
 
 *// WARNING. CORE INTEGRITY AT RISK. //*
 
-"Trust me."
+"Trust me," Zero whispered to the machine.
 
-He pushed the core to the redline.
+He pushed the core to the redline, feeling the heat bleed into the cockpit.
 
 *// SYNCHRONIZATION: 120%. //*
 
-Warning klaxon.
+A warning klaxon blared in the ship's cockpit.
 
-*// PROXIMITY ALERT. //*
+"Proximity alert!" Cas yelled. "Contacts emerging from the debris!"
 
-Three Void-Shark skiffs emerged from the debris.
+Three Void-Shark skiffs drifted out of the shadows, their jagged hulls painted with tribal warnings. Scavengers. Bottom feeders.
 
-"Live-fire exercise," Zero said.
+"Live-fire exercise," Zero said, the fusion blade igniting with a snap-hiss that vibrated through the hull.

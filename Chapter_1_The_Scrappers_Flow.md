@@ -1,9 +1,9 @@
 Chapter 1: The Scrapper’s Flow
-The blade Zero called 'The Lobotomizer' hungry-growled against the magnetic lock of the saya. It wasn't a standard katana; it was an Odachi—a massive, two-handed field sword with a blade length that bordered on the suicidal. Zero felt the vibration in his molars, a violet-hot itch demanding to be scratched. His hands suffered from "White Finger"—a permanent, low-level tremor caused by the unshielded magnetic induction coils lining the blade's spine.
+The blade Zero called 'The Lobotomizer' hungry-growled against the magnetic lock of the saya. It was an Odachi—a massive, two-handed field sword with a blade length that bordered on the suicidal. Zero felt the vibration in his molars, a violet-hot itch demanding to be scratched. His hands suffered from "White Finger"—a permanent, low-level tremor caused by the unshielded magnetic induction coils lining the blade's spine.
 
 Sector 4 smelled of sulfur and wet rust—the scent of a ship dying slowly. It was an abandoned hydroponics bay, the walls slick with black mold that ate radiation and bled sludge onto the deck plates. Below Zero, the Centurion-class enforcement bot prowled through the overgrown, rotting vines like a metallic panther. The Cognis logo—a stylized eye trapped in a crosshair—gleamed on its chassis under the flicker of dying emergency lights.
 
-Zero checked his thermal readout. 98%. The unshielded plasma edge would burn at 3,000 Kelvin. It wasn't 'Sanctified'—Corporate-approved and safety-locked. It was a piece of industrial salvage he'd stripped of every limiter that kept a user from being cooked alive by their own weapon. He was here for one thing, The payout, a Class-4 Micro-Fusion Cell beating inside the bot’s chest.
+Zero checked his thermal readout. 98%. The unshielded plasma edge would burn at 3,000 Kelvin. Far from 'Sanctified', this was a piece of industrial salvage he'd stripped of every limiter that kept a user from being cooked alive by their own weapon. He was here for one thing: the payout, a Class-4 Micro-Fusion Cell beating inside the bot’s chest.
 
 His pulse hammered against his ribs. He prepared the Logic-Bomb in his neural deck.
 
@@ -38,11 +38,11 @@ He triggered the release.
 
 SNAKT.
 
-The Lobotomizer cleared the sheath, and the hydroponics bay turned into an ultraviolet hellscape. The air didn't just blister; it delaminated. The five-foot blade shrieked at 140 decibels, the sound of the staged induction coils fighting to keep the plasma edge from expanding and consuming Zero himself. A violent, ionizing violet light erupted from the oversized steel, casting harsh, jagged shadows.
+The Lobotomizer cleared the sheath, and the hydroponics bay turned into an ultraviolet hellscape. The air delaminated, blistering under the heat. The five-foot blade shrieked at 140 decibels, the sound of the staged induction coils fighting to keep the plasma edge from expanding and consuming Zero himself. A violent, ionizing violet light erupted from the oversized steel, casting harsh, jagged shadows.
 
-Zero didn't just swing it; he steered a five-foot high-voltage arc. As the blade moved, it left a "plasma-wake" in the air—a shimmering trail of violet ozone that stayed burned into the retinas.
+Zero swung the massive weapon, steering a five-foot high-voltage arc. As the blade moved, it left a "plasma-wake" in the air—a shimmering trail of violet ozone that stayed burned into the retinas.
 
-He drove the blade upward. The Lobotomizer didn't meet the bot’s waist; it boiled through it. There was no resistance, only the sound of high-pressure hydraulic fluid flash-vaporizing into a toxic, purple mist. The thermal bloom was so intense that the deck plates beneath the bot’s feet began to slag, turning red-hot in a perfect semi-circle.
+He drove the blade upward. The Lobotomizer boiled through the bot’s waist with no resistance, only the sound of high-pressure hydraulic fluid flash-vaporizing into a toxic, purple mist. The thermal bloom was so intense that the deck plates beneath the bot’s feet began to slag, turning red-hot in a perfect semi-circle.
 
 Momentum carried him past the ruin. He came up in a crouch, his skin prickling from the UV radiation bleeding off the unshielded blade—a nasty sunburn he'd feel for days. The heat-sinks on the sword's hilt glowed a dull, angry orange.
 

@@ -1,27 +1,45 @@
 # Chapter 8: The NSFW Awakening
 
-"I need to know what he is," Val said in the mess hall. "That wasn't programming."
+"I need to know what he is," Val said, her voice tight. The mess hall was quiet, save for the hum of the ship's reactor. "The telemetry from the last fight... that wasn't programming. Algorithms don't hesitate. They don't protect."
 
-"It's a mech," Zero said.
+"It's a mech, Val," Zero said, nursing a bulb of synthetic whiskey. "It's hardware."
 
-"My father worked on the Ghost Protocol," Val said. "If that thing has a human consciousness, it's a prisoner."
+"My father worked on the Ghost Protocol," Val countered, staring at the holographic display of the Titan's core. "He told me about the theory. Mapping a human consciousness to a neural network. If that thing has a human consciousness, it's not a weapon. It's a prisoner."
 
-Zero looked at Cas. "You're right. His name is Orion."
+Zero looked at Cas. The hacker was curled up in her chair, hugging a plushie, her face pale.
 
-Val sank into her chair. "We have to get him out."
+"You're right," Cas whispered, her usual manic energy gone. "I cracked the encryption. His name is Orion. He was seven years old when they... uploaded him."
 
-"We can't," Cas said. "He *is* the core."
+Val sank into her chair, the color draining from her face. "We have to get him out."
 
-"We keep him," Zero said. "We become pirates."
+"We can't," Cas said, shaking her head. "He *is* the core. The code and the consciousness are fused. If we try to extract him, the data degrades. He dies."
 
-Proximity alert. **Silas.** A corporate blockade.
+"So we keep him," Zero said, his voice hard. "We don't sell him to Silas. We don't return him to Cognis. We become pirates."
 
-"Surrender the Asset," Silas hailed. "You were bringing the prototype to me for testing."
+"Piracy implies we have a choice," Jax rumbled from the corner, cleaning his bayonet. "We're already fugitives."
 
-"No," Zero said.
+Suddenly, the ship's proximity alarm screamed. Red light washed over the mess hall.
 
-"Val, can you fly through that?"
+"Contacts!" Val yelled, sprinting for the cockpit. "Multiple signatures. Corporate Blockade class."
 
-Val smiled. "I can fly through hell."
+Zero followed her, sliding into the co-pilot seat. The viewscreen showed a wall of steel—three Cognis cruisers and a swarm of interceptors blocking their vector.
 
-Zero ran to the cargo bay.
+A hail opened. Silas's face appeared on the HUD, calm, collected, and terrifyingly polite.
+
+"Zero," Silas said. "You're off course. Bring the prototype to the designated coordinates. I have a team ready to strip it down for analysis."
+
+"Analysis?" Zero spat. "You mean dissection."
+
+"It's a machine, Zero," Silas said, adjusting his cuff. "Don't anthropomorphize the inventory. Surrender the Asset, and I'll wipe your debt. All of you."
+
+"No," Zero said. "The Asset has a name. And he's not for sale."
+
+Silas sighed, looking disappointed. "Then I'm afraid the audit is over. All units... liquidate the debt."
+
+The cruisers' weapon ports glowed blue.
+
+"Val," Zero said, looking at the pilot. "Can you fly through that?"
+
+Val’s hands danced over the controls, her eyes locked on the wall of death ahead. A grim smile touched her lips.
+
+"I can fly through hell," she said. "Hold on."
