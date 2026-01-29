@@ -1,8 +1,10 @@
 # Chapter 4: The Outlaw Link
 
-Deck 12 was a war zone. Corporate security was engaging a riot of indentured crew, the air thick with tear gas and the staccato bark of suppression rounds.
+Getting from the sub-zero silence of the server farm to Deck 12 required a vertical climb through five levels of corporate hell. Zero bypassed the locked elevators, opting for the mag-lev maintenance shafts. The air grew hotter and thicker with every deck he ascended, the sterile chill of the data-core replaced by the copper tang of overheated machinery and the acrid bite of tear gas.
 
-"Chaos is a ladder," Zero whispered to himself, dropping from the vent.
+Deck 12 was a war zone. Through the slats of a ventilation grate, Zero watched the chaos unfold. Corporate security—armored in riot-black—was engaging a mob of indentured crew. Flash-bangs detonated with bone-shaking concussions, turning the corridor into a strobe-lit nightmare of screaming workers and the staccato bark of suppression rounds.
+
+"Chaos is a ladder," Zero whispered to himself, kicking the grate free. He dropped into the smoke-filled corridor, a ghost in the melee, moving unseen while the security teams focused on beating back the crowd.
 
 He reached the rendezvous point: a docking bay airlock, welded shut. He ignited the Lobotomizer. *SNAKT.* The plasma edge chewed through the mag-locks, casting a sick violet light against the walls. The metal groaned and yielded, molten slag dripping onto his boots and cooling instantly in the vacuum-sealed airlock.
 
