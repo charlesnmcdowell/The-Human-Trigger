@@ -1,163 +1,68 @@
-# Global Book Edits: Audiobook Formatting
-*   **Goal:** Rewrite the entire book to be "audiobook friendly."
-*   **Cast Structure:**
-    *   **Narrator:** Handles all narration (Third Person) and voices for side characters.
-    *   **Main Characters:** Each main character (from the profile section) has a dedicated voice actor for their dialogue.
-*   **Format:**
-    *   **Perspective:** Third Person Limited (Focus on Zero).
-    *   **Narrator Voice:** The narrator describes the scene and actions from Zero's perspective (using "Zero" or "He," not "I"), but maintains Zero's cynical, scrapper voice in the descriptions.
-    *   **Dialogue Tags:** The narrator explicitly tags dialogue (e.g., "Zero said," "Jax rumbled") to cue the listener for the voice actor change.
-    *   **Unreliable Narrator:** The events are filtered through Zero's perception, meaning the narrator can be biased or limited by what Zero knows/feels.
-    *   **Dialogue:** Performed by specific voice actors.
-*   **Pacing:** Slowed down for audiobook consumption. Detail-rich.
-*   **Action Style:** "Apocalypse Bound" style (Gore, Explosions, Visceral).
-*   **World Building:** Delivered via character banter/dialogue rather than exposition dumps.
-*   **New Terminology:**
-    *   **Cas's Class:** "Grid-Breaker" (or similar unique term for Netrunner).
-    *   **Zero's Gear:** Samurai armor/katana has a specific heist backstory.
+# The Human Trigger: Master Audit Checklist
 
-# Plot Sanity Check & Timeline
+Use this checklist for every chapter review.
 
-## Series Bible: Lore, Tech, & Factions
+### 1. Audio & Voice
+- [ ] **Narrator:** Third Person Limited (Zero's POV). Cynical, noir-inflected narration.
+- [ ] **Dialogue Tags:** Explicit tags ("Zero said," "Jax rumbled") for every speaker change.
+- [ ] **Cast Consistency:** Ensure dialogue matches character archetypes (Zero=Witty/Dry, Cas=Fast/Transactional, Val=Cold/Military, Jax=Slow/Tectonic).
 
-### Factions & Organizations
-*   **The Corporation (Cognis):** Dominant political/military force. Owns the *Golden Spire* and manages the **Accountability Mandate**. Obsessed with "Sanctified Tech" and the "Human Trigger" doctrine.
-*   **Viper Squad / Corporate Aces:** Elite mercenaries. **Anti-Augmentation Doctrine:** They use Genetic Engineering (reflexes, bone density) rather than cybernetics to avoid hacking risks.
-    *   **Scientific Basis:** Hyper-oxygenated blood (synthetic hemoglobin) for stamina; sub-dermal carbon mesh grafts for durability; myelin sheath reinforcement for reaction speed.
-    *   **Tactical Threat:** Zero's Logic-Bombs **do NOT work** on their bodies (Cyber-Pure). He can only target their "Sanctified" Cognis weapons.
-    *   **Combat Implication:** Zero cannot "DDoS their souls." He must rely on physical speed (The Lobotomizer) or terrain to survive them.
-*   **Void-Sharks:** Local pirate gang in the Jovian shadow. Petty criminals compared to the Corp.
-*   **Zero-Sum (formerly Neon Jackals):** Zero's old crew. Wiped out in the *Golden Spire* ambush.
-*   **Silas (The Auditor):**
-    *   **Role:** Corporate Fixer / Antagonist.
-    *   **Motivation:** "Balancing the ledger."
-    *   **Secret Agenda:** He isn't destroying the NSFW-32; he's stealing it to sell to the **Rebel Faction (The Human Trigger)** or the highest bidder on the black market. He needs Zero (a disposable Ghost) to launder the theft so Cognis doesn't trace it back to him.
-    *   **Methods:** Bribes (Diamond Status) or threats (Viper Squad).
+### 2. Style & Rhetoric
+- [ ] **Rhetoric Scrub:** **ZERO** instances of "Not X, but Y" or "It didn't X; it Y." Reword as direct descriptions.
+- [ ] **Jargon Hygiene:** Define capitalized terms (e.g., Sanctified, Flow) within 3 paragraphs of first use.
+- [ ] **Cinematic Transitions:** Detail the *travel* (vehicle, atmosphere, sensory details) between scenes. Don't just cut to the destination.
 
-### Technology & Lore
-*   **The Human Trigger:** Political movement that ended the AI wars by demanding weapons be tethered to a verified human mind.
-*   **Accountability Mandate:** The governing law requiring all weapons to have a real-time "Sanctified" handshake with Cognis servers.
-*   **Sanctified Tech:** Corporate-approved. Biometric locks, server handshakes. "Bricks" instantly if permissions are revoked (heat-sinks lock, optics static).
-*   **Dirty / Jailbroken Tech:** Illegal, modified. Analog triggers, no safety limits. Zero's preferred gear.
-*   **The Lobotomizer:** Zero's Violet Thermal **Odachi** (Greatsword). A five-foot nightmare of unshielded engineering.
-    *   **Visuals:** Massive, two-handed field sword. Spine features exposed staged magnetic induction coils glowing bruised-indigo.
-    *   **Effect:** Creates a shimmering, violet "corona" of ionized plasma. Hisses like vipers.
-    *   **Physical Toll:** Causes UV burns and "White Finger" vibration syndrome. 140db shriek.
-    *   **Feel:** A localized meltdown held in a magnetic bottle.
-*   **Logic-Bombs:** Zero's method of stalling Sanctified tech. Causes physical toll (nosebleeds, "Data-Hangover").
-    *   **Neural Deck:** A cybernetic implant (usually at the temple or base of skull) that allows for direct brain-to-machine interface. Zero's is "Dirty"—unshielded and modified for illegal overrides.
-    *   **Ghost:** Zero's status—deleted from the Mandate, a non-person.
-    *   **Shadow-Net:** The illegal, decentralized mesh network used by Ghosts and criminals to communicate outside the Mandate's surveillance.
-    *   **Debt-Correction:** A corporate euphemism for assassination or asset seizure.
-*   **Healthcare & The Social Contract (Cognis Life-Sustain Tiers):**
-    *   **Diamond:** "The Immortals." Real-time connectome backup to orbital satellites. In case of death, consciousness is downloaded to a clone. Reserved for the 0.01%.
-    *   **Platinum:** "Extraction Class." Armed medical retrieval teams (3-minute response guarantee). Stabilize and retrieve regardless of location. Corporate VIPs.
-    *   **Gold:** "Priority Access." Private clinics, zero wait times, high-end gene therapy. Wealthy independents.
-    *   **Silver:** "Professional Standard." Good hospitals, access to standard synthetics.
-    *   **Iron:** "Workforce Basic." Minimum viable biological maintenance. Required for access to official centers. Most people struggle to afford even this.
-    *   **Ghost:** Zero coverage. Must rely on "Street Tech."
-    *   **Street Tech (CRISPR-Cascade):** Post-War breakthroughs made organ printing cheap, but radiation/systemic repair requires controlled enzymes.
-    *   **The Cost:** Freedom. Coverage is tied to employment and total biometric surveillance.
-
-### Locations
-*   **Shadow of Jupiter:** The main setting. The slums/fringe of the system.
-*   **The Golden Spire:** Corporate transport/bank. Scene of the heist and the inciting incident.
-*   **Scrap-Vats of Europa:** Zero's origin. Radioactive bilge where he learned "The Flow."
-*   **Haywire Graveyard:** Massive debris field of old warships. Unstable radiation.
-*   **Orion-Nex:** Tier-2 automated supply depot.
-*   **Pirate Haven:** The ultimate destination/safe harbor (End of Book 1).
-
-### Character Voices & Quality Control
-*   **Zero Vex (Hiro Archetype):**
-    *   *Voice:* Cynical, noir-inflected, witty. Treats absurdity with deadpan acceptance.
-    *   *Key Phrases/Traits:* "Expensing pain," "The Flow," "Scrap-Vat reflex."
-    *   *Check:* Does he sound too earnest? Make him dryer.
-*   **Cas (Jazz Archetype):**
-    *   *Voice:* Fast-talking, hustler, transactional.
-    *   *Key Phrases/Traits:* "Kill-Creds," "Insurance premiums," "Minting the footage."
-    *   *Check:* Is she just providing exposition? Give her a selfish/financial angle.
-*   **Val (Tactician):**
-    *   *Voice:* High-born, clipped, military precision.
-    *   *Key Phrases/Traits:* "Asset," "Liability," "Unauthorized."
-    *   *Check:* Is she too friendly? Keep her cold/professional initially.
-*   **Jax (The Heavy):**
-    *   *Voice:* Slow, tectonic, simple but wise.
-    *   *Traits:* Loves food/protein. Borged-out strength.
-
-### Quality Control Checklist
-*   [ ] **Repetition Check:** Scan for overused phrases ("The universe wanted him dead," "Zero did X"). Vary sentence structure.
-*   [ ] **Rhetorical Optimization (Antithesis/Correctio Overuse):**
-    *   **Goal:** Eliminate the "Not X, but Y" or "It didn't X. It Y" structure entirely.
-    *   **Action:** Rewrite as direct, simple descriptions.
-        *   *Bad:* "The world didn't explode. It went silent."
-        *   *Good:* "The world was silent."
-    *   **Exception:** None. Simplicity is key.
-*   [ ] **Action & Tone (Witcher Style):**
-    *   **Goal:** Increase grit, robot destruction, explosions, and gore.
-    *   **Style:** Emphasize *preparation* (Witcher style). Show characters prepping gear, analyzing threats, and using specific styles to solve problems.
-    *   **Physics Check:** Ensure all sci-fi elements are grounded in plausible current physics and hard science.
-        *   **Momentum:** Mechs obey the square-cube law; they are heavy and cause structural damage. In Zero-G, recoil matters.
-        *   **Heat:** Energy weapons generate massive waste heat (heat-sinks, thermal bloom). Radiating heat in a vacuum is slow (Stefan-Boltzmann law).
-        *   **Biology:** Genetic edits (CRISPR-Cascade) allow for organ printing/bio-matching, but complex repairs (radiation) require enzyme therapy.
-        *   **Space Travel:** **NO FTL/Warp.** Travel is via Fusion "Torch" Drives within the Solar System.
-        *   **Gravity:** No artificial gravity fields. Characters rely on **Thrust Gravity** (under burn) or **Mag-Boots** (drifting).
-    *   **Intensity:** Focus on near-misses (bullet dodges, ricochets) to heighten tension.
-*   [ ] **Cinematic Transitions:**
-    *   **Goal:** Give special attention to environments and transportation during scene shifts.
-    *   **Action:** Describe the vehicle, the surrounding world, and the sensory details (sound, atmosphere, visuals) when moving between locations.
-    *   **Examples:**
-        *   *Chapter 1:* Zero's jump to the bot is a transition. Describe the drop, the wind, the visualization of the mesh.
-        *   *Chapter 2:* Flight to the *Golden Spire*. Describe the *High-Roller*, the acid-rain smog, the thermal masking, and the visual dominance of the Spire.
-        *   *General:* Treat travel as a scene, not just a cut.
-*   [ ] **Voice Consistency:** Ensure dialogue matches the specific archetypes above.
-*   [ ] **Jargon Hygiene:** Avoid using in-world proper nouns or terminology (e.g., "Sanctified," "Flow," "Cleaners," "Shadow-Net") in the narration *before* they are introduced or defined through context or dialogue. First impressions should be descriptive.
-    *   **Rule:** If a term is capitalized, it must be explained or contextualized within 3 paragraphs.
-*   [ ] **Show, Don't Tell:** Use Third Person (Narrator) to describe the world, while voice actors bring characters to life.
-*   [ ] **Logic Check:** Ensure tech rules (Sanctified vs. Dirty) are consistent.
-*   [ ] **Timeline:** Ensure the transition from Ch 1 (Present) to Ch 2 (Flashback/Heist) to Ch 4 (Reunion) holds up.
+### 3. Action & Physics (Hard Science)
+- [ ] **Witcher Prep:** Show preparation, gear checks, and tactical planning before fights.
+- [ ] **Physics Compliance:**
+    - [ ] No Artificial Gravity (use Thrust or Mag-Boots).
+    - [ ] No Warp/FTL (use Fusion Torches).
+    - [ ] Momentum/Recoil matters in Zero-G.
+    - [ ] Heat management (radiators/heatsinks) for energy weapons.
+- [ ] **Viper Squad Logic:** Zero cannot hack their bodies (Cyber-Pure). He can only hack their weapons.
 
 ---
 
-## Chapter Breakdown (Book 1)
+# Series Bible: Lore, Tech, & Factions
 
-### Chapter 1: The Scrapper’s Flow
-*   **Status:** Complete (Third Person - Audiobook Format).
-*   **Events:** Zero/Cas salvage run. Ambush. Zero gets Fusion Cell.
-*   **Timeline:** **PRESENT DAY (Before the Heist flashback?)** *Correction: Based on flow, Ch 1 is likely "Life Before the Incident" or a "Cold Open".*
+## Factions
+*   **Cognis (The Corp):** Owns *Golden Spire*. Enforces **Accountability Mandate**. Obsessed with "Sanctified" (server-tethered) tech.
+*   **Viper Squad (Aces):** **Anti-Augment** mercenaries. Genetically engineered (synthetic blood, carbon mesh) to be unhackable.
+*   **Silas (The Auditor):** Corp Fixer. Motivation: "Balancing the ledger." Secretly selling the Titan to rebels/black market.
+*   **Zero-Sum:** Zero's old crew (Rook, Kilo). Killed in Ch 2 heist.
 
-### Chapter 2: The Meat Grinder
-*   **Status:** Complete (Third Person - Audiobook Format).
-*   **Events:** The *Golden Spire* Heist. Rook/Kilo die. Zero survives using dirty tech.
-*   **Timeline:** **INCITING INCIDENT (Flashback or Linear Next Step).**
+## Technology
+*   **Accountability Mandate:** Law requiring real-time server handshake for all weapons.
+*   **Sanctified Tech:** Corp-approved. Bricks if connection is lost/revoked.
+*   **Dirty Tech:** Illegal, analog, jailbroken. Zero's gear.
+*   **The Lobotomizer:** Zero's Violet Thermal **Odachi**. Unshielded magnetic coils. Causes UV burns and "White Finger" tremors.
+*   **Logic-Bombs:** Zero's hack. DDoS attacks on weapon servers. Causes "Data-Hangover."
+*   **Titan (NSFW-32):** Neural-Sync Functional Weapon. Fusion-powered. Contains **Orion** (child consciousness uploaded to core).
 
-### Chapter 3: The Offer
-*   **Status:** Complete (Third Person - Audiobook Format).
-*   **Events:** Zero meets Silas. Accepts mission to steal NSFW-32 to survive.
+## Healthcare Tiers (Social Contract)
+*   **Diamond:** Immortals. Clone backups.
+*   **Platinum:** Armed extraction teams (3-min response).
+*   **Gold:** Priority private clinics.
+*   **Silver/Iron:** Basic workforce maintenance.
+*   **Ghost:** Zero coverage. Street tech only (CRISPR-Cascade w/ enzyme shots).
 
-### Chapter 4: The Outlaw Link
-*   **Status:** Complete (Third Person - Audiobook Format).
-*   **Events:** Zero meets Val and Jax. Re-unites with Cas (revealed to be on site). Steals the mech.
+## Locations
+*   **Shadow of Jupiter:** Main setting. Slums.
+*   **Golden Spire:** Cognis Bank/HQ.
+*   **Haywire Graveyard:** Debris field/radiation zone.
+*   **Orion-Nex:** Supply depot.
 
-### Chapter 5: The Haywire Graveyard
-*   **Status:** Complete (Third Person - Audiobook Format).
-*   **Events:** Zero syncs with "Hades" (Orion). Fights Void-Sharks.
+---
 
-### Chapter 6: The Ghost in the Machine
-*   **Status:** Complete (Third Person - Audiobook Format).
-*   **Events:** Zero discovers the child consciousness (Orion). Decides to protect him.
+# Chapter Breakdown (Book 1)
 
-### Chapter 7: The Orion-Nex Breach
-*   **Status:** Complete (Third Person - Audiobook Format).
-*   **Events:** Supply raid. Fight with Viper Squad. Zero drops the Titan.
-
-### Chapter 8: The NSFW Awakening
-*   **Status:** Complete (Third Person - Audiobook Format).
-*   **Events:** Crew learns the truth about Orion. Silas betrays them.
-
-### Chapter 9: The Gauntlet
-*   **Status:** Complete (Third Person - Audiobook Format).
-*   **Events:** Escape from the Corporate Blockade.
-
-### Chapter 10: The Void
-*   **Status:** Complete (Third Person - Audiobook Format).
-*   **Events:** Crew escapes to deep space. Forms "The Human Trigger."
+*   **Ch 1: The Scrapper’s Flow** (Status: Complete) - Zero/Cas intro. Salvage run.
+*   **Ch 2: The Meat Grinder** (Status: Complete) - Flashback/Inciting Incident. Heist, Betrayal, Team Death.
+*   **Ch 3: The Offer** (Status: Complete) - Zero meets Silas. Forced to steal Titan.
+*   **Ch 4: The Outlaw Link** (Status: Complete) - Meets Val/Jax. Steals Titan.
+*   **Ch 5: The Haywire Graveyard** (Status: Complete) - Syncs with Orion. Fights pirates.
+*   **Ch 6: The Ghost in the Machine** (Status: Complete) - Discovers Orion is a child.
+*   **Ch 7: The Orion-Nex Breach** (Status: Complete) - Supply raid. Viper Squad fight.
+*   **Ch 8: The NSFW Awakening** (Status: Complete) - Truth revealed. Silas betrays again.
+*   **Ch 9: The Gauntlet** (Status: Complete) - Escape from blockade.
+*   **Ch 10: The Void** (Status: Complete) - Crew formation. End of Book 1.
