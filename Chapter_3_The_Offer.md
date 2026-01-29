@@ -32,7 +32,7 @@ Zero glanced at his HUD. The threat indicator had turned a benign green.
 
 "Get to the point," Zero growled.
 
-"I have a job for you. You are trapped. A 'Ghost' in a locked room. Dead man walking," Silas said, stepping closer. "Unless you do something for me. A 'Debt-Correction', if you will."
+"I have a job for you. You are trapped. A 'Ghost' in a locked room. Dead man walking," Silas said, stepping closer. "Unless you do something for me. A 'Debt-Correction'. I can wipe your file, Zero. I can upgrade your status from 'Ghost' to **Platinum**. Real medical coverage. No more expensive street-doc enzymes."
 
 He tossed Zero a data-chip. Zero caught it with his off-hand.
 
@@ -44,7 +44,7 @@ He tossed Zero a data-chip. Zero caught it with his off-hand.
 
 "And if I refuse?"
 
-"Then I reactivate the alarm. And the Viper Squad waiting in the corridor will turn this room into a very cold tomb."
+"Then I reactivate the alarm. And the Viper Squad waiting in the corridor will turn this room into a very cold tomb. They're Gen-Mods, Zero. They don't have neural jacks for you to hack. You'll die tired."
 
 Zero looked at the Lobotomizer. He could kill him. He could cross the distance in two steps and cleave him in half. But Silas was right. He was trapped. The math was against him.
 

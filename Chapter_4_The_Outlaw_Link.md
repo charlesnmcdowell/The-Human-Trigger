@@ -4,7 +4,7 @@ Deck 12 was a war zone. Corporate security was engaging a riot of indentured cre
 
 "Chaos is a ladder," Zero whispered to himself, dropping from the vent.
 
-He reached the rendezvous point: a docking bay airlock, welded shut. He ignited the Lobotomizer. *SNAKT.* The plasma edge chewed through the mag-locks, casting a sick violet light against the walls. The metal groaned and yielded, molten slag dripping onto his boots.
+He reached the rendezvous point: a docking bay airlock, welded shut. He ignited the Lobotomizer. *SNAKT.* The plasma edge chewed through the mag-locks, casting a sick violet light against the walls. The metal groaned and yielded, molten slag dripping onto his boots and cooling instantly in the vacuum-sealed airlock.
 
 He kicked the door in.
 
@@ -34,7 +34,7 @@ She spun around. Sharp features, military posture, hair pulled back in a severe 
 
 "I'm the only reason you're getting paid," Zero countered.
 
-"Silas says you're a 'natural.' I say you're a liability," Val said, her eyes narrowing as she assessed him. "The NSFW-32 is a tomb. The last three pilots who plugged in ended up lobotomized. What makes you think you're special?"
+"Silas says you're a 'natural.' I say you're a liability," Val said, her eyes narrowing as she assessed him. "The NSFW-32 is a tomb. The last three pilots who plugged in ended up lobotomized. Even **Diamond-Tier** neuro-surgery couldn't fix them. What makes you think you're special?"
 
 "I don't have to be special," Zero said. "I just have to be desperate."
 

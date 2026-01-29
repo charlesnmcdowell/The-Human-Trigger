@@ -12,7 +12,7 @@ Zero looked at Cas. The hacker was curled up in her chair, hugging a plushie, he
 
 Val sank into her chair, the color draining from her face. "We have to get him out."
 
-"We can't," Cas said, shaking her head. "He *is* the core. The code and the consciousness are fused. If we try to extract him, the data degrades. He dies."
+"We can't," Cas said, shaking her head. "He *is* the core. His connectome is mapped to the fusion core's lattice. If we try to extract him, the data degrades. He dies."
 
 "So we keep him," Zero said, his voice hard. "We don't sell him to Silas. We don't return him to Cognis. We become pirates."
 
@@ -30,7 +30,7 @@ A hail opened. Silas's face appeared on the HUD, calm, collected, and terrifying
 
 "Analysis?" Zero spat. "You mean dissection."
 
-"It's a machine, Zero," Silas said, adjusting his cuff. "Don't anthropomorphize the inventory. Surrender the Asset, and I'll wipe your debt. All of you."
+"It's a machine, Zero," Silas said, adjusting his cuff. "Don't anthropomorphize the inventory. Surrender the Asset, and I'll wipe your debt. I'll even upgrade you all to **Gold Status**. Priority access. No more running."
 
 "No," Zero said. "The Asset has a name. And he's not for sale."
 

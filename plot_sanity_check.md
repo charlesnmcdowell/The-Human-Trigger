@@ -23,6 +23,7 @@
 ### Factions & Organizations
 *   **The Corporation (Cognis):** Dominant political/military force. Owns the *Golden Spire* and manages the **Accountability Mandate**. Obsessed with "Sanctified Tech" and the "Human Trigger" doctrine.
 *   **Viper Squad / Corporate Aces:** Elite mercenaries. **Anti-Augmentation Doctrine:** They use Genetic Engineering (reflexes, bone density) rather than cybernetics to avoid hacking risks.
+    *   **Scientific Basis:** Hyper-oxygenated blood (synthetic hemoglobin) for stamina; sub-dermal carbon mesh grafts for durability; myelin sheath reinforcement for reaction speed.
     *   **Tactical Threat:** Zero's Logic-Bombs **do NOT work** on their bodies (Cyber-Pure). He can only target their "Sanctified" Cognis weapons.
     *   **Combat Implication:** Zero cannot "DDoS their souls." He must rely on physical speed (The Lobotomizer) or terrain to survive them.
 *   **Void-Sharks:** Local pirate gang in the Jovian shadow. Petty criminals compared to the Corp.
@@ -40,7 +41,16 @@
     *   **Physical Toll:** Causes UV burns and "White Finger" vibration syndrome. 140db shriek.
     *   **Feel:** A localized meltdown held in a magnetic bottle.
 *   **Logic-Bombs:** Zero's method of stalling Sanctified tech. Causes physical toll (nosebleeds, "Data-Hangover").
-*   **Ghost:** Zero's status—deleted from the Mandate, a non-person.
+    *   **Ghost:** Zero's status—deleted from the Mandate, a non-person.
+*   **Healthcare & The Social Contract (Cognis Life-Sustain Tiers):**
+    *   **Diamond:** "The Immortals." Real-time connectome backup to orbital satellites. In case of death, consciousness is downloaded to a clone. Reserved for the 0.01%.
+    *   **Platinum:** "Extraction Class." Armed medical retrieval teams (3-minute response guarantee). Stabilize and retrieve regardless of location. Corporate VIPs.
+    *   **Gold:** "Priority Access." Private clinics, zero wait times, high-end gene therapy. Wealthy independents.
+    *   **Silver:** "Professional Standard." Good hospitals, access to standard synthetics.
+    *   **Iron:** "Workforce Basic." Minimum viable biological maintenance. Required for access to official centers. Most people struggle to afford even this.
+    *   **Ghost:** Zero coverage. Must rely on "Street Tech."
+    *   **Street Tech (CRISPR-Cascade):** Post-War breakthroughs made organ printing cheap, but radiation/systemic repair requires controlled enzymes.
+    *   **The Cost:** Freedom. Coverage is tied to employment and total biometric surveillance.
 
 ### Locations
 *   **Shadow of Jupiter:** The main setting. The slums/fringe of the system.
@@ -76,9 +86,15 @@
 *   [ ] **Action & Tone (Witcher Style):**
     *   **Goal:** Increase grit, robot destruction, explosions, and gore.
     *   **Style:** Emphasize *preparation* (Witcher style). Show characters prepping gear, analyzing threats, and using specific styles to solve problems.
-    *   **Physics Check:** Ensure all sci-fi elements are grounded in plausible current physics (e.g., momentum, heat dissipation, structural integrity).
+    *   **Physics Check:** Ensure all sci-fi elements are grounded in plausible current physics and hard science.
+        *   **Momentum:** Mechs obey the square-cube law; they are heavy and cause structural damage. In Zero-G, recoil matters.
+        *   **Heat:** Energy weapons generate massive waste heat (heat-sinks, thermal bloom). Radiating heat in a vacuum is slow (Stefan-Boltzmann law).
+        *   **Biology:** Genetic edits (CRISPR-Cascade) allow for organ printing/bio-matching, but complex repairs (radiation) require enzyme therapy.
+        *   **Space Travel:** **NO FTL/Warp.** Travel is via Fusion "Torch" Drives within the Solar System.
+        *   **Gravity:** No artificial gravity fields. Characters rely on **Thrust Gravity** (under burn) or **Mag-Boots** (drifting).
     *   **Intensity:** Focus on near-misses (bullet dodges, ricochets) to heighten tension.
 *   [ ] **Voice Consistency:** Ensure dialogue matches the specific archetypes above.
+*   [ ] **Jargon Hygiene:** Avoid using in-world proper nouns or terminology (e.g., "Sanctified," "Flow," "Cleaners") in the narration *before* they are introduced or defined through context or dialogue. First impressions should be descriptive.
 *   [ ] **Show, Don't Tell:** Use Third Person (Narrator) to describe the world, while voice actors bring characters to life.
 *   [ ] **Logic Check:** Ensure tech rules (Sanctified vs. Dirty) are consistent.
 *   [ ] **Timeline:** Ensure the transition from Ch 1 (Present) to Ch 2 (Flashback/Heist) to Ch 4 (Reunion) holds up.

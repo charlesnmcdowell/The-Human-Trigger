@@ -1,13 +1,13 @@
-Chapter 1: The Scrapper’s Flow
+# Chapter 1: The Scrapper’s Flow
 The blade Zero called 'The Lobotomizer' hungry-growled against the magnetic lock of the saya. It was an Odachi—a massive, two-handed field sword with a blade length that bordered on the suicidal. Zero felt the vibration in his molars, a violet-hot itch demanding to be scratched. His hands suffered from "White Finger"—a permanent, low-level tremor caused by the unshielded magnetic induction coils lining the blade's spine.
 
 Sector 4 smelled of sulfur and wet rust—the scent of a ship dying slowly. It was an abandoned hydroponics bay, the walls slick with black mold that ate radiation and bled sludge onto the deck plates. Below Zero, the Centurion-class enforcement bot prowled through the overgrown, rotting vines like a metallic panther. The Cognis logo—a stylized eye trapped in a crosshair—gleamed on its chassis under the flicker of dying emergency lights.
 
-Zero checked his thermal readout. 98%. The unshielded plasma edge would burn at 3,000 Kelvin. Far from 'Sanctified', this was a piece of industrial salvage he'd stripped of every limiter that kept a user from being cooked alive by their own weapon. He was here for one thing: the payout, a Class-4 Micro-Fusion Cell beating inside the bot’s chest.
+Zero checked his thermal readout. 98%. The unshielded plasma edge would burn at 3,000 Kelvin. Far from corporate-standard, this was a piece of industrial salvage he'd stripped of every limiter that kept a user from being cooked alive by their own weapon. He was here for one thing: the payout. The Class-4 Micro-Fusion Cell beating inside the bot’s chest contained enough refined Helium-3 to power a slum-sector for a month. A mid-level fixer for the Void-Sharks had put a bounty on these specific cores—likely to retrofit their aging fleet of scavenged ships. They didn't ask questions about where the hardware came from, which made them Zero's favorite kind of client.
 
 His pulse hammered against his ribs. He prepared the Logic-Bomb in his neural deck.
 
-"Heads up, Samurai," Cas's voice chirped in his ear, overlaying the bot's schematic on his HUD. "That's a Centurion Mark-IV. Manufactured by Cognis Heavy Industries. Retail price: more than your entire life's earnings. Their firewall is 'Sanctified' grade, meaning it phones home to the corporate servers every 0.4 seconds to check if it has permission to kill you. Don't let it make that call."
+"Heads up, Samurai," Cas's voice chirped in his ear, overlaying the bot's schematic on his HUD. "I spent three weeks decrypting their patrol algorithms to find this gap, so try not to waste my time. That's a Centurion Mark-IV. Manufactured by Cognis Heavy Industries. Retail price: more than your entire life's earnings. Their firewall is 'Sanctified' grade, meaning it phones home to the corporate servers every 0.4 seconds to check if it has permission to kill you. Don't let it make that call."
 
 "Sanctified Grade? I doubt anything's angelic about their tech. Alright, Cognis," Zero whispered, tapping his temple where the illegal jack sat. "Let's see how your servers like a recursive paradox."
 
@@ -52,7 +52,11 @@ Silence rushed back into the corridor, ringing in Zero's deafened ears.
 
 Zero tapped his comms bead. "Cas. Tell me you got the money shot."
 
-"Got it? I'm minting the 'Kill-Creds' as we speak," Cas’s voice crackled. "But seriously, Zero? A frontal assault? You know the Mandate doesn't cover medical for 'Ghosts' like us. Your DNA is probably screaming right now."
+"Got it? Escrow released. The funds are already bouncing through three shell accounts," Cas’s voice crackled. "But seriously, Zero? A frontal assault? We've been running these ops for two years, and you still fight like you have **Diamond-Tier coverage**."
+
+"If I had Diamond coverage, I'd have a backup clone on standby," Zero quipped, wincing as he popped the seal on a stim-injector. "And he'd probably be smarter than me."
+
+"He'd definitely be better looking," Cas shot back. "But the point stands. If you were **Platinum**, an armed extraction team would be dropping in to stabilize your vitals right now. Out here? We rely on 'CRISPR-Cascade' hacks. Sure, the post-war breakthrough made printing a bio-matched liver cheap enough for any basement butcher with a vat, but scrubbing *this* much acute radiation? That requires synthetic DNA-repair enzymes, and those aren't cheap. Freedom is expensive, Samurai."
 
 "If that bot was running the new patch, I'd be a smear on the wall," Zero muttered, slapping the cooling catch on his hilt. He knelt by the ruined chassis, his vibro-knife working to pry the glowing fusion cell from its housing. "So, are we rich yet?"
 

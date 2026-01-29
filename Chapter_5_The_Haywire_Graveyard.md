@@ -4,7 +4,7 @@ The white light of the neural sync collapsed into the jagged static of a rejecte
 
 *// UNRECOGNIZED USER. PURGE PROTOCOL INITIATED. //*
 
-"Denied," Zero gritted out, his teeth clenched against the phantom pain of his synapses misfiring. "Handshake override."
+"Denied," Zero gritted out, his teeth clenched against the phantom pain of his synapses misfiring. It felt like trying to download a **Diamond-Tier** connectome through a copper wire. "Handshake override."
 
 *// AUTHORIZATION INVALID. BIOMETRIC MISMATCH. //*
 
@@ -34,11 +34,11 @@ Zero moved. The Scrapper’s Flow translated perfectly through the neural link. 
 
 "Punching it!" Val yelled.
 
-The ship lurched, engines screaming as they blasted out of the dock and into the void.
+The ship lurched, fusion drives screaming as they blasted out of the dock and into the void.
 
 ***
 
-The *Rusty Nail* dropped out of warp in the **Haywire Graveyard**, a radioactive reef of shattered warships and orbital debris. It was a place where sensors went to die and ghosts came to hide.
+The *Rusty Nail* cut its main torch, drifting into the shadow of the **Haywire Graveyard**, a radioactive reef of shattered warships and orbital debris. It was a place where sensors went to die and ghosts came to hide.
 
 "We need to calibrate," Zero said, his voice sounding thin in the quiet cockpit. "Hades is running hot."
 

@@ -46,7 +46,7 @@ He drove the blade down. It didn't pierce the hull—it overloaded the shield ge
 
 "NOW!" Zero screamed.
 
-The *Rusty Nail* shot past the disabled cruiser, its engines flaring blue as Val punched the warp drive.
+The *Rusty Nail* shot past the disabled cruiser, its engines flaring blue as Val punched the fusion torch.
 
 Zero disengaged the mag-clamps and pushed off the hull, firing his maneuvering thrusters to match the ship's vector.
 

@@ -16,7 +16,7 @@ Zero didn't wait. He grabbed a massive, loose bulkhead plate from the dreadnough
 
 "One down," Zero noted.
 
-The other two skiffs turned their attention to the Titan. Plasma bolts slammed into his shields, rocking the mech.
+The other two skiffs turned their attention to the Titan. Plasma bolts boiled against his magnetic deflectors, rocking the mech.
 
 Zero activated the jump-jets. He launched from the dreadnought, soaring through the vacuum. He landed on a drifting asteroid, used it as a springboard, and ignited the fusion blade mid-flight. He became a kinetic missile, closing the distance before the pirates could track his vector.
 
@@ -30,7 +30,7 @@ Zero returned to the *Rusty Nail*, the adrenaline fading into a dull ache.
 
 "Cas," Zero said later, sitting in the mess hall. He rubbed his temples, the phantom weight of the neural link still pressing on his mind. "I found a ghost in the code. Encrypted. Deep in the core."
 
-Cas jacked her deck into the Titan's access port. "Pre-War encryption," she muttered, her eyes darting across her screens. "Nasty stuff. Give me ten minutes."
+Cas jacked her deck into the Titan's access port. "This isn't standard Cognis **Sanctified** code. It's Pre-War encryption," she muttered, her eyes darting across her screens. "Nasty stuff. Give me ten minutes."
 
 It took five.
 

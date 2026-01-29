@@ -117,11 +117,67 @@
 
 ---
 
-## The Machine: Project NS-FW-32
-**Classification:** Nuclear-Fusion Bipedal Titan (Experimental)
+## Orion (The Asset)
+**Archetype:** The Ghost in the Machine
 
-**Signature Feature:**
-- An exposed, pulsing blue fusion core that glows through the chest plating.
+**Visuals:**
+- **Physical Form:** Project NSFW-32, a 40-foot nuclear-fusion bipedal Titan with matte-black armor and an exposed, pulsing blue core.
+- **Digital Avatar:** A flickering, static-laced image of a seven-year-old boy.
+
+**Origins:**
+- The digitized consciousness of Dr. Aris Thorne's terminally ill son. His mind was uploaded to the mech's core to serve as a perfect targeting computer, but he retained his humanity.
 
 **Personality:**
-- Features a "rogue" narrow AI that only responds to Zero’s illegal "Forbidden Sync" protocols.
+- Innocent, confused, and fiercely protective of his "Pilot" (Zero). He speaks in a mix of system diagnostics and childlike wonder.
+
+**Role:**
+- The McGuffin turned Team Member. He bonds with Zero via the neural link.
+
+---
+
+## Silas (The Auditor)
+**Archetype:** Corporate Fixer / Antagonist
+
+**Visuals:**
+- **Appearance:** Impeccably dressed in a charcoal Italian-cut suit (no armor).
+- **Augments:** High-end "Mil-Spec" silver eyes (thermal/kinetic tracking) that whir softly when focusing. Subdermal armor weave under the silk.
+
+**Role:**
+- A high-ranking "Debt-Correction" officer for a splinter faction of Cognis. He views the world entirely through the lens of assets, liabilities, and ledgers.
+
+**Personality:**
+- **Voice:** Cold, bureaucratic, polite. He never raises his voice; he simply states facts.
+- **Motivation:** "Balancing the ledger." He doesn't hate Zero; he just views him as a variable that needs to be solved.
+- **Methods:** He prefers to buy people ("Diamond-Tier" bribes) rather than kill them, but will liquidate "bad debt" without hesitation.
+
+**Quotes:**
+- "I'm the man who reads the spreadsheets."
+- "Don't anthropomorphize the inventory."
+- "Tuition is due."
+
+---
+
+## Rook (The Believer)
+**Status:** Deceased (KIA, Chapter 2)
+
+**Archetype:** The Company Man
+
+**Visuals:**
+- Clean-cut, wears standard-issue corporate armor.
+
+**Personality:**
+- Believed in the "Accountability Mandate" and the "Human Trigger" doctrine. Trusted the system ("It's a lullaby") until the system betrayed him.
+- **Role:** Represents the tragedy of blindly trusting "Sanctified" tech. His death serves as the catalyst for Zero's cynicism.
+
+---
+
+## Viper Squad (The Aces)
+**Archetype:** Corporate Hit-Squad
+
+**Visuals:**
+- **Physiology:** "Gen-Mods" (Genetic Modifications). Synthetic hemoglobin (hyper-oxygenated blood), reinforced myelin sheaths (reflexes), carbon-mesh skin.
+- **Gear:** Sleek, kinetic-dampening armor. No neural jacks (Cyber-Pure).
+
+**Role:**
+- The physical threat that cannot be hacked. They force Zero to rely on his sword and the environment.
+- **Tactics:** Silent, fluid, fast. They move like oil, not machines.

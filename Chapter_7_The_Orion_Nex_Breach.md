@@ -24,7 +24,7 @@ Red emergency lights bathed the room in blood.
 
 **Viper Squad.**
 
-Four figures emerged from the shadows. They moved with an unnatural, fluid grace—no mechanical stiffness, no servo-whine. They wore sleek, kinetic-dampening armor.
+Four figures emerged from the shadows. They moved with an unnatural, fluid grace—no mechanical stiffness, no servo-whine. They wore sleek, kinetic-dampening armor over bodies honed by synthetic hemoglobin and reinforced myelin sheaths.
 
 "The Human Trigger," the leader's voice boomed, amplified. "There's a high price on your head."
 
