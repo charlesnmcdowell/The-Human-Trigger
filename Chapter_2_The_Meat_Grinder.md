@@ -38,7 +38,7 @@ Zero stood in the center of the slaughter. A Cleaner turned toward him, its unna
 
 Zero leaned into the "Flow." He slammed his mind into the room's mesh, dropping a Logic-Bomb that forced a recursive handshake error on the Cleaner's weapon. The sidearm groaned, its Cognis firmware locking the trigger in a safety-loop.
 
-The Cleaner didn't panic. It dropped the gun and reached for a combat knife, its genetically-enhanced muscles coiling like high-tension cables. It was faster than any human, but it was a close-quarters predator. It needed to be within three feet to end him.
+The Cleaner dropped the useless gun and reached for a combat knife, its genetically-enhanced muscles coiling like high-tension cables. It was faster than any human, but it was a close-quarters predator. It needed to be within three feet to end him.
 
 Zero had five.
 

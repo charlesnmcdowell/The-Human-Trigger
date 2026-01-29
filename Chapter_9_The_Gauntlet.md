@@ -34,7 +34,7 @@ Zero cut the thrusters and flipped the Titan 180 degrees. He locked onto the com
 
 Zero engaged the jets. The Titan became a meteor, streaking toward the cruiser. Point-defense cannons filled the space around him with flak, but he weaved through the fire, the Scrapper's Flow guiding his hands.
 
-He didn't fire at the ship. He landed on it.
+Instead of firing, he landed on the ship.
 
 The Titan's magnetic clamps locked onto the cruiser's bridge viewports with a bone-jarring thud. Zero looked through the reinforced glass. He saw Silas, standing on the bridge, his eyes wide with genuine shock.
 

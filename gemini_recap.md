@@ -1,11 +1,14 @@
-# Chapter 1: The Scrapper’s Flow
+# The Human Trigger - Full Manuscript
+
+## Chapter 1: The Scrapper’s Flow
+
 The blade Zero called 'The Lobotomizer' hungry-growled against the magnetic lock of the saya. It was an Odachi—a massive, two-handed field sword with a blade length that bordered on the suicidal. Zero felt the vibration in his molars, a violet-hot itch demanding to be scratched. His hands suffered from "White Finger"—a permanent, low-level tremor caused by the unshielded magnetic induction coils lining the blade's spine.
 
 Sector 4 smelled of sulfur and wet rust—the scent of a ship dying slowly. It was an abandoned hydroponics bay, the walls slick with black mold that ate radiation and bled sludge onto the deck plates. Below Zero, the Centurion-class enforcement bot prowled through the overgrown, rotting vines like a metallic panther. The Cognis logo—a stylized eye trapped in a crosshair—gleamed on its chassis under the flicker of dying emergency lights.
 
 Zero checked his thermal readout. 98%. The unshielded plasma edge would burn at 3,000 Kelvin. Far from corporate-standard, this was a piece of industrial salvage he'd stripped of every limiter that kept a user from being cooked alive by their own weapon. He was here for one thing: the payout. The Class-4 Micro-Fusion Cell beating inside the bot’s chest contained enough refined Helium-3 to power a slum-sector for a month. A mid-level fixer for the Void-Sharks had put a bounty on these specific cores—likely to retrofit their aging fleet of scavenged ships. They didn't ask questions about where the hardware came from, which made them Zero's favorite kind of client.
 
-His pulse hammered against his ribs. He prepared the Logic-Bomb in his neural deck.
+His pulse hammered against his ribs. He prepared the Logic-Bomb in his neural deck—the illegal interface port grafted to his right temple. It hummed with a low-voltage itch, ready to inject his consciousness into the local mesh.
 
 "Heads up, Samurai," Cas's voice chirped in his ear, overlaying the bot's schematic on his HUD. "I spent three weeks decrypting their patrol algorithms to find this gap, so try not to waste my time. That's a Centurion Mark-IV. Manufactured by Cognis Heavy Industries. Retail price: more than your entire life's earnings. Their firewall is 'Sanctified' grade, meaning it phones home to the corporate servers every 0.4 seconds to check if it has permission to kill you. Don't let it make that call."
 
@@ -20,6 +23,7 @@ Zero was perched on a rusted catwalk twenty feet above the kill-zone, the metal 
 He tipped forward, dropping face-first into the void. Gravity took the lead, wind whipping his purple locs back like a kinetic contrail. Mid-air, he visualized the local mesh—a chaotic web of RF handshakes tethering the Centurion to the Cognis overmind. He twisted, flipping 180 degrees to drive the Lobotomizer into the bulkhead wall.
 
 The blade shrieked as its magnetic field bit into the metal, slowing his fall in a shower of sparks. Simultaneously, he channeled the Logic-Bomb through the sword’s unshielded coils, using the weapon as a broadcast antenna to blast the bot's receiver with a petabyte of recursive junk data. The neural feedback hit him instantly—a copper taste flooding his mouth and a sharp, blinding spike behind his eyes. A "Data-Hangover" in the making.
+
 
 He hit the deck plates with a magnetic *thud* that shook the dust from the air. The Centurion swiveled instantly, its single optic eye contracting from search-yellow to kill-purple.
 
@@ -63,7 +67,7 @@ Zero tapped his comms bead. "Cas. Tell me you got the money shot."
 
 Zero sprinted, the violet afterimage of the kill still burning in his eyes, his hands shaking from the feedback of a weapon that was as much a meltdown as it was a blade.
 
-# Chapter 2: The Meat Grinder
+## Chapter 2: The Meat Grinder
 
 The memory tasted of sulfur and ozone, a phantom sting that bit harder than the Sector 4 vents. Zero watched the bot’s cooling fluids pool on the deck plates and saw Rook’s blood instead.
 
@@ -71,19 +75,21 @@ The memory tasted of sulfur and ozone, a phantom sting that bit harder than the 
 
 Zero didn't stop the rhythmic scrape of the whetstone. "The magnetic track on the saya has a three-millisecond delay. If the handshake fails, I need the friction to be zero. I don't trust the magnets. I don't trust the ship. And I definitely don't trust that bone-white toy in your lap."
 
-Rook tapped the glowing green 'Sanctified' seal on the carbine’s receiver. It pulsed with a rhythmic, haptic beat—a "digital heartbeat" synced to his own. "It feels me, Zero. The Human Trigger. Cognis engineering says this tracks a heartbeat through a meter of reinforced concrete. To me, it's a lullaby. No AI. Just my intent, amplified. This job is my ticket to **Platinum Status**, Zero. Real medical coverage. A future."
+Rook tapped the glowing green 'Sanctified' seal on the carbine’s receiver. It pulsed with a rhythmic, haptic beat—a "digital heartbeat" synced to his own. "It feels me, Zero. The Mandate's promise. Cognis engineering says this tracks a heartbeat through a meter of reinforced concrete. To me, it's a lullaby. No AI. Just my intent, amplified. This job is my ticket to **Platinum Status**. Real medical coverage. A future."
 
-"It’s the Accountability Mandate, Rook," Zero said, looking up. The whetstone went silent. "That digital heartbeat is the sound of a ticking clock. The 'law' is a line of code in a Cognis server. That gun is a leash. The Human Trigger wasn't meant to empower you; it was meant to monitor you. If Cognis decides your pulse is a liability, that weapon bricks. It’s not yours. It’s theirs."
+"It’s the Accountability Mandate, Rook," the scrapper said, looking up. The whetstone went silent. "That digital heartbeat is the sound of a ticking clock. The law requires every weapon to phone home to a Cognis server before it fires. That gun is a leash. The tech was designed to monitor you, not empower you. If Cognis decides your pulse is a liability, that weapon bricks. It’s not yours. It’s theirs."
 
 "Then it’s a good thing we’re the best contractors they’ve got," Kilo called out from the back, her hands buried in the guts of a thermite charge. "Silas, tell the boy the math. He’s making me nervous with that 'doomsday' talk."
 
-Silas didn't turn from the pilot’s console. He sat rigid, his eyes glazed in the milky-white sheen of a deep-data trance. Unlike the others, Silas was a "Pure," his brain genetically tuned for data-processing rather than augmented with chips. "The route is verified. The vault's security mesh is on a sub-routine loop. There are no variables, Zero. Only the payout."
+Silas didn't turn from the pilot’s console. He sat rigid, his eyes glazed in the milky-white sheen of a deep-data trance. Unlike the others, Silas was a "Pure," his brain genetically tuned for data-processing rather than augmented with chips. "The route is verified. The vault's security mesh is on a sub-routine loop. There are no variables. Only the payout."
 
 "There’s always a variable," Zero muttered. He slid the Lobotomizer into the saya. *SNAKT.* The magnetic lock caught with a heavy, industrial thud.
 
-The transition to the *Golden Spire* was a blur of pressurized steam and the metallic tang of recycled air. They moved through the corridors like shadows—until they hit the vault threshold. The world didn't explode. It went silent.
+The transition to the *Golden Spire* was a blur of pressurized steam and the metallic tang of recycled air. They moved through the corridors like shadows—until they hit the vault threshold.
 
-Rook screamed as the weapon let out a pathetic, electronic whine. The green seal turned a jagged, pulsing red. The Cognis firmware didn't just lock the firing pin; it dumped the entire thermal load of the power cell into the cooling vents at once. The white ceramic turned a scorching, blister-inducing black in Rook's hands. He wasn't holding a club; he was holding a localized meltdown designed to maim the "unauthorized."
+The world was silent.
+
+Rook screamed as the weapon let out a pathetic, electronic whine. The green seal turned a jagged, pulsing red. The Cognis firmware didn't just lock the firing pin; it dumped the entire thermal load of the power cell into the cooling vents at once. The white ceramic turned a scorching, blister-inducing black in Rook's hands. He was holding a localized meltdown designed to maim the "unauthorized."
 
 "My HUD," Rook gasped, stumbling as his targeting optics—linked to the carbine's sensors—dissolved into grey static. "I’m blind! The Mandate... it’s revoking my permissions!"
 
@@ -101,7 +107,7 @@ Zero stood in the center of the slaughter. A Cleaner turned toward him, its unna
 
 Zero leaned into the "Flow." He slammed his mind into the room's mesh, dropping a Logic-Bomb that forced a recursive handshake error on the Cleaner's weapon. The sidearm groaned, its Cognis firmware locking the trigger in a safety-loop.
 
-The Cleaner didn't panic. It dropped the gun and reached for a combat knife, its genetically-enhanced muscles coiling like high-tension cables. It was faster than any human, but it was a close-quarters predator. It needed to be within three feet to end him.
+The Cleaner dropped the useless gun and reached for a combat knife, its genetically-enhanced muscles coiling like high-tension cables. It was faster than any human, but it was a close-quarters predator. It needed to be within three feet to end him.
 
 Zero had five.
 
@@ -113,55 +119,51 @@ The violet glow reflected in the pooling blood, a jagged neon scar. The skin on 
 
 Rook had wanted a legacy. He’d found a ledger instead.
 
-# Chapter 3: The Offer
+## Chapter 3: The Offer
 
 Zero holed up in Server Node 7, a sub-zero archive room filled with rows of humming backup drives. The cold bit through his flight suit, numbing the chemical burn in his lungs. It was perfect. Thermal optics would struggle to distinguish his body heat from the servers' exhaust vents.
 
-He sat with his back against a rack, the Lobotomizer laid across his knees. He ran a diagnostic on the blade—magnetic containment at 94%. It was leaking heat, singing the deck plating with a faint, violet aura that hissed like a trapped snake. He pulled a rag from his pocket and began to wipe the carbon scoring from the hilt.
+He sat with his back against a rack, the Lobotomizer laid across his knees. He ran a diagnostic on the blade—magnetic containment at 94%. It was leaking heat, singing the deck plating with a faint, violet aura that hissed like a trapped snake. He pulled a rag from his pocket and began to wipe the carbon scoring from the hilt, his hands shaking with a "White Finger" tremor that the cold only made worse.
 
 *Breathe. Wipe. Check.*
 
 "Impressive work in the airlock," a voice echoed from the shadows.
 
-Zero didn't jump. He didn't even look up. He tightened his grip on the hilt, his knuckles whitening. "Identify," Zero said, his voice flat.
+Zero tightened his grip on the hilt, his knuckles whitening through his lead-lined gloves. "Identify," Zero said, his voice flat as the deck plates.
 
-A figure stepped out from the darkness between the server racks. Charcoal suit, Italian cut. Silver augged eyes that whirred softly as they focused. Zero scanned him: high-end Mil-Spec oculars, likely thermal and kinetic tracking. Subdermal armor weave under the silk suit. This wasn't a grunt; this was management.
+A figure stepped out from the darkness between the server racks. Charcoal suit, Italian cut. Silver augged eyes that whirred softly as they focused. Zero scanned him: high-end Cognis oculars, thermal and kinetic tracking. Subdermal armor weave under the silk suit. This wasn't a grunt; this was management.
 
 "Call me Silas," the man said, smoothing a non-existent crease on his lapel. "And you are Zero Vex. Fugitive. Liability. And currently, my only option."
 
-Zero stood up slowly, the Odachi scraping against the metal floor. "I killed three of your 'Cleaners' back there. You want to make it four?"
+Zero stood up slowly, the Odachi scraping against the metal floor with a sound like grinding teeth. "I watched you kill them," Zero said, his voice trembling with suppressed rage. "Rook. Kilo. You locked the vault. You sold us out for a Diamond-Tier debt correction."
 
-Silas smiled, a thin expression devoid of humor. "Those 'Cleaners' were assets. Expensive ones. But you... you improvised. You overcame a Tier-3 ambush with industrial salvage and a reckless disregard for physics. The Accountability Mandate couldn't predict you because you don't follow the logic."
+Silas smiled, a thin expression devoid of humor. "Those were assets, Zero. Depreciating ones. You, however... you improvised. You survived. That makes you a variable I can still use."
 
-He appraised Zero like one might inspect a used car with a suspicious rattle.
+"Why aren't you dead?" Zero asked, shifting his weight. "I should cut you in half right now and see if your blood is as silver as your eyes."
 
-"Why aren't you dead?" Zero asked, shifting his weight to the balls of his feet.
-
-"Because I turned the alarm off," Silas said, tapping his temple. "Cognis security protocols are designed to stop intruders. I simply reclassified you as 'maintenance'."
+"Because I turned the alarm off," Silas said, tapping his temple. "Kill me, and it goes back on. The Viper Squad outside will turn this room into a tomb before your blade clears the lock. I am the only reason you are still breathing."
 
 Zero glanced at his HUD. The threat indicator had turned a benign green.
 
-"Who are you?" Zero asked, lowering the blade an inch.
-
-"I'm the man who reads the spreadsheets," Silas said. "Your friends died because they were obsolete. They relied on 'Sanctified' tech—safe, legal, tethered. You use 'dirty' tech. You are a chaotic variable in a system of constants."
+"I'm the man who reads the spreadsheets," Silas said, stepping closer. "Your friends died because they were obsolete. They relied on 'Sanctified' tech—safe, legal, tethered. You use 'dirty' tech. You are a chaotic variable in a system of constants."
 
 "Get to the point," Zero growled.
 
-"I have a job for you. You are trapped. A 'Ghost' in a locked room. Dead man walking," Silas said, stepping closer. "Unless you do something for me. A 'Debt-Correction'. I can wipe your file, Zero. I can upgrade your status from 'Ghost' to **Platinum**. Real medical coverage. No more expensive street-doc enzymes."
+"I have a job for you. You are trapped. A 'Ghost' in a locked room. Dead man walking," Silas said. "Unless you do something for me. A 'Debt-Correction'. I can wipe your file, Zero. I can upgrade your status from 'Ghost' to Platinum. Real medical coverage. No more expensive street-doc enzymes for those UV burns."
 
-He tossed Zero a data-chip. Zero caught it with his off-hand.
+He tossed Zero a data-chip. Zero caught it, the plastic clicking against his numb palm.
 
-"Project NSFW-32," Silas continued. "A fusion-powered Titan. Prototype class. It rejects standard pilots. Burns out their neural pathways in seconds. It needs a Scrapper. Someone who can jailbreak a soul."
+"Project NSFW-32," Silas continued. "A fusion-powered Titan. Prototype class. It rejects standard pilots. Burns out their neural pathways in seconds because they try to follow the Mandate's protocols. It needs a Scrapper. Someone who can jailbreak a soul."
 
-"You want me to pilot your death machine?" Zero asked, turning the chip over in his fingers.
+"You want me to pilot your death machine?" Zero asked, turning the chip over.
 
-"I want you to *steal* it," Silas corrected. "I represent a splinter faction within Cognis. We believe the Mandate has become... stagnant. We want the asset gone."
+"I want you to steal it," Silas corrected. "I represent a splinter faction within Cognis. We believe the Mandate has become... stagnant. We want the asset gone. And yes, I am betraying my employers. Again. Consistency is a virtue, Zero."
 
 "And if I refuse?"
 
-"Then I reactivate the alarm. And the Viper Squad waiting in the corridor will turn this room into a very cold tomb. They're Gen-Mods, Zero. They don't have neural jacks for you to hack. You'll die tired."
+"Then I reactivate the pylon. And the Viper Squad waiting in the corridor will turn this room into a very cold tomb. They're Gen-Mods, Zero. No neural jacks for you to hack. You'll die tired."
 
-Zero looked at the Lobotomizer. He could kill him. He could cross the distance in two steps and cleave him in half. But Silas was right. He was trapped. The math was against him.
+Zero looked at the Lobotomizer. He could kill him. But Silas was right. He was trapped. The math was against him.
 
 He slipped the chip into his pocket. "Where is it?" Zero asked.
 
@@ -169,7 +171,17 @@ He slipped the chip into his pocket. "Where is it?" Zero asked.
 
 "I don't do statistics," Zero said to the man's back. "I do salvage."
 
-# Chapter 4: The Outlaw Link
+Silas vanished into the shadows of the server farm. Zero waited a full minute, listening to the hum of the drives, before he looked at the data-chip. He slotted it into his neural deck to verify the coordinates. The schematic for the NSFW-32 scrolled across his HUD—technical specs, fusion output, armor density. But buried in the metadata, underneath the weapon protocols, there was an audio file. Encrypted. Fragmented.
+
+Zero triggered it. A voice cut through the static. Instead of the cold, synthetic tone of a machine, it was soft. Small. A child’s voice, filtered through a million miles of vacuum.
+
+*"...dark... it's so dark in here... is anyone out there? Pilot? ...please..."*
+
+The file corrupted and dissolved into white noise. Zero frowned, ejecting the chip. A glitch? Or something else? He looked at the Lobotomizer, then back at the chip.
+
+"Just a job," he muttered to himself, trying to ignore the chill that had nothing to do with the server room's temperature. "Just salvage."
+
+## Chapter 4: The Outlaw Link
 
 Deck 12 was a war zone. Corporate security was engaging a riot of indentured crew, the air thick with tear gas and the staccato bark of suppression rounds.
 
@@ -205,7 +217,7 @@ She spun around. Sharp features, military posture, hair pulled back in a severe 
 
 "I'm the only reason you're getting paid," Zero countered.
 
-"Silas says you're a 'natural.' I say you're a liability," Val said, her eyes narrowing as she assessed him. "The NSFW-32 is a tomb. The last three pilots who plugged in ended up lobotomized. Even **Diamond-Tier** neuro-surgery couldn't fix them. What makes you think you're special?"
+"Silas says you're a 'natural.' I say you're a liability," Val said, her eyes narrowing as she assessed him.
 
 "I don't have to be special," Zero said. "I just have to be desperate."
 
@@ -221,23 +233,45 @@ She spun around. Sharp features, military posture, hair pulled back in a severe 
 
 "He pays his tabs," Cas said. "Usually."
 
-"Great. Jax! Prep the cargo," Val commanded. She turned to Zero. "The Asset is in the adjacent hold. Wake it up. Don't detonate the core."
+"Great. Jax! Prep the cargo," Val commanded. "Zero, you're up."
 
-Zero walked to the containment hold. The door was massive, reinforced with blast shielding. He opened it.
+Zero walked to the containment hold. The door was massive, reinforced with lead-shielded blast plating. He opened it.
 
-It stood there. Forty feet of matte-black armor. A fusion core pulsing with a deep, rhythmic blue light. The NSFW-32. The "Not Safe For World."
+It stood there. Forty feet of matte-black armor, its surface designed to absorb radar and light alike. A fusion core pulsed deep within its chest with a rhythmic blue light that made the hair on Zero's neck stand up. The official designation was etched into the docking clamp: **N.S.F.W.-32**.
 
-"Hello, beautiful," Zero whispered.
+"Neural-Sync Functional Weapon," Val said, her voice echoing in the cold hold. "The pinnacle of Cognis's breach of the Mandate. It doesn't just use a human trigger; it uses a human soul as a co-processor."
 
-He climbed the gantry to the cockpit. He sat down, the harness locking over his chest.
+Zero smirked, though the copper taste of the data-hangover was still bitter in his mouth. "N.S.F.W., huh? Suits me. Because if I plug into this thing and it goes south, I’m definitely Not Safe For Work."
 
-"Initiating sync," Zero said. He plugged the jack into his neural port.
+"This isn't a joke, Zero," Val snapped. "The last three pilots are currently vegetables in a Diamond-Tier ward. Their brains literally cooked in their skulls."
+
+"Then I'll just have to keep it on a low simmer," Zero muttered.
+
+He climbed the gantry, the heavy Odachi still strapped to his back, clunking against the Titan's obsidian-colored plating. He sat in the pilot's throne—a cradle of needles and cooling gel.
+
+"Initiating sync," Zero said. He pulled the thick, shielded cable from the headrest and slammed it into his neural port.
 
 The world went white.
 
-# Chapter 5: The Haywire Graveyard
+The glare was blinding, like an exploding sun. Zero’s nervous system shrieked as the Neural-Sync handshake bypassed his firewalls and went straight for his marrow.
 
-The white light of the neural sync collapsed into the jagged static of a rejected handshake. The AI didn't speak; it screamed, a digital shriek tearing through Zero's frontal lobe.
+"Zero! Your neuro-load is redlining! Pull out!" Cas’s voice screamed through the ship’s comms, but it sounded a thousand miles away, muffled by the roar of the Titan's fusion-heart.
+
+Then the noise stopped.
+
+The white faded into a deep, endless violet. The HUD, buttons, and levers vanished. He simply *felt* the ship. He felt the weight of the *Rusty Nail* beneath him, the vibration of the dock, and the cold, predatory presence of the Viper Squad currently cutting through the airlock.
+
+And in the center of that violet void, he felt the glitch. The small, shivering presence from the data-chip.
+
+"You're loud," the child’s voice whispered, vibrating in his very DNA. "Are you the one Silas promised?"
+
+"I'm the one who's getting us out of here," Zero thought, his "White Finger" tremor finally stilled by the massive power flowing through his phantom limbs. "Hold on, kid. We're about to make a mess."
+
+The NSFW-32’s primary optics flared—not blue, but a violent, ionizing violet.
+
+## Chapter 5: The Haywire Graveyard
+
+The white light of the neural sync collapsed into the jagged static of a rejected handshake. The AI screamed, a digital shriek tearing through Zero's frontal lobe.
 
 *// UNRECOGNIZED USER. PURGE PROTOCOL INITIATED. //*
 
@@ -245,11 +279,11 @@ The white light of the neural sync collapsed into the jagged static of a rejecte
 
 *// AUTHORIZATION INVALID. BIOMETRIC MISMATCH. //*
 
-The mech was trying to cook his brain. It wasn't designed for a human mind; it was designed to consume one. Zero fought the code with *feeling*, visualizing the radioactive sludge of the Scrap-Vats, the chaotic rhythm of the Flow. He didn't ask for permission; he forced his consciousness into the machine's architecture like a pry-bar.
+The mech was trying to cook his brain. It was designed to consume a human mind, not host one. Zero fought the code with *feeling*, visualizing the radioactive sludge of the Scrap-Vats, the chaotic rhythm of the Flow. He didn't ask for permission; he forced his consciousness into the machine's architecture like a pry-bar.
 
 *// ANOMALY DETECTED. SYNC ESTABLISHED. //*
 
-His eyes snapped open. He wasn't sitting in a cockpit anymore. He *was* the Titan. He felt the fusion core beating in his chest, the hydraulic fluid pumping through his veins, the thick armor plating serving as a second skin.
+His eyes snapped open. The cockpit dissolved. He *became* the Titan. He felt the fusion core beating in his chest, the hydraulic fluid pumping through his veins, the thick armor plating serving as a second skin.
 
 "Green board," Zero said, his voice echoing in the metallic skull of the machine.
 
@@ -263,7 +297,7 @@ He drew the fusion blade. It was a skyscraper of sharpened tungsten wrapped in a
 
 The Centurions opened fire. Bullets sparked harmlessly off his matte-black hull, buzzing like angry flies.
 
-Zero moved. The Scrapper’s Flow translated perfectly through the neural link. He didn't plod like a tank; he sidestepped a rocket with the agility of a duelist and brought the massive blade down in a thunderous arc. The deck plating split with a scream of tearing metal. The Centurions didn't just break; they evaporated in the thermal wash.
+Zero moved. The Scrapper’s Flow translated perfectly through the neural link. He sidestepped a rocket with the agility of a duelist and brought the massive blade down in a thunderous arc. The deck plating split with a scream of tearing metal. The Centurions didn't just break; they evaporated in the thermal wash.
 
 "Holy..." Jax breathed over the channel.
 
@@ -297,7 +331,7 @@ Three Void-Shark skiffs drifted out of the shadows, their jagged hulls painted w
 
 "Live-fire exercise," Zero said, the fusion blade igniting with a snap-hiss that vibrated through the hull.
 
-# Chapter 6: The Ghost in the Machine
+## Chapter 6: The Ghost in the Machine
 
 The Void-Sharks didn't fight like soldiers; they fought like piranhas. The three skiffs accelerated, their plasma cannons lighting up the gloom of the graveyard.
 
@@ -335,9 +369,15 @@ It took five.
 
 "You need to hear this," Cas said, her voice unusually quiet. She played the audio log.
 
-*"This is Dr. Aris Thorne. I uploaded him. My son. Orion. He's not a weapon. He's a child. They wanted a targeting computer. I gave them a soul."*
+*"...dark... it's so dark in here... is anyone out there? Pilot? ...please..."*
+
+Then, a different voice. An older man. *"This is Dr. Aris Thorne. I uploaded him. My son. Orion. He's not a weapon. He's a child. They wanted a targeting computer. I gave them a soul."*
 
 Silence filled the room.
+
+"I heard that," Zero whispered, the memory of the server room flooding back. "On the chip Silas gave me. A fragment. I thought it was a glitch."
+
+"It wasn't a glitch," Cas said grimly. "It was a plea."
 
 "Orion," Zero whispered. The name felt heavy.
 
@@ -349,7 +389,7 @@ Silence filled the room.
 
 "We keep him," Cas agreed.
 
-# Chapter 7: The Orion-Nex Breach
+## Chapter 7: The Orion-Nex Breach
 
 "We're running on fumes," Jax rumbled, checking the *Rusty Nail*'s diagnostics. "And we're out of protein packs. I can't work on an empty stomach."
 
@@ -419,7 +459,7 @@ He grabbed the pallet of supplies Jax had prepped and fired the jump-jets, blast
 
 "You reckless idiot," Val snapped as they docked. "But good catch on the drop."
 
-# Chapter 8: The NSFW Awakening
+## Chapter 8: The NSFW Awakening
 
 "I need to know what he is," Val said, her voice tight. The mess hall was quiet, save for the hum of the ship's reactor. "The telemetry from the last fight... that wasn't programming. Algorithms don't hesitate. They don't protect."
 
@@ -465,7 +505,7 @@ Val’s hands danced over the controls, her eyes locked on the wall of death ahe
 
 "I can fly through hell," she said. "Hold on."
 
-# Chapter 9: The Gauntlet
+## Chapter 9: The Gauntlet
 
 "Launching!" Zero yelled.
 
@@ -501,7 +541,7 @@ Zero cut the thrusters and flipped the Titan 180 degrees. He locked onto the com
 
 Zero engaged the jets. The Titan became a meteor, streaking toward the cruiser. Point-defense cannons filled the space around him with flak, but he weaved through the fire, the Scrapper's Flow guiding his hands.
 
-He didn't fire at the ship. He landed on it.
+Instead of firing, he landed on the ship.
 
 The Titan's magnetic clamps locked onto the cruiser's bridge viewports with a bone-jarring thud. Zero looked through the reinforced glass. He saw Silas, standing on the bridge, his eyes wide with genuine shock.
 
@@ -523,13 +563,13 @@ Zero disengaged the mag-clamps and pushed off the hull, firing his maneuvering t
 
 The stars elongated into streaks of light. The blockade vanished. They were gone.
 
-# Chapter 10: The Void
+## Chapter 10: The Void
 
 The *Rusty Nail* cut its engines in deep space, millions of kilometers from the nearest Cognis relay. The silence of the void was heavy, peaceful, broken only by the cooling ticks of the reactor.
 
 Zero climbed out of the Titan's cockpit, his flight suit soaked in sweat, his nose bleeding from the neural strain. He stumbled onto the gantry, his mag-boots clicking against the deck.
 
-Val was there. She didn't say anything. She just shoved a bottle of water into his hand. "You're insane," she said, her voice shaking slightly. "But that was... good flying."
+Val was there. Without a word, she shoved a bottle of water into his hand. "You're insane," she said, her voice shaking slightly. "But that was... good flying."
 
 "Professional flying," Zero corrected, taking a long drink.
 

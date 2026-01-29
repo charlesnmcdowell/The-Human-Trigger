@@ -4,7 +4,7 @@ The *Rusty Nail* cut its engines in deep space, millions of kilometers from the 
 
 Zero climbed out of the Titan's cockpit, his flight suit soaked in sweat, his nose bleeding from the neural strain. He stumbled onto the gantry, his mag-boots clicking against the deck.
 
-Val was there. She didn't say anything. She just shoved a bottle of water into his hand. "You're insane," she said, her voice shaking slightly. "But that was... good flying."
+Val was there. Without a word, she shoved a bottle of water into his hand. "You're insane," she said, her voice shaking slightly. "But that was... good flying."
 
 "Professional flying," Zero corrected, taking a long drink.
 

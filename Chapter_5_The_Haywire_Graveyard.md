@@ -12,7 +12,7 @@ The mech was trying to cook his brain. It was designed to consume a human mind, 
 
 *// ANOMALY DETECTED. SYNC ESTABLISHED. //*
 
-His eyes snapped open. He wasn't sitting in a cockpit anymore. He *was* the Titan. He felt the fusion core beating in his chest, the hydraulic fluid pumping through his veins, the thick armor plating serving as a second skin.
+His eyes snapped open. The cockpit dissolved. He *became* the Titan. He felt the fusion core beating in his chest, the hydraulic fluid pumping through his veins, the thick armor plating serving as a second skin.
 
 "Green board," Zero said, his voice echoing in the metallic skull of the machine.
 

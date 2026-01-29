@@ -8,7 +8,7 @@ He sat with his back against a rack, the Lobotomizer laid across his knees. He r
 
 "Impressive work in the airlock," a voice echoed from the shadows.
 
-Zero didn't jump. He didn't even look up. He tightened his grip on the hilt, his knuckles whitening through his lead-lined gloves. "Identify," Zero said, his voice flat as the deck plates.
+Zero tightened his grip on the hilt, his knuckles whitening through his lead-lined gloves. "Identify," Zero said, his voice flat as the deck plates.
 
 A figure stepped out from the darkness between the server racks. Charcoal suit, Italian cut. Silver augged eyes that whirred softly as they focused. Zero scanned him: high-end Cognis oculars, thermal and kinetic tracking. Subdermal armor weave under the silk suit. This wasn't a grunt; this was management.
 
@@ -52,7 +52,7 @@ He slipped the chip into his pocket. "Where is it?" Zero asked.
 
 Silas vanished into the shadows of the server farm. Zero waited a full minute, listening to the hum of the drives, before he looked at the data-chip. He slotted it into his neural deck to verify the coordinates. The schematic for the NSFW-32 scrolled across his HUD—technical specs, fusion output, armor density. But buried in the metadata, underneath the weapon protocols, there was an audio file. Encrypted. Fragmented.
 
-Zero triggered it. A voice cut through the static. It wasn't the cold, synthetic tone of a machine. It was soft. Small. A child’s voice, filtered through a million miles of vacuum.
+Zero triggered it. A voice cut through the static. Instead of the cold, synthetic tone of a machine, it was soft. Small. A child’s voice, filtered through a million miles of vacuum.
 
 *"...dark... it's so dark in here... is anyone out there? Pilot? ...please..."*
 

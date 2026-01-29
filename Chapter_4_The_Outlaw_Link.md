@@ -70,13 +70,13 @@ He climbed the gantry, the heavy Odachi still strapped to his back, clunking aga
 
 The world went white.
 
-It wasn't the white of a screen. It was the white of an exploding sun. Zero’s nervous system shrieked as the Neural-Sync handshake bypassed his firewalls and went straight for his marrow.
+The glare was blinding, like an exploding sun. Zero’s nervous system shrieked as the Neural-Sync handshake bypassed his firewalls and went straight for his marrow.
 
 "Zero! Your neuro-load is redlining! Pull out!" Cas’s voice screamed through the ship’s comms, but it sounded a thousand miles away, muffled by the roar of the Titan's fusion-heart.
 
 Then the noise stopped.
 
-The white faded into a deep, endless violet. Zero didn't see a HUD. He didn't see buttons or levers. He felt the ship. He felt the weight of the *Rusty Nail* beneath him, the vibration of the dock, and the cold, predatory presence of the Viper Squad currently cutting through the airlock.
+The white faded into a deep, endless violet. The HUD, buttons, and levers vanished. He simply *felt* the ship. He felt the weight of the *Rusty Nail* beneath him, the vibration of the dock, and the cold, predatory presence of the Viper Squad currently cutting through the airlock.
 
 And in the center of that violet void, he felt the glitch. The small, shivering presence from the data-chip.
 
