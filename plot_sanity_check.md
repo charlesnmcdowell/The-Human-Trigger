@@ -102,6 +102,13 @@
         *   **Space Travel:** **NO FTL/Warp.** Travel is via Fusion "Torch" Drives within the Solar System.
         *   **Gravity:** No artificial gravity fields. Characters rely on **Thrust Gravity** (under burn) or **Mag-Boots** (drifting).
     *   **Intensity:** Focus on near-misses (bullet dodges, ricochets) to heighten tension.
+*   [ ] **Cinematic Transitions:**
+    *   **Goal:** Give special attention to environments and transportation during scene shifts.
+    *   **Action:** Describe the vehicle, the surrounding world, and the sensory details (sound, atmosphere, visuals) when moving between locations.
+    *   **Examples:**
+        *   *Chapter 1:* Zero's jump to the bot is a transition. Describe the drop, the wind, the visualization of the mesh.
+        *   *Chapter 2:* Flight to the *Golden Spire*. Describe the *High-Roller*, the acid-rain smog, the thermal masking, and the visual dominance of the Spire.
+        *   *General:* Treat travel as a scene, not just a cut.
 *   [ ] **Voice Consistency:** Ensure dialogue matches the specific archetypes above.
 *   [ ] **Jargon Hygiene:** Avoid using in-world proper nouns or terminology (e.g., "Sanctified," "Flow," "Cleaners," "Shadow-Net") in the narration *before* they are introduced or defined through context or dialogue. First impressions should be descriptive.
     *   **Rule:** If a term is capitalized, it must be explained or contextualized within 3 paragraphs.
