@@ -331,11 +331,11 @@ Zero moved. The Scrapper’s Flow translated perfectly through the neural link. 
 
 "Punching it!" Val yelled.
 
-The ship lurched, fusion drives screaming as they blasted out of the dock and into the void.
+The ship lurched, fusion drives screaming as they blasted out of the dock and into the void. The acceleration pinned Zero to the pilot's couch, the G-force pressing the air from his lungs. The viewscreen blurred into streaks of starlight as Val burned hard for the system's edge.
 
 ***
 
-The *Rusty Nail* cut its main torch, drifting into the shadow of the **Haywire Graveyard**, a radioactive reef of shattered warships and orbital debris. It was a place where sensors went to die and ghosts came to hide.
+Hours later, the *Rusty Nail* cut its main torch, drifting into the shadow of the **Haywire Graveyard**. It was a massive, orbital scar—a debris field of shattered warships and industrial refuse that spanned a thousand kilometers. The radiation static here was thick enough to taste, a metallic tang on the back of the tongue. On the HUD, the graveyard looked like a cloud of angry hornets; visually, it was a reef of twisted iron and frozen propellant, where sensors went to die and ghosts came to hide.
 
 "We need to calibrate," Zero said, his voice sounding thin in the quiet cockpit. "Hades is running hot."
 
@@ -426,6 +426,10 @@ Jax nodded. "I know it. Weak foundations in the loading bay. I welded those beam
 "I can get us in through a vent," Zero said. "Simple in-and-out."
 
 ***
+
+The approach was a silent glide. Val killed the *Rusty Nail's* running lights, letting the ship drift like just another piece of space junk until they were in the depot's blind spot. Zero and Jax cycled the airlock, stepping out into the vacuum.
+
+Magnetic boots clicked silently against the hull of the depot. The station was a brutalist block of concrete and steel, scarred by micrometeoroids. Zero led the way, his breath loud in his helmet, guiding them to an exhaust port that vented recycled atmosphere in rhythmic, crystallized puffs.
 
 Zero crawled through the tight maintenance shaft, the air stale and metallic. He reached the grate overlooking the warehouse floor and popped it. "I'm in," he whispered over the comms. "Opening bay doors."
 
@@ -587,7 +591,9 @@ Zero disengaged the mag-clamps and pushed off the hull, firing his maneuvering t
 
 "Jump!" Val commanded.
 
-The stars elongated into streaks of light. The blockade vanished. They were gone.
+She slammed the throttle forward. The inertial dampeners groaned, overwhelmed by the sudden violence of the burn. For a second, Zero felt his vision tunnel, the blood rushing to the back of his skull. The universe outside the viewport didn't just blur; it *screamed*. The stars elongated into infinite, needle-thin streaks of white light as the fusion torch dumped its entire reserve into a frantic, relativistic sprint.
+
+The blockade vanished, left behind in a wake of distorted space. They were gone.
 
 ## Chapter 10: The Void
 

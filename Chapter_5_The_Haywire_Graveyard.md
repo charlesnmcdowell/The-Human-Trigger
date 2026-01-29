@@ -34,11 +34,11 @@ Zero moved. The Scrapper’s Flow translated perfectly through the neural link. 
 
 "Punching it!" Val yelled.
 
-The ship lurched, fusion drives screaming as they blasted out of the dock and into the void.
+The ship lurched, fusion drives screaming as they blasted out of the dock and into the void. The acceleration pinned Zero to the pilot's couch, the G-force pressing the air from his lungs. The viewscreen blurred into streaks of starlight as Val burned hard for the system's edge.
 
 ***
 
-The *Rusty Nail* cut its main torch, drifting into the shadow of the **Haywire Graveyard**, a radioactive reef of shattered warships and orbital debris. It was a place where sensors went to die and ghosts came to hide.
+Hours later, the *Rusty Nail* cut its main torch, drifting into the shadow of the **Haywire Graveyard**. It was a massive, orbital scar—a debris field of shattered warships and industrial refuse that spanned a thousand kilometers. The radiation static here was thick enough to taste, a metallic tang on the back of the tongue. On the HUD, the graveyard looked like a cloud of angry hornets; visually, it was a reef of twisted iron and frozen propellant, where sensors went to die and ghosts came to hide.
 
 "We need to calibrate," Zero said, his voice sounding thin in the quiet cockpit. "Hades is running hot."
 

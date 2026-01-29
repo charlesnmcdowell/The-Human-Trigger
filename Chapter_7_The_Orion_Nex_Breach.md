@@ -10,6 +10,10 @@ Jax nodded. "I know it. Weak foundations in the loading bay. I welded those beam
 
 ***
 
+The approach was a silent glide. Val killed the *Rusty Nail's* running lights, letting the ship drift like just another piece of space junk until they were in the depot's blind spot. Zero and Jax cycled the airlock, stepping out into the vacuum.
+
+Magnetic boots clicked silently against the hull of the depot. The station was a brutalist block of concrete and steel, scarred by micrometeoroids. Zero led the way, his breath loud in his helmet, guiding them to an exhaust port that vented recycled atmosphere in rhythmic, crystallized puffs.
+
 Zero crawled through the tight maintenance shaft, the air stale and metallic. He reached the grate overlooking the warehouse floor and popped it. "I'm in," he whispered over the comms. "Opening bay doors."
 
 Jax moved onto the loading floor, his "Dread-Plate" armor whining under the strain. The massive exoskeleton, with its hazard-striped pauldrons and hydraulic pistons, allowed him to lift pallets that would have crushed a standard forklift. He worked with the rhythmic efficiency of a machine, stacking crates of supplies near the airlock.
