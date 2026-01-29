@@ -1,5 +1,11 @@
 # Chapter 3: The Offer
 
+The escape wasn't a run; it was a bleed.
+
+Zero moved through the *Golden Spire's* waste-disposal veins, a labyrinth of pressurized chutes and chemical sluices that stank of ozone and corporate excess. Above him, the alarms were a distant, rhythmic throb, like a headache that wouldn't quit. He could hear the Cleaners moving through the upper ventilation shafts—wet, heavy slaps of carbon-fiber feet hunting for a pulse.
+
+He didn't give them one. He scrambled down a service ladder, his breath misting in the rapidly dropping temperature. He was descending into the building's nervous system, leaving the gilded atrium for the frozen, sterile dark of the data-core.
+
 Zero holed up in Server Node 7, a sub-zero archive room filled with rows of humming backup drives. The cold bit through his flight suit, numbing the chemical burn in his lungs. It was perfect. Thermal optics would struggle to distinguish his body heat from the servers' exhaust vents.
 
 He sat with his back against a rack, the Lobotomizer laid across his knees. He ran a diagnostic on the blade—magnetic containment at 94%. It was leaking heat, singing the deck plating with a faint, violet aura that hissed like a trapped snake. He pulled a rag from his pocket and began to wipe the carbon scoring from the hilt, his hands shaking with a "White Finger" tremor that the cold only made worse.
