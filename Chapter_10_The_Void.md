@@ -10,7 +10,7 @@ Val was there. Without a word, she shoved a bottle of water into his hand. "You'
 
 Jax slapped him on the back, the massive gauntlet of his Dread-Plate nearly knocking the wind out of him. The impact would have sent Zero spinning in the zero-g, but his magnetic soles held him firm. "Did you see his face? Silas looked like he swallowed a lemon!" The giant laughed, a deep, tectonic rumble that filled the bay.
 
-Cas spun around in her chair, her face lit by the glow of her screens. "You guys aren't going to believe this. The footage from the fight? It's viral. We're trending #1 on the Shadow-Net. 'Kill-Creds' are through the roof."
+Cas spun around in her chair, her face lit by the glow of her screens. "You guys aren't going to believe this. The footage from the fight? It's viral. We're trending #1 on the Shadow-Net. 'Kill-Creds' are through the roof. We're not just rich; we're legends."
 
 "Great," Zero said, wiping the blood from his lip. "We're famous. And hunted."
 

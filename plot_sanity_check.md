@@ -48,7 +48,7 @@ Use this checklist for every chapter review.
 *   **Ghost:** Zero coverage. Street tech only (CRISPR-Cascade w/ enzyme shots).
 
 ## Motivations
-*   **Runners' Goal:** Not immortality, but **Luxury**. Retirement. A ticket out of the slums to the "Upper Ring" or a terraformed colony. "The Big Score."
+*   **Runners' Goal:** Not immortality, but **Luxury & Legacy**. Retirement to the "Upper Ring" and the desire to be **Legends** in the underworld. "The Big Score" + "Infamy."
 
 ## Locations
 *   **Shadow of Jupiter:** Main setting. Slums.

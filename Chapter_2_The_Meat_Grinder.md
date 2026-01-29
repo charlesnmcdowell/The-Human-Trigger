@@ -40,7 +40,7 @@ Then the lift doors chimed. A squad of heavy-response troops poured out, shields
 
 "Contact!" Rook yelled.
 
-The hallway erupted. Rook dropped to one knee, the white Cognis carbine singing a high-pitched, staccato rhythm. *Thwip-thwip-thwip.* The "Sanctified" tracking system was flawless. Every round found a gap in the armor—neck, visor, knee joint. Rook moved with the fluid grace of a dancer, trusting the digital heartbeat of his weapon implicitly. He dropped three guards in two seconds. "Oscar Mike to the vault! I can smell the ocean breeze already! We're not FUBAR yet!"
+The hallway erupted. Rook dropped to one knee, the white Cognis carbine singing a high-pitched, staccato rhythm. *Thwip-thwip-thwip.* The "Sanctified" tracking system was flawless. Every round found a gap in the armor—neck, visor, knee joint. Rook moved with the fluid grace of a dancer, trusting the digital heartbeat of his weapon implicitly. He dropped three guards in two seconds. "Oscar Mike to the vault! We're gonna be legends, Zero! The whole Sprawl is gonna know our names!"
 
 Alarms blared—a rhythmic, deafening klaxon. Red lights washed the gold walls in blood.
 
