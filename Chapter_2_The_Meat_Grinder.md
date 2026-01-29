@@ -16,11 +16,33 @@ Silas didn't turn from the pilot’s console. He sat rigid, his eyes glazed in t
 
 "There’s always a variable," Zero muttered. He slid the Lobotomizer into the saya. *SNAKT.* The magnetic lock caught with a heavy, industrial thud.
 
-The transition to the *Golden Spire* was a blur of pressurized steam and the metallic tang of recycled air. They moved through the corridors like shadows—until they hit the vault threshold.
+The transition to the *Golden Spire* was a blur of pressurized steam and the metallic tang of recycled air.
+
+"Perimeter active," Kilo whispered, her voice a ghost over the sub-vocal comms. She moved ahead, a wraith in matte-grey cam-weave. Two corporate sentries stood by the lift cluster, their helmets scanning for thermal signatures. Kilo ignored her sidearm. She flicked a ceramic coin into the far corner. As the helmets turned, she moved. A mono-filament garrote snapped tight. No sound. No struggle. Just the soft thud of bodies hitting the carpet. "Lift clear. Zero, you're up."
+
+Zero stepped over the bodies, checking his corners. "Too easy."
+
+"Silas jammed the local sensors," Rook said, his confidence radiating like heat. "We're ghosts."
+
+Then the lift doors chimed. A squad of heavy-response troops poured out, shields raised.
+
+"Contact!" Rook yelled.
+
+The hallway erupted. Rook dropped to one knee, the white Cognis carbine singing a high-pitched, staccato rhythm. *Thwip-thwip-thwip.* The "Sanctified" tracking system was flawless. Every round found a gap in the armor—neck, visor, knee joint. Rook moved with the fluid grace of a dancer, trusting the digital heartbeat of his weapon implicitly. He dropped three guards in two seconds, his laugh echoing over the channel. "Platinum Status, baby! They can't touch us!"
+
+Alarms blared—a rhythmic, deafening klaxon. Red lights washed the gold walls in blood.
+
+"Vault access in ten seconds!" Kilo shouted, slapping a breaching charge onto the massive blast doors. "Cover me!"
+
+Zero deflected a stray plasma bolt with the flat of his sheath, the magnetic field sparking. They were winning. It was precise. It was perfect. They reached the vault threshold, the adrenaline singing in their veins.
+
+"Charge set!" Kilo yelled. "Blow it!"
+
+Then the klaxons cut out. The lights died. The gunfire stopped.
 
 The world was silent.
 
-Rook screamed as the weapon let out a pathetic, electronic whine. The green seal turned a jagged, pulsing red. The Cognis firmware didn't just lock the firing pin; it dumped the entire thermal load of the power cell into the cooling vents at once. The white ceramic turned a scorching, blister-inducing black in Rook's hands. He was holding a localized meltdown designed to maim the "unauthorized."
+Rook screamed as the weapon let out a pathetic, electronic whine. The green seal turned a jagged, pulsing red. The Cognis firmware locked the firing pin and dumped the entire thermal load of the power cell into the cooling vents at once. The white ceramic turned a scorching, blister-inducing black in Rook's hands. He was holding a localized meltdown designed to maim the "unauthorized."
 
 "My HUD," Rook gasped, stumbling as his targeting optics—linked to the carbine's sensors—dissolved into grey static. "I’m blind! The Mandate... it’s revoking my permissions!"
 
