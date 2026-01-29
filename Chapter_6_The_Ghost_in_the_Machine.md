@@ -36,9 +36,15 @@ It took five.
 
 "You need to hear this," Cas said, her voice unusually quiet. She played the audio log.
 
-*"This is Dr. Aris Thorne. I uploaded him. My son. Orion. He's not a weapon. He's a child. They wanted a targeting computer. I gave them a soul."*
+*"...dark... it's so dark in here... is anyone out there? Pilot? ...please..."*
+
+Then, a different voice. An older man. *"This is Dr. Aris Thorne. I uploaded him. My son. Orion. He's not a weapon. He's a child. They wanted a targeting computer. I gave them a soul."*
 
 Silence filled the room.
+
+"I heard that," Zero whispered, the memory of the server room flooding back. "On the chip Silas gave me. A fragment. I thought it was a glitch."
+
+"It wasn't a glitch," Cas said grimly. "It was a plea."
 
 "Orion," Zero whispered. The name felt heavy.
 
