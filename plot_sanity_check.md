@@ -6,6 +6,7 @@ Use this checklist for every chapter review.
 - [ ] **Narrator:** Third Person Limited (Zero's POV). Cynical, noir-inflected narration.
 - [ ] **Dialogue Tags:** Explicit tags ("Zero said," "Jax rumbled") for every speaker change.
 - [ ] **Cast Consistency:** Ensure dialogue matches character archetypes (Zero=Witty/Dry, Cas=Fast/Transactional, Val=Cold/Military, Jax=Slow/Tectonic).
+- [ ] **Dialogue Authority:** Permission granted to rewrite dialogue that feels "out of voice" or generic, even if it changes the specific phrasing. Prioritize character voice over literal instruction.
 
 ### 2. Style & Rhetoric
 - [ ] **Rhetoric Scrub:** **ZERO** instances of "Not X, but Y" or "It didn't X; it Y." Reword as direct descriptions.

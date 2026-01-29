@@ -12,7 +12,7 @@ His pulse hammered against his ribs. He prepared the Logic-Bomb in his neural de
 
 "Heads up, Samurai," Cas's voice chirped in his ear, overlaying the bot's schematic on his HUD. "I spent three weeks decrypting their patrol algorithms to find this gap, so try not to waste my time. That's a Centurion Mark-IV. Manufactured by Cognis Heavy Industries. Retail price: more than your entire life's earnings. Their firewall is 'Sanctified' grade, meaning it phones home to the corporate servers every 0.4 seconds to check if it has permission to kill you. Don't let it make that call."
 
-"Sanctified Grade? I doubt anything's angelic about their tech. Alright, Cognis," Zero whispered, tapping his temple where the illegal jack sat. "Let's see how your servers like a recursive paradox."
+"Sanctified Grade? Please. Angels don't carry gatling guns. Alright, Cognis," Zero whispered, tapping his temple where the illegal jack sat. "Let's see how you handle a dirty handshake."
 
 "Sanctified means it's 'Soul-Verified', genius," Cas corrected, her voice dripping with mock-patience. "It means that hunk of metal has a real-time handshake with the central servers. It's the Accountability Mandate in action—no trigger pulls without a verified human soul on the other end to take the legal rap. But you're about to clog that handshake with junk data, aren't you? A 'Logic-Bomb'. It's going to panic the weapon. It'll stall, waiting for an authorization that you're currently DDoSing into oblivion."
 
@@ -245,7 +245,7 @@ She spun around. Sharp features, military posture, hair pulled back in a severe 
 
 "Silas says you're a 'natural.' I say you're a liability," Val said, her eyes narrowing as she assessed him.
 
-"I don't have to be special," Zero said. "I just have to be desperate."
+"I'm not special," Zero said, checking the mag-lock on his Odachi. "I'm just the only one crazy enough to plug a dead man's jack into that chair."
 
 "Desperation makes you sloppy," Val countered. "But we're on a clock. Cas! Are we clear?"
 

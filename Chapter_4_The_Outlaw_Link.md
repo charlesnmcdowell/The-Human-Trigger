@@ -38,7 +38,7 @@ She spun around. Sharp features, military posture, hair pulled back in a severe 
 
 "Silas says you're a 'natural.' I say you're a liability," Val said, her eyes narrowing as she assessed him.
 
-"I don't have to be special," Zero said. "I just have to be desperate."
+"I'm not special," Zero said, checking the mag-lock on his Odachi. "I'm just the only one crazy enough to plug a dead man's jack into that chair."
 
 "Desperation makes you sloppy," Val countered. "But we're on a clock. Cas! Are we clear?"
 
