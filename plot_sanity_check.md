@@ -28,7 +28,11 @@
     *   **Combat Implication:** Zero cannot "DDoS their souls." He must rely on physical speed (The Lobotomizer) or terrain to survive them.
 *   **Void-Sharks:** Local pirate gang in the Jovian shadow. Petty criminals compared to the Corp.
 *   **Zero-Sum (formerly Neon Jackals):** Zero's old crew. Wiped out in the *Golden Spire* ambush.
-*   **The Human Trigger (New Crew):** Zero, Val, Jax, Cas (and Orion). Fugitives.
+*   **Silas (The Auditor):**
+    *   **Role:** Corporate Fixer / Antagonist.
+    *   **Motivation:** "Balancing the ledger."
+    *   **Secret Agenda:** He isn't destroying the NSFW-32; he's stealing it to sell to the **Rebel Faction (The Human Trigger)** or the highest bidder on the black market. He needs Zero (a disposable Ghost) to launder the theft so Cognis doesn't trace it back to him.
+    *   **Methods:** Bribes (Diamond Status) or threats (Viper Squad).
 
 ### Technology & Lore
 *   **The Human Trigger:** Political movement that ended the AI wars by demanding weapons be tethered to a verified human mind.
@@ -41,7 +45,10 @@
     *   **Physical Toll:** Causes UV burns and "White Finger" vibration syndrome. 140db shriek.
     *   **Feel:** A localized meltdown held in a magnetic bottle.
 *   **Logic-Bombs:** Zero's method of stalling Sanctified tech. Causes physical toll (nosebleeds, "Data-Hangover").
+    *   **Neural Deck:** A cybernetic implant (usually at the temple or base of skull) that allows for direct brain-to-machine interface. Zero's is "Dirty"—unshielded and modified for illegal overrides.
     *   **Ghost:** Zero's status—deleted from the Mandate, a non-person.
+    *   **Shadow-Net:** The illegal, decentralized mesh network used by Ghosts and criminals to communicate outside the Mandate's surveillance.
+    *   **Debt-Correction:** A corporate euphemism for assassination or asset seizure.
 *   **Healthcare & The Social Contract (Cognis Life-Sustain Tiers):**
     *   **Diamond:** "The Immortals." Real-time connectome backup to orbital satellites. In case of death, consciousness is downloaded to a clone. Reserved for the 0.01%.
     *   **Platinum:** "Extraction Class." Armed medical retrieval teams (3-minute response guarantee). Stabilize and retrieve regardless of location. Corporate VIPs.
@@ -94,7 +101,8 @@
         *   **Gravity:** No artificial gravity fields. Characters rely on **Thrust Gravity** (under burn) or **Mag-Boots** (drifting).
     *   **Intensity:** Focus on near-misses (bullet dodges, ricochets) to heighten tension.
 *   [ ] **Voice Consistency:** Ensure dialogue matches the specific archetypes above.
-*   [ ] **Jargon Hygiene:** Avoid using in-world proper nouns or terminology (e.g., "Sanctified," "Flow," "Cleaners") in the narration *before* they are introduced or defined through context or dialogue. First impressions should be descriptive.
+*   [ ] **Jargon Hygiene:** Avoid using in-world proper nouns or terminology (e.g., "Sanctified," "Flow," "Cleaners," "Shadow-Net") in the narration *before* they are introduced or defined through context or dialogue. First impressions should be descriptive.
+    *   **Rule:** If a term is capitalized, it must be explained or contextualized within 3 paragraphs.
 *   [ ] **Show, Don't Tell:** Use Third Person (Narrator) to describe the world, while voice actors bring characters to life.
 *   [ ] **Logic Check:** Ensure tech rules (Sanctified vs. Dirty) are consistent.
 *   [ ] **Timeline:** Ensure the transition from Ch 1 (Present) to Ch 2 (Flashback/Heist) to Ch 4 (Reunion) holds up.

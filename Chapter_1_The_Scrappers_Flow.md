@@ -5,7 +5,7 @@ Sector 4 smelled of sulfur and wet rust—the scent of a ship dying slowly. It w
 
 Zero checked his thermal readout. 98%. The unshielded plasma edge would burn at 3,000 Kelvin. Far from corporate-standard, this was a piece of industrial salvage he'd stripped of every limiter that kept a user from being cooked alive by their own weapon. He was here for one thing: the payout. The Class-4 Micro-Fusion Cell beating inside the bot’s chest contained enough refined Helium-3 to power a slum-sector for a month. A mid-level fixer for the Void-Sharks had put a bounty on these specific cores—likely to retrofit their aging fleet of scavenged ships. They didn't ask questions about where the hardware came from, which made them Zero's favorite kind of client.
 
-His pulse hammered against his ribs. He prepared the Logic-Bomb in his neural deck.
+His pulse hammered against his ribs. He prepared the Logic-Bomb in his neural deck—the illegal interface port grafted to his right temple. It hummed with a low-voltage itch, ready to inject his consciousness into the local mesh.
 
 "Heads up, Samurai," Cas's voice chirped in his ear, overlaying the bot's schematic on his HUD. "I spent three weeks decrypting their patrol algorithms to find this gap, so try not to waste my time. That's a Centurion Mark-IV. Manufactured by Cognis Heavy Industries. Retail price: more than your entire life's earnings. Their firewall is 'Sanctified' grade, meaning it phones home to the corporate servers every 0.4 seconds to check if it has permission to kill you. Don't let it make that call."
 

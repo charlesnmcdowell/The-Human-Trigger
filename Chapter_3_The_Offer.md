@@ -53,3 +53,19 @@ He slipped the chip into his pocket. "Where is it?" Zero asked.
 "Deck 12. The Vault," Silas said, turning to leave. "Try not to break it. It's worth more than this entire sector."
 
 "I don't do statistics," Zero said to the man's back. "I do salvage."
+
+Silas vanished into the shadows of the server farm. Zero waited a full minute, listening to the hum of the drives, before he looked at the data-chip in his hand.
+
+He slotted it into his neural deck to verify the coordinates. The schematic for the NSFW-32 scrolled across his HUD—technical specs, fusion output, armor density. But buried in the metadata, underneath the weapon protocols, there was an audio file. Encrypted. Fragmented.
+
+Zero triggered it.
+
+A voice cut through the static. It wasn't the cold, synthetic tone of a machine. It was soft. Small.
+
+*"...dark... it's so dark in here... is anyone out there? Pilot? ...please..."*
+
+The file corrupted and dissolved into white noise.
+
+Zero frowned, ejecting the chip. A glitch? Or something else? He looked at the Lobotomizer, then back at the chip.
+
+"Just a job," he muttered to himself, trying to ignore the chill that had nothing to do with the server room's temperature. "Just salvage."
