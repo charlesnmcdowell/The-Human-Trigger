@@ -16,6 +16,10 @@ Silas didn't turn from the pilot’s console. He sat rigid, his eyes glazed in t
 
 "There’s always a variable," Zero muttered. He slid the Lobotomizer into the saya. *SNAKT.* The magnetic lock caught with a heavy, industrial thud.
 
+The *High-Roller* banked hard through the acid-rain smog of Sector 1, its thermal masking engines humming a low, undetectable vibrato. Below them, the sprawl was a canyon of neon and misery, but ahead, the *Golden Spire* pierced the cloud layer like a needle of pure avarice. It was a monolith of gilded durasteel, the headquarters of the Cognis Treasury, wreathed in a perpetual halo of pressurized steam vents that kept the plebeian atmosphere from corroding its shine.
+
+Silas brought them in on a silent vector, docking the transport at a service port usually reserved for waste disposal. The airlock cycled with a hiss of decontamination gas.
+
 The transition to the *Golden Spire* was a blur of pressurized steam and the metallic tang of recycled air.
 
 "Perimeter active," Kilo whispered, her voice a ghost over the sub-vocal comms. She moved ahead, a wraith in matte-grey cam-weave. Two corporate sentries stood by the lift cluster, their helmets scanning for thermal signatures. Kilo ignored her sidearm. She flicked a ceramic coin into the far corner. As the helmets turned, she moved. A mono-filament garrote snapped tight. No sound. No struggle. Just the soft thud of bodies hitting the carpet. "Lift clear. Zero, you're up."
