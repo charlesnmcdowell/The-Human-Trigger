@@ -12,7 +12,7 @@ Rook tapped the glowing green 'Sanctified' seal on the carbine’s receiver. It 
 
 "Then it’s a good thing we’re the best contractors they’ve got," Kilo called out from the back, her hands buried in the guts of a thermite charge. "Silas, tell the boy the math. He’s making me nervous with that 'doomsday' talk."
 
-Silas didn't turn from the pilot’s console. He sat rigid, his eyes glazed in the milky-white sheen of a deep-data trance. Unlike the others, Silas was a "Pure," his brain genetically tuned for data-processing rather than augmented with chips. "The route is verified. The vault's security mesh is on a sub-routine loop. There are no variables. Only the payout."
+Silas didn't turn from the pilot’s console. He sat rigid, his eyes glazed in the milky-white sheen of a deep-data trance. Unlike the others, Silas was a "Pure," his brain genetically tuned for data-processing rather than augmented with chips. "The route is verified. The Cognis Treasury Vault is holding three tons of physical bearer bonds. Untraceable. The security mesh is on a sub-routine loop. There are no variables. Only the payout."
 
 "There’s always a variable," Zero muttered. He slid the Lobotomizer into the saya. *SNAKT.* The magnetic lock caught with a heavy, industrial thud.
 
