@@ -6,19 +6,21 @@ The memory tasted of sulfur and ozone, a phantom sting that bit harder than the 
 
 Zero didn't stop the rhythmic scrape of the whetstone. "The magnetic track on the saya has a three-millisecond delay. If the handshake fails, I need the friction to be zero. I don't trust the magnets. I don't trust the ship. And I definitely don't trust that bone-white toy in your lap."
 
-Rook tapped the glowing green 'Sanctified' seal on the carbine’s receiver. It pulsed with a rhythmic, haptic beat—a "digital heartbeat" synced to his own. "It feels me, Zero. The Human Trigger. Cognis engineering says this tracks a heartbeat through a meter of reinforced concrete. To me, it's a lullaby. No AI. Just my intent, amplified. This job is my ticket to **Platinum Status**, Zero. Real medical coverage. A future."
+Rook tapped the glowing green 'Sanctified' seal on the carbine’s receiver. It pulsed with a rhythmic, haptic beat—a "digital heartbeat" synced to his own. "It feels me, Zero. The Mandate's promise. Cognis engineering says this tracks a heartbeat through a meter of reinforced concrete. To me, it's a lullaby. No AI. Just my intent, amplified. This job is my ticket to **Platinum Status**. Real medical coverage. A future."
 
-"It’s the Accountability Mandate, Rook," Zero said, looking up. The whetstone went silent. "That digital heartbeat is the sound of a ticking clock. The 'law' is a line of code in a Cognis server. That gun is a leash. The Human Trigger wasn't meant to empower you; it was meant to monitor you. If Cognis decides your pulse is a liability, that weapon bricks. It’s not yours. It’s theirs."
+"It’s the Accountability Mandate, Rook," the scrapper said, looking up. The whetstone went silent. "That digital heartbeat is the sound of a ticking clock. The law requires every weapon to phone home to a Cognis server before it fires. That gun is a leash. The tech was designed to monitor you, not empower you. If Cognis decides your pulse is a liability, that weapon bricks. It’s not yours. It’s theirs."
 
 "Then it’s a good thing we’re the best contractors they’ve got," Kilo called out from the back, her hands buried in the guts of a thermite charge. "Silas, tell the boy the math. He’s making me nervous with that 'doomsday' talk."
 
-Silas didn't turn from the pilot’s console. He sat rigid, his eyes glazed in the milky-white sheen of a deep-data trance. Unlike the others, Silas was a "Pure," his brain genetically tuned for data-processing rather than augmented with chips. "The route is verified. The vault's security mesh is on a sub-routine loop. There are no variables, Zero. Only the payout."
+Silas didn't turn from the pilot’s console. He sat rigid, his eyes glazed in the milky-white sheen of a deep-data trance. Unlike the others, Silas was a "Pure," his brain genetically tuned for data-processing rather than augmented with chips. "The route is verified. The vault's security mesh is on a sub-routine loop. There are no variables. Only the payout."
 
 "There’s always a variable," Zero muttered. He slid the Lobotomizer into the saya. *SNAKT.* The magnetic lock caught with a heavy, industrial thud.
 
-The transition to the *Golden Spire* was a blur of pressurized steam and the metallic tang of recycled air. They moved through the corridors like shadows—until they hit the vault threshold. The world didn't explode. It went silent.
+The transition to the *Golden Spire* was a blur of pressurized steam and the metallic tang of recycled air. They moved through the corridors like shadows—until they hit the vault threshold.
 
-Rook screamed as the weapon let out a pathetic, electronic whine. The green seal turned a jagged, pulsing red. The Cognis firmware didn't just lock the firing pin; it dumped the entire thermal load of the power cell into the cooling vents at once. The white ceramic turned a scorching, blister-inducing black in Rook's hands. He wasn't holding a club; he was holding a localized meltdown designed to maim the "unauthorized."
+The world was silent.
+
+Rook screamed as the weapon let out a pathetic, electronic whine. The green seal turned a jagged, pulsing red. The Cognis firmware didn't just lock the firing pin; it dumped the entire thermal load of the power cell into the cooling vents at once. The white ceramic turned a scorching, blister-inducing black in Rook's hands. He was holding a localized meltdown designed to maim the "unauthorized."
 
 "My HUD," Rook gasped, stumbling as his targeting optics—linked to the carbine's sensors—dissolved into grey static. "I’m blind! The Mandate... it’s revoking my permissions!"
 

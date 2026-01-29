@@ -87,9 +87,11 @@
 ### Quality Control Checklist
 *   [ ] **Repetition Check:** Scan for overused phrases ("The universe wanted him dead," "Zero did X"). Vary sentence structure.
 *   [ ] **Rhetorical Optimization (Antithesis/Correctio Overuse):**
-    *   **Goal:** Reduce the "Not X, but Y" structure (e.g., "The blade didn't just hum; it growled," "I wasn't here to fight; I was here to steal") by ~50%.
-    *   **Action:** Rewrite as direct descriptions or metaphors while keeping the hard-boiled tone.
-    *   **Exception:** Preserve only the most impactful contrasts essential to emotional beats.
+    *   **Goal:** Eliminate the "Not X, but Y" or "It didn't X. It Y" structure entirely.
+    *   **Action:** Rewrite as direct, simple descriptions.
+        *   *Bad:* "The world didn't explode. It went silent."
+        *   *Good:* "The world was silent."
+    *   **Exception:** None. Simplicity is key.
 *   [ ] **Action & Tone (Witcher Style):**
     *   **Goal:** Increase grit, robot destruction, explosions, and gore.
     *   **Style:** Emphasize *preparation* (Witcher style). Show characters prepping gear, analyzing threats, and using specific styles to solve problems.

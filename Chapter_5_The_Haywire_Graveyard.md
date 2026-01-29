@@ -1,6 +1,6 @@
 # Chapter 5: The Haywire Graveyard
 
-The white light of the neural sync collapsed into the jagged static of a rejected handshake. The AI didn't speak; it screamed, a digital shriek tearing through Zero's frontal lobe.
+The white light of the neural sync collapsed into the jagged static of a rejected handshake. The AI screamed, a digital shriek tearing through Zero's frontal lobe.
 
 *// UNRECOGNIZED USER. PURGE PROTOCOL INITIATED. //*
 
@@ -8,7 +8,7 @@ The white light of the neural sync collapsed into the jagged static of a rejecte
 
 *// AUTHORIZATION INVALID. BIOMETRIC MISMATCH. //*
 
-The mech was trying to cook his brain. It wasn't designed for a human mind; it was designed to consume one. Zero fought the code with *feeling*, visualizing the radioactive sludge of the Scrap-Vats, the chaotic rhythm of the Flow. He didn't ask for permission; he forced his consciousness into the machine's architecture like a pry-bar.
+The mech was trying to cook his brain. It was designed to consume a human mind, not host one. Zero fought the code with *feeling*, visualizing the radioactive sludge of the Scrap-Vats, the chaotic rhythm of the Flow. He didn't ask for permission; he forced his consciousness into the machine's architecture like a pry-bar.
 
 *// ANOMALY DETECTED. SYNC ESTABLISHED. //*
 
@@ -26,7 +26,7 @@ He drew the fusion blade. It was a skyscraper of sharpened tungsten wrapped in a
 
 The Centurions opened fire. Bullets sparked harmlessly off his matte-black hull, buzzing like angry flies.
 
-Zero moved. The Scrapper’s Flow translated perfectly through the neural link. He didn't plod like a tank; he sidestepped a rocket with the agility of a duelist and brought the massive blade down in a thunderous arc. The deck plating split with a scream of tearing metal. The Centurions didn't just break; they evaporated in the thermal wash.
+Zero moved. The Scrapper’s Flow translated perfectly through the neural link. He sidestepped a rocket with the agility of a duelist and brought the massive blade down in a thunderous arc. The deck plating split with a scream of tearing metal. The Centurions didn't just break; they evaporated in the thermal wash.
 
 "Holy..." Jax breathed over the channel.
 
