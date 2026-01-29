@@ -52,11 +52,11 @@ Silence rushed back into the corridor, ringing in Zero's deafened ears.
 
 Zero tapped his comms bead. "Cas. Tell me you got the money shot."
 
-"Got it? Escrow released. The funds are already bouncing through three shell accounts," Cas’s voice crackled. "But seriously, Zero? A frontal assault? We've been running these ops for two years, and you still fight like you have **Diamond-Tier coverage**."
+"Got it? Escrow released. The funds are already bouncing through three shell accounts," Cas’s voice crackled. "But seriously, Zero? A frontal assault? We've been running these ops for two years, and you still fight like you have **Diamond-Tier** money."
 
-"If I had Diamond coverage, I'd have a backup clone on standby," Zero quipped, wincing as he popped the seal on a stim-injector. "And he'd probably be smarter than me."
+"If I had Diamond money, I'd have a backup clone on standby," Zero quipped, wincing as he popped the seal on a stim-injector. "And he'd probably be smarter than me."
 
-"He'd definitely be better looking," Cas shot back. "But the point stands. If you were **Platinum**, an armed extraction team would be dropping in to stabilize your vitals right now. Out here? We rely on 'CRISPR-Cascade' hacks. Sure, the post-war breakthrough made printing a bio-matched liver cheap enough for any basement butcher with a vat, but scrubbing *this* much acute radiation? That requires synthetic DNA-repair enzymes, and those aren't cheap. Freedom is expensive, Samurai."
+"He'd definitely be better looking," Cas shot back. "But the point stands. If you were **Corporate**, an armed extraction team would be dropping in to stabilize your vitals right now. Out here? We rely on 'CRISPR-Cascade' hacks. Sure, the post-war breakthrough made printing a bio-matched liver cheap enough for any basement butcher with a vat, but scrubbing *this* much acute radiation? That requires synthetic DNA-repair enzymes, and those aren't cheap. Freedom is expensive, Samurai."
 
 "If that bot was running the new patch, I'd be a smear on the wall," Zero muttered, slapping the cooling catch on his hilt. He knelt by the ruined chassis, his vibro-knife working to pry the glowing fusion cell from its housing. "So, are we rich yet?"
 

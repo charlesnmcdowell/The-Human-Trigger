@@ -34,7 +34,7 @@ Zero glanced at his HUD. The threat indicator had turned a benign green.
 
 "Get to the point," Zero growled.
 
-"I have a job for you. You are trapped. A 'Ghost' in a locked room. Dead man walking," Silas said. "Unless you do something for me. A 'Debt-Correction'. I can wipe your file, Zero. I can upgrade your status from 'Ghost' to Platinum. Real medical coverage. No more expensive street-doc enzymes for those UV burns."
+"I have a job for you. You are trapped. A 'Ghost' in a locked room. Dead man walking," Silas said. "Unless you do something for me. A 'Debt-Correction'. I can wipe your file, Zero. I can give you enough credits to buy your own moon. No more scavenging for scraps. No more expensive street-doc enzymes for those UV burns."
 
 He tossed Zero a data-chip. Zero caught it, the plastic clicking against his numb palm.
 

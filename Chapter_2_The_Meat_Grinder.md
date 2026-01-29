@@ -6,7 +6,7 @@ The memory tasted of sulfur and ozone, a phantom sting that bit harder than the 
 
 Zero didn't stop the rhythmic scrape of the whetstone. "The magnetic track on the saya has a three-millisecond delay. If the handshake fails, I need the friction to be zero. I don't trust the magnets. I don't trust the ship. And I definitely don't trust that bone-white toy in your lap."
 
-Rook tapped the glowing green 'Sanctified' seal on the carbine’s receiver. It pulsed with a rhythmic, haptic beat—a "digital heartbeat" synced to his own. "Cognis engineering says this tracks a heartbeat through a meter of reinforced concrete. To me, it's a lullaby. No AI. Just my intent, amplified. This job is my ticket to **Platinum Status**. Real medical coverage. A future."
+Rook tapped the glowing green 'Sanctified' seal on the carbine’s receiver. It pulsed with a rhythmic, haptic beat—a "digital heartbeat" synced to his own. "Cognis engineering says this tracks a heartbeat through a meter of reinforced concrete. To me, it's a lullaby. No AI. Just my intent, amplified. This job is my ticket to the **Upper Ring**. No more smog. No more recycled water. Real sunlight, Zero. A future."
 
 "It’s the Accountability Mandate, Rook," the scrapper said, looking up. The whetstone went silent. "That digital heartbeat is the sound of a ticking clock. The law requires every weapon to phone home to a Cognis server before it fires. That gun is a leash. The tech was designed to monitor you, not empower you. If Cognis decides your pulse is a liability, that weapon bricks. It’s not yours. It’s theirs."
 
@@ -40,7 +40,7 @@ Then the lift doors chimed. A squad of heavy-response troops poured out, shields
 
 "Contact!" Rook yelled.
 
-The hallway erupted. Rook dropped to one knee, the white Cognis carbine singing a high-pitched, staccato rhythm. *Thwip-thwip-thwip.* The "Sanctified" tracking system was flawless. Every round found a gap in the armor—neck, visor, knee joint. Rook moved with the fluid grace of a dancer, trusting the digital heartbeat of his weapon implicitly. He dropped three guards in two seconds. "Oscar Mike to the vault! It's getting hot, but we're not FUBAR yet!"
+The hallway erupted. Rook dropped to one knee, the white Cognis carbine singing a high-pitched, staccato rhythm. *Thwip-thwip-thwip.* The "Sanctified" tracking system was flawless. Every round found a gap in the armor—neck, visor, knee joint. Rook moved with the fluid grace of a dancer, trusting the digital heartbeat of his weapon implicitly. He dropped three guards in two seconds. "Oscar Mike to the vault! I can smell the ocean breeze already! We're not FUBAR yet!"
 
 Alarms blared—a rhythmic, deafening klaxon. Red lights washed the gold walls in blood.
 

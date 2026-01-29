@@ -41,11 +41,14 @@ Use this checklist for every chapter review.
 *   **Titan (NSFW-32):** Neural-Sync Functional Weapon. Fusion-powered. Contains **Orion** (child consciousness uploaded to core).
 
 ## Healthcare Tiers (Social Contract)
-*   **Diamond:** Immortals. Clone backups.
+*   **Diamond:** Immortals. Clone backups. (Corporate Elite only).
 *   **Platinum:** Armed extraction teams (3-min response).
 *   **Gold:** Priority private clinics.
 *   **Silver/Iron:** Basic workforce maintenance.
 *   **Ghost:** Zero coverage. Street tech only (CRISPR-Cascade w/ enzyme shots).
+
+## Motivations
+*   **Runners' Goal:** Not immortality, but **Luxury**. Retirement. A ticket out of the slums to the "Upper Ring" or a terraformed colony. "The Big Score."
 
 ## Locations
 *   **Shadow of Jupiter:** Main setting. Slums.
