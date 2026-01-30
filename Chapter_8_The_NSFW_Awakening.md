@@ -8,7 +8,7 @@
 
 Zero looked at Cas. The hacker was curled up in her chair, hugging a plushie, her face pale.
 
-"You're right," Cas whispered, her usual manic energy gone. "I cracked the encryption. His name is Orion. He was seven years old when they... uploaded him."
+"You're right," Cas whispered, her usual manic energy gone. "I cracked the encryption. His name is Orion. He was seven years old when they... uploaded him. A 'Gent' child, probably. Sold by his parents to cover a Tier-3 debt. They stripped his body for parts and put his mind in the jar."
 
 Val sank into her chair, the color draining from her face. "We have to get him out."
 
@@ -30,7 +30,7 @@ A hail opened. Silas's face appeared on the HUD, calm, collected, and terrifying
 
 "Analysis?" Zero spat. "You mean dissection."
 
-"It's a machine, Zero," Silas said, adjusting his cuff. "Don't anthropomorphize the inventory. Surrender the Asset, and I'll wipe your debt. I'll even upgrade you all to **Gold Status**. Priority access. No more running."
+"It's a machine, Zero," Silas said, adjusting his cuff. "Don't anthropomorphize the inventory. Surrender the Asset, and I'll wipe your debt. I'll even upgrade you all to **Gold Status**. Private islands on the terraformed belt. Diplomatic immunity. The kind of life where you watch the wars on a screen, not from a trench."
 
 "No," Zero said. "The Asset has a name. And he's not for sale."
 

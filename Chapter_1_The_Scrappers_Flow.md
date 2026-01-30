@@ -1,28 +1,38 @@
 # Chapter 1: The Scrapper’s Flow
-The blade Zero called 'The Lobotomizer' hungry-growled against the magnetic lock of the saya. It was an Odachi—a massive, two-handed field sword with a blade length that bordered on the suicidal. Zero felt the vibration in his molars, a violet-hot itch demanding to be scratched. His hands suffered from "White Finger"—a permanent, low-level tremor caused by the unshielded magnetic induction coils lining the blade's spine.
 
-Sector 4 smelled of sulfur and wet rust—the scent of a ship dying slowly. It was an abandoned hydroponics bay, the walls slick with black mold that ate radiation and bled sludge onto the deck plates. Below Zero, the Centurion-class enforcement bot prowled through the overgrown, rotting vines like a metallic panther. The Cognis logo—a stylized eye trapped in a crosshair—gleamed on its chassis under the flicker of dying emergency lights.
+The blade Zero called 'The Lobotomizer' didn't just hum; it gave off a low-frequency snarl that vibrated in the marrow of his teeth. It was an Odachi—a massive, two-handed Katana with five feet of unshielded plasma-edge. Zero’s hands, mapped with thick, iron-tough callouses from a decade of extreme training, gripped the abrasive carbon-braid of the hilt with a steady, lethal calm. He wore a battered armored kimono of nano-carbon leather, reinforced with lead-lined plates to absorb the radiation from his own weapon. On his left forearm, a bulky, jury-rigged energy shield emitter hummed with a faint blue static, and a tactical rebreather mask covered the lower half of his face, filtering out the toxic smog of the sector.
 
-Zero checked his thermal readout. 98%. The unshielded plasma edge would burn at 3,000 Kelvin. Far from corporate-standard, this was a piece of industrial salvage he'd stripped of every limiter that kept a user from being cooked alive by their own weapon. He was here for one thing: the payout. The Class-4 Micro-Fusion Cell beating inside the bot’s chest contained enough refined Helium-3 to power a slum-sector for a month. A mid-level fixer for the Void-Sharks had put a bounty on these specific cores—likely to retrofit their aging fleet of scavenged ships. They didn't ask questions about where the hardware came from, which made them Zero's favorite kind of client.
+Sector 4 stank of the unwashed asses of the masses—a thick, cloying cocktail of recycled sweat, open sewers, and the metallic tang of dying machinery. Below the rusted catwalks of the abandoned hydroponics bay, a black-market "Doll-Clinic" was in full swing. Through the rising steam, Zero saw a line of 'Cyber-Sirens'—high-end sex dolls with porcelain-white skin and vacant stares—hooked to overhead rails like sides of beef in a slaughterhouse.
 
-His pulse hammered against his ribs. He prepared the Logic-Bomb in his neural deck—the illegal interface port grafted to his right temple. It hummed with a low-voltage itch, ready to inject his consciousness into the local mesh.
+"Just another Tuesday in paradise, right Samurai?" Cas's voice chirped in his ear, casual as if she were ordering takeout. "This mark is standard. Retrieve the core, don't die. We've been doing this dance for six months, and you still haven't told me which dumpster you crawled out of. Not that I mind. 'Solo' looks good on your resume, and it means I get to sit here in my beanbag chair, three miles away, sipping a slushie while you breathe in cancer. Win-win."
 
-"Heads up, Samurai," Cas's voice chirped in his ear, overlaying the bot's schematic on his HUD. "I spent three weeks decrypting their patrol algorithms to find this gap, so try not to waste my time. That's a Centurion Mark-IV. Manufactured by Cognis Heavy Industries. Retail price: more than your entire life's earnings. Their firewall is 'Sanctified' grade, meaning it phones home to the corporate servers every 0.4 seconds to check if it has permission to kill you. Don't let it make that call."
+Zero looked down at the loading bay. "You should see the livestock, Cas. Fresh batch of 'Gents and Ladies' getting crated up. Porcelain skin, vacant eyes. Looks like a big order for the Upper Ring."
 
-"Sanctified Grade? Please. Angels don't carry gatling guns. Alright, Cognis," Zero whispered, tapping his temple where the illegal jack sat. "Let's see how you handle a dirty handshake."
+"Don't kink-shame the Pures, Zero," Cas laughed, the sound tinny in his ear. "Those 'Dolls' signed the contract. Five years of service, zero memory, and their student loans vanish. It's the American Dream with a personality wipe. Besides, the pay is better than stripping."
 
-"Sanctified means it's 'Soul-Verified', genius," Cas corrected, her voice dripping with mock-patience. "It means that hunk of metal has a real-time handshake with the central servers. It's the Accountability Mandate in action—no trigger pulls without a verified human soul on the other end to take the legal rap. But you're about to clog that handshake with junk data, aren't you? A 'Logic-Bomb'. It's going to panic the weapon. It'll stall, waiting for an authorization that you're currently DDoSing into oblivion."
+"They're hanging like sides of beef," Zero muttered, watching a warehouse worker carelessly shove a limp, college-aged girl into a shipping container. "And the Pures will just use them up and toss them down the chute."
 
-Zero was perched on a rusted catwalk twenty feet above the kill-zone, the metal grating biting into his knees. Below him, the Centurion's sensors swept the hydroponics bay in a fan of hard light, illuminating the rotting vines and the black sludge bleeding from the walls. The air was thick with humidity and the smell of ozone. Zero tightened his grip on the railing, his knuckles white under the lead-lined gloves. Hopping onto the railing with perfect balance he peered down at the massive bot. 
+"That's the economy, baby. Now stop ogling the merchandise. You have a target."
+
+Two miles above this filth, the Upper Ring pierced the smog—a gilded spire of ivory and neon where the beautiful lived in perpetual ecstasy. Here, in the shanty-shadows, the only thing that glittered was the blood.
+
+Zero’s target was a Cognis 'Enforcer-Executioner'. The seven-foot-tall mass of serrated armor and twitchy hydraulics was currently busy. It had a local scrapper by the throat, lifting him three feet off the deck. With a sickening, wet crunch, the bot’s hydraulic pincer collapsed the man’s ribcage. A mist of hot, iron-scented blood sprayed across the floor, coating the nearby dolls in a fine red glaze.
+
+"Heads up, Samurai," Cas continued. "I spent three weeks decrypting their patrol algorithms to find this gap, so try not to waste my time. That's a Centurion Mark-IV. Manufactured by Cognis Heavy Industries. Retail price: more than your entire life's earnings. Their firewall is 'Sanctified' grade, meaning it phones home to the corporate servers every 0.4 seconds to check if it has permission to kill you. Don't let it make that call."
+
+"Sanctified Grade? Angels don't carry gatling guns." Zero whispered, tapping his temple where the illegal jack sat.
+
+"Sanctified means it's 'Soul-Verified', genius," Cas corrected, her voice dripping with mock-patience. "It means that hunk of metal has a real-time poor son of a doll somewhere accountable for its actions—no trigger pulls without a verified human soul on the other end to take the legal rap ever since the AI went haywire during the wars back in the 2030's. But you're about to clog that handshake with junk data, aren't you? A 'Logic-Bomb'. It's going to panic the weapon. It'll stall, waiting for an authorization that you're currently DDoSing into oblivion."
+
+Zero was perched on a rusted catwalk twenty feet above the kill-zone, the metal grating biting into his knees. Below him, the Centurion's sensors swept the hydroponics bay in a fan of hard light, illuminating the rotting vines and the black sludge bleeding from the walls. The air was thick with humidity and the smell of ozone. Zero tightened his grip on the railing, his knuckles white under the lead-lined gloves. Hopping onto the railing with perfect balance he peered down at the massive bot.
 
 *Breathe. Sync. Drop.*
 
-He tipped forward, dropping face-first into the void. Gravity took the lead, wind whipping his purple locs back like a kinetic contrail. Mid-air, he visualized the local mesh—a chaotic web of RF handshakes tethering the Centurion to the Cognis overmind. He twisted, flipping 180 degrees to drive the Lobotomizer into the bulkhead wall.
+He tipped forward, dropping face-first into the void. Gravity took the lead, wind whipping his purple locs back like a kinetic contrail. Mid-air, he visualized the local mesh—a chaotic web of RF handshakes tethering the Centurion to the Cognis overmind. He twisted, flipping 180 degrees to drive the giant energy katana into the bulkhead wall.
 
-The blade shrieked as its magnetic field bit into the metal, slowing his fall in a shower of sparks. Simultaneously, he channeled the Logic-Bomb through the sword’s unshielded coils, using the weapon as a broadcast antenna to blast the bot's receiver with a petabyte of recursive junk data. The neural feedback hit him instantly—a copper taste flooding his mouth and a sharp, blinding spike behind his eyes. A "Data-Hangover" in the making.
+The blade shrieked as its magnetic field bit into the metal, slowing his fall in a shower of sparks. Simultaneously, he channeled the Logic-Bomb through the sword’s unshielded coils, using the weapon as a broadcast antenna to blast the bot's receiver with a petabyte of recursive junk data. The neural feedback hit him instantly—a copper taste flooding his mouth and a sharp, blinding spike behind his eyes. Zero scowls, "Like a fucking ice cream headache."
 
-
-He hit the deck plates with a magnetic *thud* that shook the dust from the air. The Centurion swiveled instantly, its single optic eye contracting from search-yellow to kill-purple.
+He hit the deck plates with a magnetic *thud* that shook the dust from the air. Cas replied, "You say something?" The Centurion swiveled instantly, its single optic eye contracting from search-yellow to kill-purple.
 
 "Unauthorized bio-sig. Handshake failed. Attempting reconnect to Cognis Control..."
 
@@ -38,9 +48,9 @@ He triggered the release.
 
 SNAKT.
 
-The Lobotomizer cleared the sheath, and the hydroponics bay turned into an ultraviolet hellscape. The air delaminated, blistering under the heat. The five-foot blade shrieked at 140 decibels, the sound of the staged induction coils fighting to keep the plasma edge from expanding and consuming Zero himself. A violent, ionizing violet light erupted from the oversized steel, casting harsh, jagged shadows.
+The Odachi cleared the sheath magnets, and the hydroponics bay turned into an ultraviolet hellscape. The air delaminated, blistering under the heat. The five-foot blade shrieked at 140 decibels, the sound of the staged induction coils fighting to keep the plasma edge from expanding and consuming Zero himself. An ionizing amethyst light erupted from the oversized steel, casting harsh, jagged shadows.
 
-Zero swung the massive weapon, steering a five-foot high-voltage arc. As the blade moved, it left a "plasma-wake" in the air—a shimmering trail of violet ozone that stayed burned into the retinas.
+Zero swung the massive weapon, steering a five-foot high-voltage arc. As the blade moved, it left a "plasma-wake" in the air—a shimmering trail of burnt ozone that stayed burned into the retinas.
 
 He drove the blade upward. The Lobotomizer boiled through the bot’s waist with no resistance, only the sound of high-pressure hydraulic fluid flash-vaporizing into a toxic, purple mist. The thermal bloom was so intense that the deck plates beneath the bot’s feet began to slag, turning red-hot in a perfect semi-circle.
 
@@ -52,14 +62,16 @@ Silence rushed back into the corridor, ringing in Zero's deafened ears.
 
 Zero tapped his comms bead. "Cas. Tell me you got the money shot."
 
-"Got it? Escrow released. The funds are already bouncing through three shell accounts," Cas’s voice crackled. "But seriously, Zero? A frontal assault? We've been running these ops for two years, and you still fight like you have **Diamond-Tier** money."
+"Clean rip," Cas confirmed, her voice crackling with satisfaction. "I saw the transfer hit the shell account before the bot even hit the floor. The client wanted stealth, sure, but they also wanted results. And honestly? Watching you turn a million-credit war machine into scrap metal is way more entertaining than a ghost run. Though, maybe next time try not to alert the entire sector? Just a thought."
 
-"If I had Diamond money, I'd have a backup clone on standby," Zero quipped, wincing as he popped the seal on a stim-injector. "And he'd probably be smarter than me."
+"Got it? Escrow released. The funds are already bouncing through three shell accounts," Cas continued. "But seriously, Zero? A frontal assault? We've been running these ops for two years, and you still fight like you have **Diamond-Tier life insurance** money to have your most recent memories and skills beamed back to life via satelite to clone."
 
-"He'd definitely be better looking," Cas shot back. "But the point stands. If you were **Corporate**, an armed extraction team would be dropping in to stabilize your vitals right now. Out here? We rely on 'CRISPR-Cascade' hacks. Sure, the post-war breakthrough made printing a bio-matched liver cheap enough for any basement butcher with a vat, but scrubbing *this* much acute radiation? That requires synthetic DNA-repair enzymes, and those aren't cheap. Freedom is expensive, Samurai."
+Zero popped the seal on a stim-injector. "No need for immortality when you have rizz, Cas."
 
-"If that bot was running the new patch, I'd be a smear on the wall," Zero muttered, slapping the cooling catch on his hilt. He knelt by the ruined chassis, his vibro-knife working to pry the glowing fusion cell from its housing. "So, are we rich yet?"
+"Says the weeb in god-damn samurai armor," Cas shot back.
 
-"Solvent for forty-eight hours. Now move, Samurai. The heat just spiked. Viper Squad signature on long-range."
+"You're right though, If that bot was running the new patch, I'd be a smear on the wall," Zero muttered, slapping the cooling catch on his hilt. He knelt by the ruined chassis, his vibro-knife working to pry the glowing fusion cell from its housing. "So, are we rich yet?"
+
+"Solvent for forty-eight hours. Now move. The heat just spiked. We have unknown signatures on long-range."
 
 Zero sprinted, the violet afterimage of the kill still burning in his eyes, his hands shaking from the feedback of a weapon that was as much a meltdown as it was a blade.

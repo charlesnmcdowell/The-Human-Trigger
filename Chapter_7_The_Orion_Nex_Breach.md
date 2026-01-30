@@ -28,9 +28,9 @@ Red emergency lights bathed the room in blood.
 
 **Viper Squad.**
 
-Four figures emerged from the shadows. They moved with an unnatural, fluid grace—no mechanical stiffness, no servo-whine. They wore sleek, kinetic-dampening armor over bodies honed by synthetic hemoglobin and reinforced myelin sheaths.
+Four figures emerged from the shadows. They moved with an unnatural, frictionless grace—like oil sliding over glass. No mechanical stiffness, no servo-whine. They wore sleek, kinetic-dampening armor over bodies honed by synthetic hemoglobin and reinforced myelin sheaths. They didn't walk; they flowed, their movements too perfect, too efficient—the uncanny valley weaponized.
 
-"The Human Trigger," the leader's voice boomed, amplified. "There's a high price on your head."
+"The Human Trigger," the leader's voice boomed, amplified. "Your contract has been terminated. Please submit for liquidation."
 
 "Jax, load the ship," Zero commanded. "I'll buy you time."
 
@@ -66,7 +66,7 @@ The impact shook the entire station. Zero scrambled up the gantry and vaulted in
 
 "Time to go," Zero growled.
 
-The Titan moved. Zero punched the Ace leader, sending him flying into the far wall with a wet crunch. "Get out of my way."
+The Titan moved. Zero punched the Ace leader. Forty tons of hydraulic force met two hundred pounds of biological perfection. The Ace didn't fly; he detonated. A hydrostatic explosion of red mist and armor fragments coated the far wall as the leader was liquefied on impact. "Get out of my way."
 
 He grabbed the pallet of supplies Jax had prepped and fired the jump-jets, blasting out through the hole in the roof.
 

@@ -6,7 +6,7 @@ The memory tasted of sulfur and ozone, a phantom sting that bit harder than the 
 
 Zero didn't stop the rhythmic scrape of the whetstone. "The magnetic track on the saya has a three-millisecond delay. If the handshake fails, I need the friction to be zero. I don't trust the magnets. I don't trust the ship. And I definitely don't trust that bone-white toy in your lap."
 
-Rook tapped the glowing green 'Sanctified' seal on the carbine’s receiver. It pulsed with a rhythmic, haptic beat—a "digital heartbeat" synced to his own. "Cognis engineering says this tracks a heartbeat through a meter of reinforced concrete. To me, it's a lullaby. No AI. Just my intent, amplified. This job is my ticket to the **Upper Ring**. No more smog. No more recycled water. Real sunlight, Zero. A future."
+Rook tapped the glowing green 'Soul-Locked' seal on the carbine’s receiver. It pulsed with a rhythmic, haptic beat—a "digital heartbeat" synced to his own. "Cognis engineering says this tracks a heartbeat through a meter of reinforced concrete. To me, it's a lullaby. No AI. Just my intent, amplified. This job is my ticket to the **Upper Ring**. No more smog. No more recycled water. Real sunlight, Zero. A future."
 
 "It’s the Accountability Mandate, Rook," the scrapper said, looking up. The whetstone went silent. "That digital heartbeat is the sound of a ticking clock. The law requires every weapon to phone home to a Cognis server before it fires. That gun is a leash. The tech was designed to monitor you, not empower you. If Cognis decides your pulse is a liability, that weapon bricks. It’s not yours. It’s theirs."
 
@@ -26,7 +26,7 @@ The transition to the *Golden Spire* was a blur of pressurized steam and the met
 
 "View's garbage from this deck," one guard muttered, his voice filtered through a cheap vox-caster. "Nothing but smog and scrubbers."
 
-"Quit whining," the second guard replied, checking his pulse rifle. "The pay is Diamond-Tier and the dental plan covers augment rejection. I'd stare at a brick wall for twenty years if it meant my kids didn't have to drink recycled water."
+"Quit whining," the second guard replied, checking his pulse rifle. He was a 'Gent'—one of the voluntary debt-slaves who sold their faces to the company for a clean slate. "The pay is Diamond-Tier and the dental plan covers augment rejection. I'd stare at a brick wall for twenty years if it meant my kids didn't have to drink recycled water."
 
 "Fair point," the first guard sighed. "Still... wouldn't mind seeing the sun once in a—"
 
@@ -88,7 +88,7 @@ Zero had five.
 
 He pivoted from behind the pillar, the Lobotomizer clearing the saya in a massive, horizontal sweep. The five-foot arc of violet plasma created a literal "no-man's land." The Cleaner tried to change its vector mid-air, its hyper-reflexes screaming, but the Odachi’s reach was an inescapable geometric fact.
 
-The blade boiled through the sub-dermal mesh and the heart beneath. The Cleaner’s synthetic blood didn't spray—it turned into a toxic, purple steam the moment it hit the ionizing edge. The massive sword sheared the creature in half at the waist.
+The blade boiled through the sub-dermal mesh and the heart beneath. The Cleaner’s synthetic blood didn't spray—it turned into a toxic, purple steam the moment it hit the ionizing edge, smelling of burnt ozone and copper. The massive sword sheared the creature in half at the waist, spilling a slurry of cauterized organs onto the deck.
 
 The upper torso, driven by momentum and genetically engineered rage, continued its trajectory. The claws raked across Zero's chest as the half-corpse flew past. The impact threw Zero sideways, slamming him into the wall. He gasped, checking his kimono. The armor-weave was shredded, a deep gouge running from shoulder to hip, but the skin beneath was only bruised.
 

@@ -10,7 +10,7 @@ The cargo bay doors blasted open, and the Titan shot out into the void, its thru
 
 The interceptors swarmed like angry hornets. Zero didn't try to outmaneuver them; he went through them. He pushed the Titan's thrusters to 150%, the g-force threatening to crush him against the pilot's couch.
 
-He ignited the fusion blade. In the vacuum of space, the plasma edge was a silent, blinding line of violet destruction. He swung the massive sword, cleaving an interceptor in two as he roared past. The explosion was a brief, expanding sphere of gas that vanished as quickly as it appeared.
+He ignited the fusion blade. In the vacuum of space, the plasma edge was a silent, blinding line of actinic destruction—no hum, no crackle, just pure thermal death waiting for contact. He swung the massive sword, cleaving an interceptor in two as he roared past. The explosion was a brief, expanding sphere of gas that vanished as quickly as it appeared, choked by the void.
 
 "Concentrate fire on the prototype!" Silas's voice cut through the open comms channel.
 
@@ -36,7 +36,7 @@ Zero engaged the jets. The Titan became a meteor, streaking toward the cruiser. 
 
 Instead of firing, he landed on the ship.
 
-The Titan's magnetic clamps locked onto the cruiser's bridge viewports with a bone-jarring thud. Zero looked through the reinforced glass. He saw Silas, standing on the bridge, his eyes wide with genuine shock.
+The Titan's magnetic clamps locked onto the cruiser's bridge viewports with a bone-jarring thud. Zero looked through the reinforced glass. He saw Silas, standing on the bridge. The corporate mask had slipped. He didn't look like a manager anymore; he looked like a man realizing his assets had just become a lethal liability.
 
 Zero raised the fusion blade. He channeled the reactor's output into the edge, turning the tungsten white-hot.
 

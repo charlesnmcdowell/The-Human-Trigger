@@ -4,7 +4,7 @@ The white light of the neural sync collapsed into the jagged static of a rejecte
 
 *// UNRECOGNIZED USER. PURGE PROTOCOL INITIATED. //*
 
-"Denied," Zero gritted out, his teeth clenched against the phantom pain of his synapses misfiring. It felt like trying to download a **Diamond-Tier** connectome through a copper wire. "Handshake override."
+"Denied," Zero gritted out, blood trickling from his nose as the neural feedback spiked. His teeth clenched against the phantom pain of his synapses misfiring. It felt like trying to download a **Diamond-Tier** connectome through a copper wire—a firehose of data trying to fit through a straw. "Handshake override."
 
 *// AUTHORIZATION INVALID. BIOMETRIC MISMATCH. //*
 
@@ -38,7 +38,7 @@ The ship lurched, fusion drives screaming as they blasted out of the dock and in
 
 ***
 
-Hours later, the *Rusty Nail* cut its main torch, drifting into the shadow of the **Haywire Graveyard**. It was a massive, orbital scar—a debris field of shattered warships and industrial refuse that spanned a thousand kilometers. The radiation static here was thick enough to taste, a metallic tang on the back of the tongue. On the HUD, the graveyard looked like a cloud of angry hornets; visually, it was a reef of twisted iron and frozen propellant, where sensors went to die and ghosts came to hide.
+Hours later, the *Rusty Nail* cut its main torch, drifting into the shadow of the **Haywire Graveyard**. It was a massive, orbital scar—a debris field of shattered warships and industrial refuse that spanned a thousand kilometers. Most of these hulks were coffins, filled with the frozen remains of conscripted 'Gents' who died fighting corporate wars they didn't understand. The radiation static here was thick enough to taste, a metallic tang on the back of the tongue. On the HUD, the graveyard looked like a cloud of angry hornets; visually, it was a reef of twisted iron and frozen propellant, where sensors went to die and ghosts came to hide.
 
 "We need to calibrate," Zero said, his voice sounding thin in the quiet cockpit. "Hades is running hot."
 

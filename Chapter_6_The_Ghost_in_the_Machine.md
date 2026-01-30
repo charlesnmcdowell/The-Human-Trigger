@@ -4,7 +4,7 @@ The Void-Sharks didn't fight like soldiers; they fought like piranhas. The three
 
 "Contacts!" Val called out, her hands flying across the pilot's console. "Jax, man the dorsal turrets. Cas, jam their comms. I don't want them calling for backup."
 
-"On it," Cas chirped, her fingers dancing over her chaotic rig. "Deploying electronic countermeasures. Let's give them some static."
+"On it," Cas chirped, her fingers dancing over her chaotic rig. "Deploying electronic countermeasures. Let's ghost these simps."
 
 Zero stood on the hull of the dreadnought, the Titan a massive silhouette against the starlight. The skiffs strafed the *Rusty Nail*, their shots splashing against the ship's shields.
 
@@ -38,7 +38,7 @@ It took five.
 
 *"...dark... it's so dark in here... is anyone out there? Pilot? ...please..."*
 
-Then, a different voice. An older man. *"This is Dr. Aris Thorne. I uploaded him. My son. Orion. He's not a weapon. He's a child. They wanted a targeting computer. I gave them a soul."*
+Then, a different voice. An older man. *"This is Dr. Aris Thorne. I uploaded him. My son. Orion. He's not a weapon. He's a child. They wanted a targeting computer. I gave them a soul. A 'Pure' soul, untainted by the Mandate."*
 
 Silence filled the room.
 

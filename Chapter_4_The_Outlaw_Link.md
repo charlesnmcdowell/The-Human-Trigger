@@ -2,7 +2,7 @@
 
 Getting from the sub-zero silence of the server farm to Deck 12 required a vertical climb through five levels of corporate hell. Zero bypassed the locked elevators, opting for the mag-lev maintenance shafts. The air grew hotter and thicker with every deck he ascended, the sterile chill of the data-core replaced by the copper tang of overheated machinery and the acrid bite of tear gas.
 
-Deck 12 was a war zone. Through the slats of a ventilation grate, Zero watched the chaos unfold. Corporate security—armored in riot-black—was engaging a mob of indentured crew. Flash-bangs detonated with bone-shaking concussions, turning the corridor into a strobe-lit nightmare of screaming workers and the staccato bark of suppression rounds.
+Deck 12 was a war zone. Through the slats of a ventilation grate, Zero watched the chaos unfold. Corporate security—armored in riot-black—was engaging a mob of discarded 'Dolls'. Their service contracts had likely expired, turning them from high-end luxury goods back into refuse. Flash-bangs detonated with bone-shaking concussions, turning the corridor into a strobe-lit nightmare of screaming, porcelain-skinned figures and the staccato bark of suppression rounds.
 
 "Chaos is a ladder," Zero whispered to himself, kicking the grate free. He dropped into the smoke-filled corridor, a ghost in the melee, moving unseen while the security teams focused on beating back the crowd.
 
@@ -42,7 +42,7 @@ She spun around. Sharp features, military posture, hair pulled back in a severe 
 
 "Desperation makes you sloppy," Val countered. "But we're on a clock. Cas! Are we clear?"
 
-"Clear as a bell, Princess!" Cas chirped from the comms station, blowing a pink bubble of gum.
+"Clear as a bell, Princess!" Cas chirped from the comms station, blowing a pink bubble of gum. "This bandwidth is actual trash, though. I'm lagging harder than a gen-one Doll on a dial-up connection."
 
 "Cas?" Zero blinked, recognizing the voice.
 
@@ -68,17 +68,17 @@ Zero smirked, though the copper taste of the data-hangover was still bitter in h
 
 He climbed the gantry, the heavy Odachi still strapped to his back, clunking against the Titan's obsidian-colored plating. He sat in the pilot's throne—a cradle of needles and cooling gel.
 
-"Initiating sync," Zero said. He pulled the thick, shielded cable from the headrest and slammed it into his neural port.
+"Initiating sync," Zero said. He pulled the thick, shielded cable from the headrest. The jack was cold and slick with conductive gel. He slammed it into his neural port with a wet *shunk*.
 
 The world went white.
 
-The glare was blinding, like an exploding sun. Zero’s nervous system shrieked as the Neural-Sync handshake bypassed his firewalls and went straight for his marrow.
+It tasted like copper and burning hair. The glare was blinding, like an exploding sun. Zero’s nervous system shrieked as the Neural-Sync handshake bypassed his firewalls and went straight for his marrow.
 
 "Zero! Your neuro-load is redlining! Pull out!" Cas’s voice screamed through the ship’s comms, but it sounded a thousand miles away, muffled by the roar of the Titan's fusion-heart.
 
 Then the noise stopped.
 
-The white faded into a deep, endless violet. The HUD, buttons, and levers vanished. He simply *felt* the ship. He felt the weight of the *Rusty Nail* beneath him, the vibration of the dock, and the cold, predatory presence of the Viper Squad currently cutting through the airlock.
+The white faded into a deep, endless indigo. The HUD, buttons, and levers vanished. He simply *felt* the ship. He felt the weight of the *Rusty Nail* beneath him, the vibration of the dock, and the cold, predatory presence of the Viper Squad currently cutting through the airlock.
 
 And in the center of that violet void, he felt the glitch. The small, shivering presence from the data-chip.
 
@@ -86,4 +86,4 @@ And in the center of that violet void, he felt the glitch. The small, shivering 
 
 "I'm the one who's getting us out of here," Zero thought, his "White Finger" tremor finally stilled by the massive power flowing through his phantom limbs. "Hold on, kid. We're about to make a mess."
 
-The NSFW-32’s primary optics flared—not blue, but a violent, ionizing violet.
+The NSFW-32’s primary optics flared—not blue, but a violent, ionizing purple.

@@ -6,7 +6,7 @@ Zero moved through the *Golden Spire's* waste-disposal veins, a labyrinth of pre
 
 He didn't give them one. He scrambled down a service ladder, his breath misting in the rapidly dropping temperature. He was descending into the building's nervous system, leaving the gilded atrium for the frozen, sterile dark of the data-core.
 
-Zero holed up in Server Node 7, a sub-zero archive room filled with rows of humming backup drives. The cold bit through his flight suit, numbing the chemical burn in his lungs. It was perfect. Thermal optics would struggle to distinguish his body heat from the servers' exhaust vents.
+Zero holed up in Server Node 7, a sub-zero archive room filled with rows of humming backup drives. The cold bit through his flight suit, numbing the chemical burn in his lungs, but it couldn't scrub the stench of the waste chute from his skin—a cloying layer of recycled filth that made him feel like a rat hiding in a palace. It was perfect. Thermal optics would struggle to distinguish his body heat from the servers' exhaust vents.
 
 He sat with his back against a rack, the Lobotomizer laid across his knees. He ran a diagnostic on the blade—magnetic containment at 94%. It was leaking heat, singing the deck plating with a faint, violet aura that hissed like a trapped snake. He pulled a rag from his pocket and began to wipe the carbon scoring from the hilt, his hands shaking with a "White Finger" tremor that the cold only made worse.
 
@@ -38,7 +38,7 @@ Zero glanced at his HUD. The threat indicator had turned a benign green.
 
 He tossed Zero a data-chip. Zero caught it, the plastic clicking against his numb palm.
 
-"Project NSFW-32," Silas continued. "A fusion-powered Titan. Prototype class. It rejects standard pilots. Burns out their neural pathways in seconds because they try to follow the Mandate's protocols. It needs a Scrapper. Someone who can jailbreak a soul."
+"Project NSFW-32," Silas continued. "A fusion-powered Titan. Prototype class. It rejects standard pilots. We burned through three 'Dolls' last week—wiped their personalities and plugged them in, hoping a blank slate would work. It didn't. Cooked their brains in the casing. It needs a Scrapper. Someone who can jailbreak a soul."
 
 "You want me to pilot your death machine?" Zero asked, turning the chip over.
 

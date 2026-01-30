@@ -1,72 +1,64 @@
-# The Human Trigger: Master Audit Checklist
+# The Human Trigger - Master Audit Checklist
 
-Use this checklist for every chapter review.
+## 1. Tone & Atmosphere (Adult Cyberpunk)
+*   [ ] **The High/Low Divide:**
+    *   *The Low:* Stench of waste, recycled sweat, "unwashed asses," open sewers, dirty/scavenged tech.
+    *   *The High:* "Pures" (Gen-Engineered Elites) in hyper-sexualized VR trances, ivory towers, decadent hedonism.
+*   [ ] **Transhumanist Themes (Adult Elements):**
+    *   *The Doll Economy:* Explicitly mention "Dolls" (debt-slaves w/ personality wipes used as sex workers/laborers). "Gents and Ladies" selling their skin for debt erasure.
+    *   *Neural Hedonism:* Describe the wealthy twitching in VR ecstacy while their bodies waste away.
+    *   *The Mandate:* Technology is a leash. "Sanctified" = Soul-Verified (human accountability). "Dirty" = Lethal/Radiation/Heat.
+*   [ ] **Sensory Overload:** Vibration of bass, metallic tang of blood, cloying humidity, toxic steam. Smell is critical.
 
-### 1. Audio & Voice
-- [ ] **Narrator:** Third Person Limited (Zero's POV). Cynical, noir-inflected narration.
-- [ ] **Dialogue Tags:** Explicit tags ("Zero said," "Jax rumbled") for every speaker change.
-- [ ] **Cast Consistency:** Ensure dialogue matches character archetypes (Zero=Witty/Dry, Cas=Fast/Transactional, Val=Cold/Military, Jax=Slow/Tectonic).
-- [ ] **Dialogue Authority:** Permission granted to rewrite dialogue that feels "out of voice" or generic, even if it changes the specific phrasing. Prioritize character voice over literal instruction.
+## 2. Visceral Violence (The "Mortal Kombat" Threshold)
+*   [ ] **No "Power Ranger" Action:** Remove clean, stylized violence.
+*   [ ] **Gore & Impact:**
+    *   *Physics of Death:* Shattered bone, vaporized fluids, "blooming" rounds, toxic synthetic blood steam.
+    *   *The "Mess":* High-output weapons leave a mess (red glaze, slagged meat, boiling mesh).
 
-### 2. Style & Rhetoric
-- [ ] **Rhetoric Scrub:** **ZERO** instances of "Not X, but Y" or "It didn't X; it Y." Reword as direct descriptions.
-- [ ] **Jargon Hygiene:** Define capitalized terms (e.g., Sanctified, Flow) within 3 paragraphs of first use.
-- [ ] **Cinematic Transitions:** Detail the *travel* (vehicle, atmosphere, sensory details) between scenes. Don't just cut to the destination.
+## 3. Character Physicality (Zero Vex)
+*   [ ] **Apex Predator:** Calm, lethal, sexy.
+*   [ ] **Physical Toll:**
+    *   *Hands:* Thick, iron-tough callouses (leather-like) from extreme training.
+    *   *Gear:* Impact-Dampening Bracers, Lead-Lined Kimono/Gear. **Energy Shield Emitter & Rebreather Mask**.
+    *   *Weapon:* The Lobotomizer (Odachi) - 5ft unshielded plasma edge. "Low-frequency snarl."
+*   [ ] **Voice:** Cynical, weary, but confident. Uses modern slang ("Rizz", "Weeb").
 
-### 3. Action & Physics (Hard Science)
-- [ ] **Witcher Prep:** Show preparation, gear checks, and tactical planning before fights.
-- [ ] **Physics Compliance:**
-    - [ ] No Artificial Gravity (use Thrust or Mag-Boots).
-    - [ ] No Warp/FTL (use Fusion Torches).
-    - [ ] Momentum/Recoil matters in Zero-G.
-    - [ ] Heat management (radiators/heatsinks) for energy weapons.
-- [ ] **Viper Squad Logic:** Zero cannot hack their bodies (Cyber-Pure). He can only hack their weapons.
+## 4. Audiobook/Voice Formatting
+*   [ ] **3rd Person Limited (Zero):** Narrator is cynical, unreliable, "Scrapper" voice.
+*   [ ] **Dialogue Tags:** Explicitly announce speakers ("Zero said," "Cas chirped").
+*   [ ] **Exposition Hygiene (Show, Don't Tell):**
+    *   *Rule:* **NO NARRATION DUMPS.** Do not explain history, economy, or tech in paragraphs > 2 sentences.
+    *   *Fix:* Convert to **Banter**. (e.g., Don't narrate "The Doll Economy is X." Have Zero point at a Doll and Cas make a cynical joke about the price.)
+*   [ ] **Voice Acting:**
+    *   **Narrator:** Gritty, Noir/Cyberpunk tone.
+    *   **Zero:** Cynical, weary, "Scrapper" slang.
+    *   **Jax:** Deep, resonant, humorous "Gentle Giant."
+    *   **Cas:** Fast, manic, "Gen-Z/Netrunner" energy.
+    *   **Val:** Clip, professional, Military/Pilot tone.
+    *   **Silas:** Cold, bureaucratic, "Corporate" precision.
 
----
+## 5. Style & Rhetoric (The "Hard-Boiled" Rules)
+*   [ ] **ELIMINATE "Not X, but Y":** Remove the Antithesis/Correctio pattern ("It wasn't a sword, it was a...").
+    *   *Correction:* Use direct description. "The sword was a massive slab of..."
+*   [ ] **Dialogue Authority:** If a line feels "off" for a character, rewrite it.
+*   [ ] **Cinematic Transitions:** Scene changes must describe the *vehicle* and the *environment*.
 
-# Series Bible: Lore, Tech, & Factions
+## 6. Vocabulary Hygiene (De-Redundancy)
+*   [ ] **Banned Patterns:** Do not use the same adjective twice in a paragraph.
+*   [ ] **Overused Terms & Fixes:**
+    *   **Violet:** Swap with *Ionizing bloom, Actinic glare, Purple haze, Amethyst arc, Ultraviolet burn*.
+    *   **Metallic:** Swap with *Copper, Iron, Ferrous, Industrial, Inorganic*.
+    *   **Ozone:** Swap with *Static charge, Burnt plastic, Ionized air, Electrical storm*.
+    *   **Sanctified:** Swap with *Soul-Locked, Tethered, Corporate-Blessed, Verified*.
+    *   **Visceral:** *Delete it.* Just describe the gore.
 
-## Factions
-*   **Cognis (The Corp):** Owns *Golden Spire*. Enforces **Accountability Mandate**. Obsessed with "Sanctified" (server-tethered) tech.
-*   **Viper Squad (Aces):** **Anti-Augment** mercenaries. Genetically engineered (synthetic blood, carbon mesh) to be unhackable.
-*   **Silas (The Auditor):** Corp Fixer. Motivation: "Balancing the ledger." Secretly selling the Titan to rebels/black market.
-*   **Zero-Sum:** Zero's old crew (Rook, Kilo). Killed in Ch 2 heist.
+## 7. Action Logic & "Hard Science" Physics
+*   [ ] **The "Physics of Betrayal":** Tech failure must be **Physical/Thermal**.
+    *   *Rule:* Gear doesn't just "turn off." It overheats, locks, freezes, or burns.
+*   [ ] **The "Geometry of Combat":** Fights are decided by **Reach, Mass, & Momentum**.
+*   [ ] **The "Uncanny Valley" (Elite Enemies):** Cleaners/Vipers move *wrongly* (frictionless, silent).
+*   [ ] **Zero-G/Space Travel:** **Fusion Torches** (Main Burn), **Mag-Boots**. Newton's Laws apply.
 
-## Technology
-*   **Accountability Mandate:** Law requiring real-time server handshake for all weapons.
-*   **Sanctified Tech:** Corp-approved. Bricks if connection is lost/revoked.
-*   **Dirty Tech:** Illegal, analog, jailbroken. Zero's gear.
-*   **The Lobotomizer:** Zero's Violet Thermal **Odachi**. Unshielded magnetic coils. Causes UV burns and "White Finger" tremors.
-*   **Logic-Bombs:** Zero's hack. DDoS attacks on weapon servers. Causes "Data-Hangover."
-*   **Titan (NSFW-32):** Neural-Sync Functional Weapon. Fusion-powered. Contains **Orion** (child consciousness uploaded to core).
-
-## Healthcare Tiers (Social Contract)
-*   **Diamond:** Immortals. Clone backups. (Corporate Elite only).
-*   **Platinum:** Armed extraction teams (3-min response).
-*   **Gold:** Priority private clinics.
-*   **Silver/Iron:** Basic workforce maintenance.
-*   **Ghost:** Zero coverage. Street tech only (CRISPR-Cascade w/ enzyme shots).
-
-## Motivations
-*   **Runners' Goal:** Not immortality, but **Luxury & Legacy**. Retirement to the "Upper Ring" and the desire to be **Legends** in the underworld. "The Big Score" + "Infamy."
-
-## Locations
-*   **Shadow of Jupiter:** Main setting. Slums.
-*   **Golden Spire:** Cognis Bank/HQ.
-*   **Haywire Graveyard:** Debris field/radiation zone.
-*   **Orion-Nex:** Supply depot.
-
----
-
-# Chapter Breakdown (Book 1)
-
-*   **Ch 1: The Scrapper’s Flow** (Status: Complete) - Zero/Cas intro. Salvage run.
-*   **Ch 2: The Meat Grinder** (Status: Complete) - Flashback/Inciting Incident. Heist, Betrayal, Team Death.
-*   **Ch 3: The Offer** (Status: Complete) - Zero meets Silas. Forced to steal Titan.
-*   **Ch 4: The Outlaw Link** (Status: Complete) - Meets Val/Jax. Steals Titan.
-*   **Ch 5: The Haywire Graveyard** (Status: Complete) - Syncs with Orion. Fights pirates.
-*   **Ch 6: The Ghost in the Machine** (Status: Complete) - Discovers Orion is a child.
-*   **Ch 7: The Orion-Nex Breach** (Status: Complete) - Supply raid. Viper Squad fight.
-*   **Ch 8: The NSFW Awakening** (Status: Complete) - Truth revealed. Silas betrays again.
-*   **Ch 9: The Gauntlet** (Status: Complete) - Escape from blockade.
-*   **Ch 10: The Void** (Status: Complete) - Crew formation. End of Book 1.
+## 7. Motivation
+*   [ ] **Runners' Goal:** **Luxury & Legend Status**. "The Upper Ring." "Becoming Immortals in history, not biology."
