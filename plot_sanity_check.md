@@ -37,11 +37,13 @@
     *   *Fix:* Convert to **Banter**. (e.g., Don't narrate "The Doll Economy is X." Have Zero point at a Doll and Cas make a cynical joke about the price.)
 *   [ ] **Voice Acting:**
     *   **Narrator:** Gritty, Noir/Cyberpunk tone.
-    *   **Zero:** Cynical, weary, "Scrapper" slang.
+    *   **Zero:** Cynical, weary, "Scrapper" slang. (Younger/Rookie tone in flashbacks).
     *   **Jax:** Deep, resonant, humorous "Gentle Giant."
     *   **Cas:** Fast, manic, "Gen-Z/Hacker" energy.
     *   **Val:** Clip, professional, Military/Pilot tone.
     *   **Silas:** Cold, bureaucratic, "Corporate" precision.
+    *   **Rook (Legacy):** Vulgar, aggressive, confident.
+    *   **Kilo (Legacy):** Stealthy, cynical.
 
 ## 5. Style & Rhetoric (The "Hard-Boiled" Rules)
 *   [ ] **ELIMINATE "Not X, but Y":** Remove the Antithesis/Correctio pattern ("It wasn't a sword, it was a...").
@@ -117,4 +119,15 @@
 *   **The Goal:**
     *   *Option A:* **Legend Status.** Die rebelling against the system in a blaze of glory.
     *   *Option B:* **Freedom.** Make enough credits to buy a life outside the Corp's iron grip (The Upper Ring or a private moon).
-*   **The Dispatcher:** The bridge between the "Dirty" world and the "Clean" money. Essential for access to high-paying wetwork.
+## 10. Plot Integrity & Character Logic
+*   [ ] **The "Paycheck" Rule:**
+    *   *Logic:* Every mission must have a clear financial or survival incentive. Why are they doing this? Who is paying?
+    *   *Betrayal Check:* If a character betrays the team, does it serve their long-term goal (e.g., Silas getting paid by a rival corp)?
+*   [ ] **The "Competence" Check:**
+    *   *Rule:* Characters should not hold the "Idiot Ball." Mistakes must be forced by stress, enemy skill, or tech failure, not stupidity.
+    *   *Example:* Zero doesn't "forget" to check for traps; Silas jams his sensors.
+*   [ ] **Arc Consistency:**
+    *   *Zero:* Starts as a Survivor/Rookie (Flashback) -> Becomes a Legend/Leader.
+    *   *Silas:* Consistently cold, calculated, corporate. Never cruel for cruelty's sake, only for profit.
+*   [ ] **Loose Ends:**
+    *   *Rule:* If a bomb is planted, it must go off (Chekhov's Gun). If a threat is made, it must be executed or countered.
