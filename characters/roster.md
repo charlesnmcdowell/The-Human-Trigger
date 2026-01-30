@@ -1,7 +1,7 @@
 # The Crew of the NS-FW-32
 
 ## Zero Vex (The Jailbreaker)
-**Archetype:** Shadow-Runner / Rogue Pilot
+**Archetype:** Scrapper / Rogue Pilot
 
 **Visuals:**
 - African American with purple locs tied back in a samurai knot.
@@ -136,7 +136,7 @@
 ---
 
 ## Silas (The Auditor)
-**Archetype:** Corporate Fixer / Antagonist
+**Archetype:** Corporate Dispatcher / Antagonist
 
 **Visuals:**
 - **Appearance:** Impeccably dressed in a charcoal Italian-cut suit (no armor).

@@ -16,7 +16,7 @@ Silas didn't turn from the pilot’s console. He sat rigid, his eyes glazed in t
 
 "There’s always a variable," Zero muttered. He slid the Lobotomizer into the saya. *SNAKT.* The magnetic lock caught with a heavy, industrial thud.
 
-The *High-Roller* banked hard through the acid-rain smog of Sector 1, its triple-engine turbo jets gliding through the clouds like an electric eel through dark water. Its thermal masking engines hummed a low, undetectable vibrato, intaking superheated steam and blasting it out in a slick, aerodynamic wake. Below them, the sprawl was a canyon of neon and misery, but ahead, the *Golden Spire* pierced the cloud layer like a needle of pure avarice. It was a monolith of gilded durasteel, the headquarters of the Cognis Treasury, wreathed in a perpetual halo of pressurized steam vents that kept the plebeian atmosphere from corroding its shine.
+The *High-Roller* fired its maneuvering thrusters, drifting sideways through the acid-rain smog of Sector 1. Its triple-engine turbo jets pulsed, fighting the thin atmosphere like an electric eel thrashing in dark water. Its thermal masking engines hummed a low, undetectable vibrato, intaking superheated steam and blasting it out in a slick, aerodynamic wake. Below them, the sprawl was a canyon of neon and misery, but ahead, the *Golden Spire* pierced the cloud layer like a needle of pure avarice. It was a monolith of gilded durasteel, the headquarters of the Cognis Treasury, wreathed in a perpetual halo of pressurized steam vents that kept the plebeian atmosphere from corroding its shine.
 
 Silas brought them in on a silent vector, docking the transport at a service port usually reserved for waste disposal. The airlock cycled with a hiss of decontamination gas.
 

@@ -54,6 +54,6 @@ Zero disengaged the mag-clamps and pushed off the hull, firing his maneuvering t
 
 "Jump!" Val commanded.
 
-She slammed the throttle forward. The inertial dampeners groaned, overwhelmed by the sudden violence of the burn. For a second, Zero felt his vision tunnel, the blood rushing to the back of his skull. The universe outside the viewport didn't just blur; it *screamed*. The stars elongated into infinite, needle-thin streaks of white light as the fusion torch dumped its entire reserve into a frantic, relativistic sprint.
+She slammed the throttle forward. The crash couch groaned under the strain, and the G-compensators whined, overwhelmed by the sudden violence of the burn. For a second, Zero felt his vision tunnel, the blood rushing to the back of his skull. The universe outside the viewport didn't just blur; it *screamed*. The stars elongated into infinite, needle-thin streaks of white light as the fusion torch dumped its entire reserve into a frantic, relativistic sprint.
 
-The blockade vanished, left behind in a wake of distorted space. They were gone.
+The blockade vanished, left behind in a wake of cooling plasma. They were gone.

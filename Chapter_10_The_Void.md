@@ -22,7 +22,7 @@ Zero looked at the Titan—at Orion. The machine hummed softly, the blue light o
 
 "And then?" Jax asked.
 
-"And then we burn them down," Zero said. "Cognis. The Mandate. All of it."
+"And then we burn them down," Zero said. "Cognis. The Mandate. All of it. We take their money, and we break their toys."
 
 A message pinged on Zero's comms. It was from Silas.
 

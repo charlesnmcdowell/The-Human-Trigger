@@ -17,12 +17,17 @@
     *   *The "Mess":* High-output weapons leave a mess (red glaze, slagged meat, boiling mesh).
 
 ## 3. Character Physicality (Zero Vex)
-*   [ ] **Apex Predator:** Calm, lethal, sexy.
+*   [ ] **Apex Predator:** Calm, lethal, sexy. Gallows Humor is a survival mechanic, not just "cool."
 *   [ ] **Physical Toll:**
-    *   *Hands:* Thick, iron-tough callouses (leather-like) from extreme training.
-    *   *Gear:* Impact-Dampening Bracers, Lead-Lined Kimono/Gear. **Energy Shield Emitter & Rebreather Mask**.
-    *   *Weapon:* The Lobotomizer (Odachi) - 5ft unshielded plasma edge. "Low-frequency snarl."
-*   [ ] **Voice:** Cynical, weary, but confident. Uses modern slang ("Rizz", "Weeb").
+    *   *Hands:* **Calloused Master.** Nerve endings deadened to hilt vibration. Iron-tough skin. NO tremors.
+    *   *Gear:*
+        *   **"Aegis-Mirror" Suit:** Photo-reactive kimono flashes chrome-violet to reflect UV/IR radiation.
+        *   **"Oni-Menpo" Mask:** Active scrubbers vent ozone in "jagged plumes" via lateral fangs.
+        *   **"Sleeve-Exos":** Bio-mechanical external tendons to handle the blade's gyroscopic torque.
+    *   *Deck:* "Ghost-hardened" (lead-shielded). Hacking causes "Data-Hangovers" (copper taste).
+*   [ ] **Weapon:** **The Lobotomizer (Odachi).**
+    *   *Physics:* **Molecular Sublimation** (Vacuum-Cut). 3,000K MHD-bottled edge. Sublimates matter to dust, doesn't melt it. Creates a "Vacuum-Snap" sound.
+    *   *Broadcast Flare:* Blade acts as a massive RF antenna for Logic-Bombs.
 
 ## 4. Audiobook/Voice Formatting
 *   [ ] **3rd Person Limited (Zero):** Narrator is cynical, unreliable, "Scrapper" voice.
@@ -34,7 +39,7 @@
     *   **Narrator:** Gritty, Noir/Cyberpunk tone.
     *   **Zero:** Cynical, weary, "Scrapper" slang.
     *   **Jax:** Deep, resonant, humorous "Gentle Giant."
-    *   **Cas:** Fast, manic, "Gen-Z/Netrunner" energy.
+    *   **Cas:** Fast, manic, "Gen-Z/Hacker" energy.
     *   **Val:** Clip, professional, Military/Pilot tone.
     *   **Silas:** Cold, bureaucratic, "Corporate" precision.
 
@@ -54,13 +59,44 @@
     *   **Visceral:** *Delete it.* Just describe the gore.
 
 ## 7. Action Logic & "Hard Science" Physics
+*   [ ] **Thermodynamics & Containment:**
+    *   *Rule:* High-energy plasma weapons (Lobotomizer) MUST have **Magnetic Containment Fields**.
+    *   *Physics:* The user isn't burned by the blade itself (which is contained vacuum/plasma), but by the **Radiant Heat** when the field breaks to cut matter.
+    *   *Safety:* If the containment field flickers, the user dies. The "heat" Zero feels is the **Haptic Feedback** of the containment coils straining, not the blade leaking.
+*   [ ] **Atmospheric Consistency:**
+    *   *Rule:* Celestial bodies must have scientifically accurate atmospheres.
+    *   *Jupiter/Moons:* **Methane/Ammonia/Hydrocarbons**. (Not "Neon" - that's a noble gas and doesn't "choke" a moon naturally).
+    *   *Mars:* CO2, Dust, Cold.
 *   [ ] **The "Physics of Betrayal":** Tech failure must be **Physical/Thermal**.
     *   *Rule:* Gear doesn't just "turn off." It overheats, locks, freezes, or burns.
 *   [ ] **The "Geometry of Combat":** Fights are decided by **Reach, Mass, & Momentum**.
+*   [ ] **The "Lobotomizer" Reality Check:**
+    *   *Vacuum-Cut:* Leaves floor solid/cool an inch away (no slipping in slag).
+    *   *Torque:* Sleeve-Exos prevent bone shattering.
+*   [ ] **The "Hack" Logic:**
+    *   *The Pilot:* Remote Gig-Economy worker managing 50 bots. Hack hits "Handshake Protocol" (spinning wheel connection error), not a combat alert.
 *   [ ] **The "Uncanny Valley" (Elite Enemies):** Cleaners/Vipers move *wrongly* (frictionless, silent).
 *   [ ] **Zero-G/Space Travel:** **Fusion Torches** (Main Burn), **Mag-Boots**. Newton's Laws apply.
+*   [ ] **Sound in Vacuum:**
+    *   *Rule:* Space is silent. Sound only travels through **contact** (vibrations in the hull/suit). Explosions are silent flashes.
+*   [ ] **Heat Management (The Vacuum Flask Problem):**
+    *   *Rule:* Space is an insulator. High-energy systems (ships, mechs, weapons) struggle to *dump* heat, not keep warm.
+    *   *Detail:* Ships need **Radiators** (glowing wings/panels). Weapons use **Ejectable Heat Sinks** or **Coolant Vents**. Overheating is the primary limiter, not ammo.
+*   [ ] **Newton's Third Law (Zero-G Combat):**
+    *   *Rule:* Every action has an equal/opposite reaction.
+    *   *Detail:* Firing a gun in zero-g pushes you back. Swinging a sword spins you.
+    *   *Fix:* **Mag-Boots** must be engaged, or **RCS Thrusters** must fire to compensate.
+*   [ ] **G-Force Limits (The Meat Problem):**
+    *   *Rule:* Ships can accelerate faster than humans can survive.
+    *   *Detail:* High-G maneuvers require **Crash Couches** and **G-Stims** (drugs to prevent stroke/blackout). No "stopping on a dime."
+*   [ ] **Light-Lag (Comms & Hacking):**
+    *   *Rule:* Information cannot travel faster than light.
+    *   *Detail:* Real-time hacking/comms is only possible at **Short Range** (Local Mesh). Inter-planetary comms have minutes/hours of lag. No "live video calls" with Mars from Jupiter.
 
 ## 8. Lore & Timeline (The "Great Haywire")
+*   **Logistics Check:**
+    *   *The Doll Clinic:* Illegal "Soul-Butcher" smuggling point. Off-the-books. Explains the filth vs. value.
+    *   *Escrow:* Smart contract triggers on "Decommissioned" status update in global mesh (instant payout).
 *   **Current Date:** ~2330 (200 years post-colonization).
 *   **The Collapse (2080):** America collapses into giant Mega-Corporations.
     *   *Result:* Corporate influence spans the globe, then the solar system.
@@ -76,4 +112,9 @@
 *   **The Accountability Mandate:**
     *   *Purpose:* Legal requirement for a **Human Entity** to be tied to all AI weapons.
     *   *Reason:* To prevent AI from escalating conflicts to extinction. Humans must bear the legal/moral weight of the trigger pull.
-*   **Motivation:** **Luxury & Legend Status**. "The Upper Ring." "Becoming Immortals in history, not biology."
+## 9. Motivation & Philosophy
+*   **The Scrapper's Code:** Mercenaries first. "Fuck the Corps," but also "Take their money."
+*   **The Goal:**
+    *   *Option A:* **Legend Status.** Die rebelling against the system in a blaze of glory.
+    *   *Option B:* **Freedom.** Make enough credits to buy a life outside the Corp's iron grip (The Upper Ring or a private moon).
+*   **The Dispatcher:** The bridge between the "Dirty" world and the "Clean" money. Essential for access to high-paying wetwork.
