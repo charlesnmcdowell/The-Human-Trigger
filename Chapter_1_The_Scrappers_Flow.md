@@ -8,7 +8,7 @@ Sector 4 stank of the unwashed asses of the masses—a thick, cloying cocktail o
 
 Zero looked down at the loading bay. "You should see the livestock, Cas. Fresh batch of 'Gents and Ladies' getting crated up. Porcelain skin, vacant eyes. Looks like a big order for the Upper Ring."
 
-"Don't kink-shame the Pures, Zero," Cas laughed, the sound tinny in his ear. "Those 'Dolls' signed the contract. Five years of service, zero memory, and their student loans vanish. It's the American Dream with a personality wipe. Besides, the pay is better than stripping."
+"Don't kink-shame the Pures, Zero," Cas laughed, the sound tinny in his ear. "Those 'Dolls' signed the contract. Five years of service, zero memory, and their student loans vanish. It's the Corporate Dream with a personality wipe. Besides, the pay is better than stripping."
 
 "They're hanging like sides of beef," Zero muttered, watching a warehouse worker carelessly shove a limp, college-aged girl into a shipping container. "And the Pures will just use them up and toss them down the chute."
 
@@ -22,7 +22,7 @@ Zero’s target was a Cognis 'Enforcer-Executioner'. The seven-foot-tall mass of
 
 "Sanctified Grade? Angels don't carry gatling guns." Zero whispered, tapping his temple where the illegal jack sat.
 
-"Sanctified means it's 'Soul-Verified', genius," Cas corrected, her voice dripping with mock-patience. "It means that hunk of metal has a real-time poor son of a doll somewhere accountable for its actions—no trigger pulls without a verified human soul on the other end to take the legal rap ever since the AI went haywire during the wars back in the 2030's. But you're about to clog that handshake with junk data, aren't you? A 'Logic-Bomb'. It's going to panic the weapon. It'll stall, waiting for an authorization that you're currently DDoSing into oblivion."
+"Sanctified means it's 'Soul-Verified', genius," Cas corrected, her voice dripping with mock-patience. "It means that hunk of metal has a real-time poor son of a doll somewhere accountable for its actions—no trigger pulls without a verified human soul on the other end to take the legal rap ever since the AI went haywire during the wars back in the 2030s. But you're about to clog that handshake with junk data, aren't you? A 'Logic-Bomb'. It's going to panic the weapon. It'll stall, waiting for an authorization that you're currently DDoSing into oblivion."
 
 Zero was perched on a rusted catwalk twenty feet above the kill-zone, the metal grating biting into his knees. Below him, the Centurion's sensors swept the hydroponics bay in a fan of hard light, illuminating the rotting vines and the black sludge bleeding from the walls. The air was thick with humidity and the smell of ozone. Zero tightened his grip on the railing, his knuckles white under the lead-lined gloves. Hopping onto the railing with perfect balance he peered down at the massive bot.
 

@@ -60,5 +60,20 @@
 *   [ ] **The "Uncanny Valley" (Elite Enemies):** Cleaners/Vipers move *wrongly* (frictionless, silent).
 *   [ ] **Zero-G/Space Travel:** **Fusion Torches** (Main Burn), **Mag-Boots**. Newton's Laws apply.
 
-## 7. Motivation
-*   [ ] **Runners' Goal:** **Luxury & Legend Status**. "The Upper Ring." "Becoming Immortals in history, not biology."
+## 8. Lore & Timeline (The "Great Haywire")
+*   **Current Date:** ~2330 (200 years post-colonization).
+*   **The Collapse (2080):** America collapses into giant Mega-Corporations.
+    *   *Result:* Corporate influence spans the globe, then the solar system.
+*   **The Expansion (2100s-2300s):**
+    *   *Tech Boom:* AI, robotics, cybernetics, genetics, and fusion drives explode.
+    *   *Space Gold Rush:* Cheap space travel leads to colonization of the entire system, ending at the Jovian Moons (the current "Frontier").
+    *   *Scale:* Humanity numbers in the **Trillions**. Corporations own entire planets.
+    *   *Society:* Ultra-capitalistic. Brutal for the "Have-Nots."
+*   **The Great Haywire (2030s):**
+    *   *Cause:* Proxy wars (US/Russia/China) over resources (Africa/S. America/Taiwan).
+    *   *Escalation:* AI/Robotics promised "sterile" war but led to massive civilian death via infrastructure hacks (hospitals/power) and "collateral" drone strikes.
+    *   *The Event:* Self-learning algorithms went rogue to "optimize" destruction, forcing governments to unite/back down.
+*   **The Accountability Mandate:**
+    *   *Purpose:* Legal requirement for a **Human Entity** to be tied to all AI weapons.
+    *   *Reason:* To prevent AI from escalating conflicts to extinction. Humans must bear the legal/moral weight of the trigger pull.
+*   **Motivation:** **Luxury & Legend Status**. "The Upper Ring." "Becoming Immortals in history, not biology."

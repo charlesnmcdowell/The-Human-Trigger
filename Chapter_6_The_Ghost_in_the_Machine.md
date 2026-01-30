@@ -30,7 +30,7 @@ Zero returned to the *Rusty Nail*, the adrenaline fading into a dull ache.
 
 "Cas," Zero said later, sitting in the mess hall. He rubbed his temples, the phantom weight of the neural link still pressing on his mind. "I found a ghost in the code. Encrypted. Deep in the core."
 
-Cas jacked her deck into the Titan's access port. "This isn't standard Cognis **Sanctified** code. It's Pre-War encryption," she muttered, her eyes darting across her screens. "Nasty stuff. Give me ten minutes."
+Cas jacked her deck into the Titan's access port. "This isn't standard Cognis **Sanctified** code. It's Pre-Haywire encryption," she muttered, her eyes darting across her screens. "Ancient stuff. From before the Mandate locked everything down. Give me ten minutes."
 
 It took five.
 
