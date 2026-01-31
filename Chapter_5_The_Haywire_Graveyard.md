@@ -34,11 +34,11 @@ Zero moved. The Scrapper’s Flow translated perfectly through the neural link. 
 
 "Punching it!" Val yelled.
 
-The ship lurched, fusion drives screaming as they blasted out of the dock and into the void. The acceleration pinned Zero to the pilot's couch, the G-force pressing the air from his lungs. The viewscreen blurred into streaks of starlight as Val burned hard for the system's edge.
+The ship lurched, fusion drives **vibrating through the deck plates** as they blasted out of the dock and into the void. The acceleration pinned Zero to the pilot's couch, the G-force pressing the air from his lungs. The viewscreen blurred into streaks of starlight as Val burned hard for the system's edge.
 
 ***
 
-Hours later, the *Rusty Nail* cut its main torch, drifting into the shadow of the **Haywire Graveyard**. It was a massive, orbital scar—a debris field of shattered warships and industrial refuse that spanned a thousand kilometers. Most of these hulks were coffins, filled with the frozen remains of conscripted 'Gents' who died fighting corporate wars they didn't understand. The radiation static here was thick enough to taste, a metallic tang on the back of the tongue. On the HUD, the graveyard looked like a cloud of angry hornets; visually, it was a reef of twisted iron and frozen propellant, where sensors went to die and ghosts came to hide.
+Hours later, the *Rusty Nail* cut its main torch, drifting into the shadow of the **Haywire Graveyard**. It was a massive, orbital scar—a debris field of shattered warships and industrial refuse that spanned a thousand kilometers. Most of these hulks were coffins, filled with the frozen remains of conscripted 'Gents' who died fighting corporate wars they didn't understand. The radiation static here was thick enough to taste, a **ferrous dust** on the back of the tongue. On the HUD, the graveyard looked like a cloud of angry hornets; visually, it was a reef of twisted iron and frozen propellant, where sensors went to die and ghosts came to hide.
 
 "We need to calibrate," Zero said, his voice sounding thin in the quiet cockpit. "Hades is running hot."
 
@@ -58,4 +58,4 @@ A warning klaxon blared in the ship's cockpit.
 
 Three Void-Shark skiffs drifted out of the shadows, their jagged hulls painted with tribal warnings. Scavengers. Bottom feeders.
 
-"Live-fire exercise," Zero said, the fusion blade igniting with a snap-hiss that vibrated through the hull.
+"Live-fire exercise," Zero said, the fusion blade igniting with a **vacuum-snap** that vibrated through the hull.

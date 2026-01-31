@@ -10,7 +10,7 @@ Val was there. Without a word, she shoved a bottle of water into his hand. "You'
 
 Jax slapped him on the back, the massive gauntlet of his Dread-Plate nearly knocking the wind out of him. The impact would have sent Zero spinning in the zero-g, but his magnetic soles held him firm. "Did you see his face? Silas looked like he swallowed a lemon!" The giant laughed, a deep, tectonic rumble that filled the bay.
 
-Cas spun around in her chair, her face lit by the glow of her screens. "You guys aren't going to believe this. The footage from the fight? It's viral. We're trending #1 on the Shadow-Net. Every Scrapper from here to the Belt is watching that clip. 'Kill-Creds' are through the roof. We're not just rich; we're legends."
+Cas spun around in her chair, her face lit by the glow of her screens. "You guys aren't going to believe this. The footage from the fight? It's viral. We're trending #1 on the **Dark-Mesh**. Every Scrapper from here to the Belt is watching that clip. 'Kill-Creds' are through the roof. We're not just rich; we're legends."
 
 "Great," Zero said, wiping the blood from his lip. "We're famous. And hunted."
 
@@ -24,7 +24,7 @@ Zero looked at the Titan—at Orion. The machine hummed softly, the blue light o
 
 "And then we burn them down," Zero said. "Cognis. The Mandate. All of it. We take their money, and we break their toys."
 
-A message pinged on Zero's comms. It was from Silas.
+A message pinged on Zero's **Link**. It was from Silas.
 
 *Tuition is due, Mr. Vex. I'll see you in the black.*
 

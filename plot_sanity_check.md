@@ -53,6 +53,11 @@
 
 ## 6. Vocabulary Hygiene (De-Redundancy)
 *   [ ] **Banned Patterns:** Do not use the same adjective twice in a paragraph.
+*   [ ] **Immersion Breakers (Anachronism Check):**
+    *   *Rule:* No 21st-Century brands or specific tech terms.
+    *   *Banned:* OnlyFans, TikTok, Google, Wi-Fi, Bluetooth, iPhone, Uber.
+    *   *Exceptions:* **Rizz** and **Weeb** are permitted for Zero/Cas (eccentric character traits).
+    *   *Fixes:* **Mesh-Idol**, **Data-Feed**, **Query**, **Local-Link**, **Slate**, **Transport**.
 *   [ ] **Overused Terms & Fixes:**
     *   **Violet:** Swap with *Ionizing bloom, Actinic glare, Purple haze, Amethyst arc, Ultraviolet burn*.
     *   **Metallic:** Swap with *Copper, Iron, Ferrous, Industrial, Inorganic*.
@@ -114,6 +119,9 @@
 *   **The Accountability Mandate:**
     *   *Purpose:* Legal requirement for a **Human Entity** to be tied to all AI weapons.
     *   *Reason:* To prevent AI from escalating conflicts to extinction. Humans must bear the legal/moral weight of the trigger pull.
+*   **Corporate Factions:**
+    *   **Cognis:** The dominant hegemony. Controls the "Sanctified" tech market and the Accountability Mandate.
+    *   **Orbital Dynamics:** The primary rival. Focuses on heavy industry and terraforming. Target of the Chapter 2 sabotage ("Helios-7 Spire").
 ## 9. Motivation & Philosophy
 *   **The Scrapper's Code:** Mercenaries first. "Fuck the Corps," but also "Take their money."
 *   **The Goal:**
@@ -129,5 +137,21 @@
 *   [ ] **Arc Consistency:**
     *   *Zero:* Starts as a Survivor/Rookie (Flashback) -> Becomes a Legend/Leader.
     *   *Silas:* Consistently cold, calculated, corporate. Never cruel for cruelty's sake, only for profit.
-*   [ ] **Loose Ends:**
-    *   *Rule:* If a bomb is planted, it must go off (Chekhov's Gun). If a threat is made, it must be executed or countered.
+## 11. Lexicon of the Sprawl (Avant-Garde Slang)
+*   [ ] **World Terms:**
+    *   **The Lattice:** The corporate-controlled global network (Internet).
+    *   **The Rust:** The physical, dirty reality of the slums (vs. The Lattice).
+    *   **The Feed:** General media/data stream.
+    *   **Flesh-Feed:** Adult/Sensory streaming services (replaces OnlyFans).
+*   [ ] **Tech Terms:**
+    *   **Slate:** Handheld computing device (Phone/Tablet).
+    *   **Skimmer:** Anti-gravity/Hover vehicle.
+    *   **Emitter:** Energy weapon.
+    *   **Spitter:** Kinetic/Projectile weapon.
+    *   **Ghost-Cast:** Holographic projection/call.
+*   [ ] **Street Slang:**
+    *   **Slag:** Trash, useless, bad situation ("This is total slag").
+    *   **Defaulted:** Dead/Killed ("He defaulted on his life").
+    *   **Audit:** A hit/assassination job.
+    *   **Chrome:** High-class, expensive, corporate.
+    *   **Zeroed:** Erased, killed, or broke.

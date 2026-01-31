@@ -14,7 +14,7 @@ The bay was massive, dominated by the *Rusty Nail*. It was an ugly ship, built l
 
 Jax sat on a crate near the ramp, wearing a massive, articulated "Dread-Plate" exoskeleton. The armor was a bulky, industrial-grade monstrosity with exaggerated pauldrons and hazard stripes, making him look like a walking tank that had survived a welding accident. Hydraulic pistons hissed with every shift of his weight. He was calmly eating an apple with a bayonet held in his hydraulic claw arm.
 
-"You're late," Jax rumbled, his voice amplified by the armor's external speakers. "You smell like ozone."
+"You're late," Jax rumbled, his voice amplified by the armor's external speakers. "You smell like **static**."
 
 "I had a disagreement with a door," Zero said, sheathing the Odachi. "You Jax?"
 
@@ -24,9 +24,9 @@ Jax sat on a crate near the ramp, wearing a massive, articulated "Dread-Plate" e
 
 Jax grinned, a slow tectonic shift of scarred skin. "Val's inside. Wipe your feet."
 
-Zero walked up the ramp. The interior of the ship assaulted his senses—engine grease, stale coffee, and the sharp tang of ozone. Cables snaked along the ceiling like exposed veins, and the deck plating vibrated with the idle hum of a reactor that sounded like it needed a tune-up.
+Zero walked up the ramp. The interior of the ship assaulted his senses—engine grease, stale coffee, and the sharp tang of **ionized air**. Cables snaked along the ceiling like exposed veins, and the deck plating vibrated with the idle hum of a reactor that sounded like it needed a tune-up.
 
-In the cockpit, a woman in a flight suit sat with her back to him, her fingers flying across a holographic nav-console.
+In the cockpit, a woman in a flight suit sat with her back to him, her fingers flying across a **Ghost-Cast** nav-console.
 
 "Don't touch anything," she said without turning. Her voice was sharp, clipped. "I just scrubbed the deck."
 
@@ -42,11 +42,11 @@ She spun around. Sharp features, military posture, hair pulled back in a severe 
 
 "Desperation makes you sloppy," Val countered. "But we're on a clock. Cas! Are we clear?"
 
-"Clear as a bell, Princess!" Cas chirped from the comms station, blowing a pink bubble of gum. "This bandwidth is actual trash, though. I'm lagging harder than a gen-one Doll on a dial-up connection."
+"Clear as a bell, Princess!" Cas chirped from the **Link-Station**, blowing a pink bubble of gum. "This bandwidth is actual trash, though. I'm lagging harder than a gen-one Doll on a dial-up connection."
 
 "Cas?" Zero blinked, recognizing the voice.
 
-"In the flesh," Cas grinned, spinning her chair. She looked out of place in the grim cockpit, surrounded by plushies and empty energy drink cans. Her rig was a chaotic nest of screens and wires. "Remote hacking is fun, but the bandwidth here sucks. Besides, I wanted a front-row seat to the show."
+"In the flesh," Cas grinned, spinning her chair. She looked out of place in the grim cockpit, surrounded by plushies and empty energy drink cans. Her rig was a chaotic nest of screens and wires. "**Remote-Linking** is fun, but the bandwidth here sucks. Besides, I wanted a front-row seat to the show."
 
 "You know him?" Val asked, glancing between them.
 
@@ -68,7 +68,7 @@ Zero smirked, though the copper taste of the data-hangover was still bitter in h
 
 He climbed the gantry, the heavy Odachi still strapped to his back, clunking against the Titan's obsidian-colored plating. He sat in the pilot's throne—a cradle of needles and cooling gel.
 
-"Initiating sync," Zero said. He pulled the thick, shielded cable from the headrest. The jack was cold and slick with conductive gel. He slammed it into his neural port with a wet *shunk*.
+"Initiating sync," Zero said. He pulled the thick, shielded cable from the headrest. The jack was cold and slick with conductive gel. He slammed it into his **cortex-jack** with a wet *shunk*.
 
 The world went white.
 

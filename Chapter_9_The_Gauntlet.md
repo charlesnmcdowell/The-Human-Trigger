@@ -2,7 +2,7 @@
 
 "Launching!" Zero yelled.
 
-The cargo bay doors blasted open, and the Titan shot out into the void, its thrusters screaming. Zero synced instantly, the white noise of the connection flooding his mind.
+The cargo bay doors blasted open, and the Titan shot out into the void, its **thrusters flaring silently**. Zero synced instantly, the white noise of the connection flooding his mind.
 
 *// ORION READY. //*
 
@@ -12,13 +12,13 @@ The interceptors swarmed like angry hornets. Zero didn't try to outmaneuver them
 
 He ignited the fusion blade. In the vacuum of space, the plasma edge was a silent, blinding line of actinic destruction—no hum, no crackle, just pure thermal death waiting for contact. He swung the massive sword, cleaving an interceptor in two as he roared past. The explosion was a brief, expanding sphere of gas that vanished as quickly as it appeared, choked by the void.
 
-"Concentrate fire on the prototype!" Silas's voice cut through the open comms channel.
+"Concentrate fire on the prototype!" Silas's voice cut through the open **Link-Frequency**.
 
-The lead cruiser fired its turbo-lasers. Beams of coherent light slashed through the dark.
+The lead cruiser fired its **Particle Beams**. Beams of coherent light slashed through the dark.
 
-"I can't shake them!" Val yelled over the comms. "Shields are at 30%!"
+"I can't shake them!" Val yelled over the **Link**. "Ablative plating is at 30%!"
 
-"I need a hole!" Zero gritted out, deflecting a laser blast with the Titan's energy shield.
+"I need a hole!" Zero gritted out, deflecting a beam with the Titan's **Magnetic Deflector**.
 
 "I can't make one!"
 
@@ -42,7 +42,7 @@ Zero raised the fusion blade. He channeled the reactor's output into the edge, t
 
 "Transaction denied," Zero whispered.
 
-He drove the blade down. It didn't pierce the hull—it overloaded the shield generator directly beneath the bridge. A massive feedback loop surged through the cruiser's systems. Lights blew out. Engines stalled. The ship drifted, dead in the water.
+He drove the blade down. It didn't pierce the hull—it overloaded the shield generator directly beneath the bridge. A massive feedback loop surged through the cruiser's systems. Lights blew out. **Reactors scrammed**. The ship drifted, **dead in the void**.
 
 "NOW!" Zero screamed.
 

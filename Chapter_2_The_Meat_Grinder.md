@@ -8,7 +8,7 @@ Zero didn't stop the rhythmic scrape of the whetstone. "The magnetic track on th
 
 Rook tapped the glowing green 'Soul-Locked' seal on the carbine’s receiver. It pulsed with a rhythmic, haptic beat—a "digital heartbeat" synced to his own. "Cognis engineering says this tracks a heartbeat through a meter of reinforced concrete. No AI. Just my intent, amplified. This job is my ticket to the **Upper Ring**. No more smog. No more recycled water. Real sunlight, young man. A worthwhile retirement plan."
 
-"It’s that damn Accountability Mandate, Rook," the scrapper said, looking up. The whetstone went silent. "The law requires every weapon to phone home to a Cognis server before it fires. That gun is a leash. The tech was designed to monitor you, not empower you. If Cognis decides your pulse is a liability, that weapon bricks. It’s not yours. It’s theirs."
+"It’s that damn Accountability Mandate, Rook," the scrapper said, looking up. The whetstone went silent. "The law requires every weapon to phone home to a Cognis server before it fires. That gun is a leash. The tech was designed to monitor you. If Cognis decides your pulse is a liability, that weapon bricks."
 
 "Then it’s a good thing we’re the best contractors they’ve got," Kilo called out from the back, her hands buried in the guts of a thermite charge. "Silas, tell the boy the math. He’s making me nervous with that 'doomsday' talk."
 
@@ -24,7 +24,7 @@ The transition to the *Golden Spire* was a blur of pressurized steam and the met
 
 "Perimeter active," Kilo whispered, her voice a ghost over the sub-vocal comms. She moved ahead, a wraith in matte-grey cam-weave. Two corporate sentries stood by the lift cluster, their helmets scanning for thermal signatures.
 
-"I can't see shit from this deck," one guard muttered, his voice filtered through a cheap vox-caster. "Nothing but smog, I could piss in the wind and not see the stream."
+"I can't see shit from this deck," one guard muttered, his voice filtered through a cheap **voice-amp**. "Nothing but smog, I could piss in the wind and not see the stream."
 
 "Quit whining," the second guard replied, checking his pulse rifle. He was one of the voluntary debt-slaves who sold their faces to the company for a clean slate. "The pay is at least five times your average wage slave working in one of the world spanning mega cities, and the benefits coverage would see your next of kin sitting pretty if anything was to happen. I'd stare at a brick wall for twenty years if it meant my kids could afford a **Hab-Block** in the orbital ring."
 
@@ -32,7 +32,7 @@ The transition to the *Golden Spire* was a blur of pressurized steam and the met
 
 Kilo ignored her sidearm. She moved with the silent, fluid grace of a spider, descending from the ceiling on a mono-filament line. Her stealth field shimmered, blending perfectly with the smog. As the rear guard turned, she yanked him upward. The garrote snapped tight around his throat, cutting off his scream before it started. His legs twitched helplessly in the air, his eyes rolling back to expose white orbs as the wire bit deep, saliva and blood running down his chin. She secured the anchor, leaving him suspended like a gruesome ornament.
 
-The front guard turned, sensing the movement, but saw nothing. He scanned the empty corridor, his rifle raised. He looked up too late. Kilo dropped behind him, her hand clamping over his mouth as a vibro-blade punched through his armor and into his spine. "Lift clear. Zero, you're up."
+The front guard turned, sensing the movement, but saw nothing. He scanned the empty corridor, his rifle raised. He looked up too late. Kilo dropped behind him, her hand clamping over his mouth as a nanocarbon-dagger punched through his armor and into his spine. "Lift clear. Zero, you're up."
 
 Zero stepped over the bodies, checking his corners. "I'm close enough to check the network for vulnerabilities and make sure we don't pop up on any sensors."
 
@@ -88,7 +88,7 @@ Zero leaned into the "Flow." *Remember your training.* He saw it in slow motion�
 
 He reached Rook just in time to vertically slice the Cleaner in the midst of disemboweling him. Rook looked up with bloody teeth, holding his stomach, slumped against the pillar. "Listen kid, you got to get out of here... there's no time. I'm recommending a new exfill. You have to find the garbage disposal and exfil into the wastes. It'll be dangerous but there are people that have built a massive city around the factory and call that place home. I'm recommending you steal transport and delta out of here, this place is huge and you'll need to clear the area unless you want to meet up with me at the pearly gates."
 
-Zero didn't have time to argue. A different type of Cleaner—this one female, humanoid, and decked out in leather-like gear—pulled up in a hover-transport, surrounded by drones. She was curvaceous, almost pornographic in her design—like an OnlyFans model built for murder. She looked amused at Zero's sheathed Odachi as he slowly stood up from Rook's dying form, keeping his eyes trained on her. The drones hovered like paparazzi, recording the scene. She threw her pistol to the ground and began to brandish two massive, electrified combat daggers, beckoning Zero to attack. Her genetically-enhanced muscles coiled like high-tension cables.
+Zero didn't have time to argue. A different type of Cleaner—this one female, humanoid, and decked out in leather-like gear—pulled up in a **grav-skimmer**, surrounded by drones. She was curvaceous, almost pornographic in her design—like a **Flesh-Feed Star** built for murder. She looked amused at Zero's sheathed Odachi as he slowly stood up from Rook's dying form, keeping his eyes trained on her. The drones hovered like paparazzi, recording the scene. She threw her pistol to the ground and began to brandish two massive, electrified combat daggers, beckoning Zero to attack. Her genetically-enhanced muscles coiled like high-tension cables.
 
 "Nice recording rig," Zero spat, his hand resting on the hilt of the Odachi. "Hope your subscribers like snuff films, because I'm not dying today."
 

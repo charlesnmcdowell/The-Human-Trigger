@@ -2,11 +2,11 @@
 
 The Void-Sharks didn't fight like soldiers; they fought like piranhas. The three skiffs accelerated, their plasma cannons lighting up the gloom of the graveyard.
 
-"Contacts!" Val called out, her hands flying across the pilot's console. "Jax, man the dorsal turrets. Cas, jam their comms. I don't want them calling for backup."
+"Contacts!" Val called out, her hands flying across the **Flight-Deck**. "Jax, man the dorsal turrets. Cas, jam their comms. I don't want them calling for backup."
 
-"On it," Cas chirped, her fingers dancing over her chaotic rig. "Deploying electronic countermeasures. Let's ghost these simps."
+"On it," Cas chirped, her fingers dancing over her **Link-Station**. "Deploying electronic countermeasures. Let's ghost these simps."
 
-Zero stood on the hull of the dreadnought, the Titan a massive silhouette against the starlight. The skiffs strafed the *Rusty Nail*, their shots splashing against the ship's shields.
+Zero stood on the hull of the dreadnought, the Titan a massive silhouette against the starlight. The skiffs strafed the *Rusty Nail*, their shots splashing against the ship's **ablative plating**.
 
 He locked onto the lead skiff. "Hades. Target solution."
 
@@ -30,7 +30,7 @@ Zero returned to the *Rusty Nail*, the adrenaline fading into a dull ache.
 
 "Cas," Zero said later, sitting in the mess hall. He rubbed his temples, the phantom weight of the neural link still pressing on his mind. "I found a ghost in the code. Encrypted. Deep in the core."
 
-Cas jacked her deck into the Titan's access port. "This isn't standard Cognis **Sanctified** code. It's Pre-Haywire encryption," she muttered, her eyes darting across her screens. "Ancient stuff. From before the Mandate locked everything down. Give me ten minutes."
+Cas jacked her deck into the Titan's **Hard-Line**. "This isn't standard Cognis **Sanctified** code. It's Pre-Haywire encryption," she muttered, her eyes darting across her screens. "Ancient stuff. From before the Mandate locked everything down. Give me ten minutes."
 
 It took five.
 

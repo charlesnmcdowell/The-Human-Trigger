@@ -4,7 +4,7 @@
 
 "It's a mech, Val," Zero said, nursing a bulb of synthetic whiskey. "It's hardware."
 
-"My father worked on the Ghost Protocol," Val countered, staring at the holographic display of the Titan's core. "He told me about the theory. Mapping a human consciousness to a neural network. If that thing has a human consciousness, it's not a weapon. It's a prisoner."
+"My father worked on the Ghost Protocol," Val countered, staring at the **Ghost-Cast** of the Titan's core. "He told me about the theory. Mapping a human consciousness to a neural network. If that thing has a human consciousness, it's not a weapon. It's a prisoner."
 
 Zero looked at Cas. The hacker was curled up in her chair, hugging a plushie, her face pale.
 
@@ -22,7 +22,7 @@ Suddenly, the ship's proximity alarm screamed. Red light washed over the mess ha
 
 "Contacts!" Val yelled, sprinting for the cockpit. "Multiple signatures. Corporate Blockade class."
 
-Zero followed her, sliding into the co-pilot seat. The viewscreen showed a wall of steel—three Cognis cruisers and a swarm of interceptors blocking their vector.
+Zero followed her, sliding into the co-pilot seat. The **Viewport** showed a wall of steel—three Cognis cruisers and a swarm of interceptors blocking their vector.
 
 A hail opened. Silas's face appeared on the HUD, calm, collected, and terrifyingly polite.
 
@@ -36,7 +36,7 @@ A hail opened. Silas's face appeared on the HUD, calm, collected, and terrifying
 
 Silas sighed, looking disappointed. "Then I'm afraid the audit is over. All units... liquidate the debt."
 
-The cruisers' weapon ports glowed blue.
+The cruisers' **emitter arrays** glowed blue.
 
 "Val," Zero said, looking at the pilot. "Can you fly through that?"
 

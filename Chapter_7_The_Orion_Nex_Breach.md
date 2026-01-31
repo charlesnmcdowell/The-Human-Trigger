@@ -2,7 +2,7 @@
 
 "We're running on fumes," Jax rumbled, checking the *Rusty Nail*'s diagnostics. "And we're out of protein packs. I can't work on an empty stomach."
 
-"Orion-Nex," Zero said, pulling up a star chart. "It's a Tier-2 Corporate supply depot. Automated. Minimal security."
+"Orion-Nex," Zero said, pulling up a **Nav-Grid**. "It's a Tier-2 Corporate supply depot. Automated. Minimal security."
 
 Jax nodded. "I know it. Weak foundations in the loading bay. I welded those beams myself back in the day."
 
@@ -14,9 +14,9 @@ The approach was a silent glide. Val killed the *Rusty Nail's* running lights, l
 
 Magnetic boots clicked silently against the hull of the depot. The station was a brutalist block of concrete and steel, scarred by micrometeoroids. Zero led the way, his breath loud in his helmet, guiding them to an exhaust port that vented recycled atmosphere in rhythmic, crystallized puffs.
 
-Zero crawled through the tight maintenance shaft, the air stale and metallic. He reached the grate overlooking the warehouse floor and popped it. "I'm in," he whispered over the comms. "Opening bay doors."
+Zero crawled through the tight maintenance shaft, the air stale and **recycled**. He reached the grate overlooking the warehouse floor and popped it. "I'm in," he whispered over the **Link**. "Opening bay doors."
 
-Jax moved onto the loading floor, his "Dread-Plate" armor whining under the strain. The massive exoskeleton, with its hazard-striped pauldrons and hydraulic pistons, allowed him to lift pallets that would have crushed a standard forklift. He worked with the rhythmic efficiency of a machine, stacking crates of supplies near the airlock.
+Jax moved onto the loading floor, his "Dread-Plate" armor whining under the strain. The massive exoskeleton, with its hazard-striped pauldrons and hydraulic pistons, allowed him to lift pallets that would have crushed a standard **Cargo-Lifter**. He worked with the rhythmic efficiency of a machine, stacking crates of supplies near the airlock.
 
 Suddenly, the warehouse went black.
 
@@ -58,7 +58,7 @@ Zero hit a crate, his ribs screaming in protest. He rolled, barely dodging a fol
 
 "DO IT!"
 
-The ceiling tore open with a deafening screech of rending metal. Emergency shutters slammed down as debris rained onto the deck, followed by forty tons of fusion-powered consequences. **Hades dropped.**
+The ceiling tore open with a deafening screech of rending metal. **The atmosphere screamed as it vented into the void, a hurricane of loose crates and debris sucked upward before the emergency shutters slammed down.** Debris rained onto the deck, followed by forty tons of fusion-powered consequences. **Hades dropped.**
 
 The impact shook the entire station. Zero scrambled up the gantry and vaulted into the open cockpit.
 
