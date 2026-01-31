@@ -62,7 +62,7 @@ The world was silent.
 
 Rook screamed as the weapon and his helmet let out a pathetic, electronic whine. The green seal on the carbine turned a jagged, pulsing red. The Cognis firmware locked and the equipment went offline.
 
-"My HUD," Rook gasped, stumbling as his targeting optics—linked to the carbine's sensors—dissolved into grey static. "Um, either my pants is witnessing a malfunctioning turd cutter, or my rifle is offline."
+"My HUD," Rook gasped, stumbling as his targeting optics—linked to the carbine's sensors—dissolved into grey static. "**It's dead. The heartbeat... it's a flatline. I'm blind, Zero. I'm fucking blind.**"
 
 "Switching to proximity chat, I have gear for situations like this when connection is knocked out, I'll cover the team's six as we exfil!" Zero yelled without using comms.
 
@@ -100,15 +100,19 @@ Zero had five.
 
 He pivoted from behind the pillar, the Lobotomizer clearing the saya in a massive, horizontal sweep. The five-foot arc of violet plasma created a literal "no-man's land." The lady assassin remained still, studying the blade's vector mid-air, her hyper-reflexes twitching as she became a blur.
 
-The blade whistled through the air, but instead of feeling his blade hit sub-dermal mesh and heart, Zero noticed the Cleaner was gone. She was behind him, one dagger plunged into the heart of the shocked Rook, who looked up at her chest in mild amusement, dying with a grin on his face as the light left his eyes. Her other dagger was held nonchalantly against her waist as she looked down at the dying man. Zero, awkwardly stuck in a samurai slash pose thinking he came out the victor, slowly turned around to see the display of Rook's death.
+The blade whistled through the air, but instead of feeling his blade hit sub-dermal mesh and heart, Zero noticed the Cleaner was gone. She was behind him, one dagger plunged into the heart of the shocked Rook, who looked up at her breast in mild amusement, dying with a grin on his face as the light left his eyes. Her other dagger was held nonchalantly against her waist as she looked down at the dying man. Zero, awkwardly stuck in a samurai slash pose thinking he came out the victor, slowly turned around to see the display of Rook's death.
 
-Immediately, Zero dove into the vehicle, using his quick-hack ability to override the ignition and speed off. The lady laughed maniacally into the air as he fled, her drones falling behind the vehicle to record the mad dash through obstacles and the ensuing chase of the factory guards in their roamers.
+**Zero didn't waste the microsecond. He dove into the vehicle, his deck screaming a denial-of-service attack not at the ignition, but at the *drones*.**
+
+***Blind the audience.***
+
+**The camera feeds glitched into static. The lady Cleaner paused, her high-tension muscles uncoiling as her burst-speed hit its thermal limit. She didn't chase. She laughed, annoyed but amused, treating his escape like a commercial break. The chase would generate better numbers anyway.**
 
 The chase was a blur of neon and adrenaline. Zero pushed the stolen transport to its limit, weaving through the labyrinthine spires of the factory complex. He smashed through a glass atrium, flying through the lobby of an administrative building, the vehicle smoking and sparking.
 
 Then, the world turned white.
 
-Kilo's charge detonated. The primary geothermal coupler blew, sending a shockwave through the entire spire. The blast was silent in the vacuum outside, but inside the atmosphere of the factory, it was a thunderclap that shattered every window for five miles. The Helios-7 Manufacturing Spire groaned, its structural supports failing as the foundation was vaporized.
+Kilo's charge detonated. The primary geothermal coupler blew, sending a shockwave through the entire spire. **The pressure change turned the air in the hallways into a solid wall of force. It was a thermal thunderclap that shattered every window for five miles.** The Helios-7 Manufacturing Spire groaned, its structural supports failing as the foundation was vaporized.
 
 The chaos was absolute. The security grid crashed. The drones chasing him faltered, caught in the EMP backlash of the reactor failure.
 
