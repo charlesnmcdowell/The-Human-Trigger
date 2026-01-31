@@ -1,6 +1,6 @@
 # Chapter 1: The Scrapper’s Flow
 
-The blade Zero called 'The Lobotomizer' gave off a low-frequency snarl that vibrated in the marrow of his teeth. It was an Odachi—a massive, two-handed Katana with five feet of unshielded plasma-edge. Zero’s hands, mapped with thick, iron-tough callouses from a decade of extreme training, gripped the abrasive carbon-braid of the hilt with a steady, lethal calm. He wore a battered armored kimono of nano-carbon leather, reinforced with lead-lined plates to absorb the radiation from his own weapon. On his left forearm, a bulky, jury-rigged energy shield emitter hummed with a faint blue static, and a tactical "Oni-Menpo" rebreather mask covered the lower half of his face, its lateral fangs hissing as they scrubbed the toxic smog of the sector.
+The blade Zero called 'The Lobotomizer' gave off a low-frequency snarl that vibrated in the marrow of his teeth. It was an Odachi—a massive, two-handed Katana with five feet of overclocked plasma-edge. Zero’s hands, mapped with thick, iron-tough callouses from a decade of extreme training, gripped the abrasive carbon-braid of the hilt with a steady, lethal calm. He wore a battered armored kimono of nano-carbon leather, reinforced with lead-lined plates to absorb the radiation from his own weapon. On his left forearm, a bulky, jury-rigged energy shield emitter hummed with a faint blue static, and a tactical "Oni-Menpo" rebreather mask covered the lower half of his face, its lateral fangs hissing as they scrubbed the toxic smog of the sector.
 
 Sector 4 stank of the unwashed asses of the masses—a thick, cloying cocktail of recycled sweat, open sewers, and the metallic tang of dying machinery. Below the rusted catwalks of the abandoned hydroponics bay, a black-market "Doll-Clinic" was in full swing. Through the rising steam, Zero saw a line of 'Cyber-Sirens'—high-end sex dolls with porcelain-white skin and vacant stares—hooked to overhead rails like sides of beef in a slaughterhouse.
 
@@ -20,17 +20,15 @@ Zero’s target was a Cognis 'Enforcer-Executioner'. The seven-foot-tall mass of
 
 "Heads up, Samurai," Cas continued. "I spent three weeks decrypting their patrol algorithms to find this gap, so try not to waste my time. That's a Centurion Mark-IV. Manufactured by Cognis Heavy Industries. Retail price: more than your entire life's earnings. Their firewall is 'Sanctified' grade, meaning it phones home to the corporate servers every 0.4 seconds to check if it has permission to kill you. Don't let it make that call."
 
-"Sanctified Grade? Angels don't carry gatling guns." Zero whispered, tapping his temple where the illegal jack sat.
+"Sanctified Grade? Angels don't carry gatling guns." Zero whispered, tapping his temple where the illegal jack sat. "I need to be within five meters for the handshake override. Close enough to smell the grease."
 
 "Sanctified means it's 'Soul-Verified', genius," Cas corrected, her voice dripping with mock-patience. "It means that hunk of metal has a real-time poor son of a doll somewhere accountable for its actions—probably some gig-economy pilot in the Upper Ring managing fifty bots at once. But you're about to clog that handshake with junk data, aren't you? A 'Logic-Bomb'. It's going to panic the weapon. The pilot's screen is just going to show a spinning 'Connection Lost' wheel while you turn his asset into scrap."
 
-Zero was perched on a rusted catwalk twenty feet above the kill-zone, the metal grating biting into his knees. Below him, the Centurion's sensors swept the hydroponics bay in a fan of hard light, illuminating the rotting vines and the black sludge bleeding from the walls. The air was thick with humidity and assaulted his nostrils like a hot fart from a guy who ate far too many eggs. Zero tightened his grip on the railing, his knuckles white under the lead-lined gloves. Hopping onto the railing with perfect balance he peered down at the massive bot.
+Zero was perched on a rusted catwalk twenty feet above the kill-zone, the metal grating biting into his knees. Below him, the Centurion's sensors swept the hydroponics bay in a fan of hard light, illuminating the rotting vines and the black sludge bleeding from the walls. The air was thick with humidity and assaulted his nostrils like the breath of a dying engine—sulfur, rot, and the copper tang of recycled air. Zero tightened his grip on the railing, his knuckles white under the lead-lined gloves. Hopping onto the railing with perfect balance he peered down at the massive bot.
 
 *Breathe. Sync. Drop.*
 
-He tipped forward, dropping face-first into the void. Gravity took the lead, wind whipping his purple locs back like a kinetic contrail. Mid-air, he visualized the local mesh—a chaotic web of RF handshakes tethering the Centurion to the Cognis overmind. He twisted, flipping 180 degrees to drive the giant energy katana into the bulkhead wall.
-
-The blade shrieked as its magnetic field bit into the metal, slowing his fall in a shower of sparks. Simultaneously, he channeled the Logic-Bomb through the sword’s unshielded coils, using the weapon as a broadcast antenna to blast the bot's receiver with a petabyte of recursive junk data. The neural feedback hit him instantly—a copper taste flooding his mouth and a sharp, blinding spike behind his eyes. Zero scowls, "Like a fucking ice cream headache."
+He tipped forward, dropping face-first into the void. Gravity took the lead, wind whipping his purple locs back like a kinetic contrail. Mid-air, he visualized the local mesh—a chaotic web of RF handshakes tethering the Centurion to the Cognis overmind. He twisted, flipping 180 degrees. He didn't cut; he reversed the polarity of the sheath-magnets, using the bulkhead's own ferrous skeleton to brake his fall with a scream of magnetic resistance. Suspended for a microsecond in the magnetic cushion, he channeled the Logic-Bomb through the sword’s straining coils, using the weapon as a broadcast antenna to blast the bot's receiver with a petabyte of recursive junk data. The neural feedback hit him instantly—a copper taste flooding his mouth and a sharp, blinding spike behind his eyes. Zero scowls, "Like a fucking ice cream headache."
 
 He hit the deck plates with a magnetic *thud* that shook the dust from the air. Cas replied, "You say something?" The Centurion swiveled instantly, its single optic eye contracting from search-yellow to kill-purple.
 
@@ -54,7 +52,7 @@ Zero swung the massive weapon, steering a five-foot high-voltage arc. As the bla
 
 He drove the blade upward. The Lobotomizer didn't melt the bot’s waist; it sublimated it. The 3,000-degree edge turned the metal directly into dust with a sharp *CRACK* of vacuum displacement. The thermal bloom was so intense that the deck plates beneath the bot’s feet began to slag, but the floor an inch away remained cool and solid.
 
-Momentum carried him past the ruin. He came up in a crouch, his skin prickling from the UV radiation bleeding off the unshielded blade—a nasty sunburn he'd feel for days. The heat-sinks on the sword's hilt glowed a dull, angry orange.
+Momentum carried him past the ruin. He came up in a crouch, his skin prickling from the UV radiation bleeding off the leaking blade—a nasty sunburn he'd feel for days. The heat-sinks on the sword's hilt glowed a dull, angry orange.
 
 The Centurion stood there, its optic flickering as the Logic-Bomb finally bricked its higher functions. The top half slid slowly to the left and hit the floor with a wet, metallic thud.
 
@@ -68,7 +66,7 @@ Zero tapped his comms bead. "Cas. Tell me you got the money shot."
 
 "Got it? Escrow released. The funds are already bouncing through three shell accounts," Cas continued. "But seriously, Zero? A frontal assault? We've been running these ops for two years, and you still fight like you have **Diamond-Tier life insurance** money to have your most recent memories and skills beamed back to life via **Orbital-Link** to clone."
 
-Zero popped the seal on a stim-injector. "No need for immortality when you have **juice**, Cas."
+Zero popped the seal on a stim-injector. "No need for a backup clone when you don't plan on dying, Cas."
 
 "Says the **larper** in god-damn samurai armor," Cas shot back.
 
