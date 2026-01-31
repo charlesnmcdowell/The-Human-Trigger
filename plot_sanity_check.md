@@ -17,6 +17,10 @@
 *   [ ] **Adult Character Dynamics (The "Sexy" Factor):**
     *   *Rule:* Characters are physical, sexual beings. Don't sanitize their appearance or interactions.
     *   *Detail:* Describe physique, specific clothing choices (brands/textures), and physical reactions (tension/attraction) to ground the story in a gritty, adult reality.
+*   [ ] **Dialect Consistency:**
+    *   *Rule:* Characters must speak in their specific "Voice Profile."
+    *   *Cas:* **Hustler/Tech-Speed.** Fast, slang-heavy, cynical. (e.g., "Math's clocked," "Tier-4 drone").
+    *   *Zero:* **Noir/Professional.** Dry, understated, lethal.
 
 ## 2. Visceral Violence (The "Mortal Kombat" Threshold)
 *   [ ] **No "Power Ranger" Action:** Remove clean, stylized violence.
@@ -80,6 +84,7 @@
 *   [ ] **Atmospheric Consistency:**
     *   *Rule:* Celestial bodies must have scientifically accurate atmospheres.
     *   *Jupiter/Moons:* **Methane/Ammonia/Hydrocarbons**. (Not "Neon" - that's a noble gas and doesn't "choke" a moon naturally).
+    *   *Europa:* **Ice Crust/Vacuum**. No surface islands. Habitation must be **Sub-Surface/Bio-Dome**.
     *   *Mars:* CO2, Dust, Cold.
 *   [ ] **The "Physics of Betrayal":** Tech failure must be **Physical/Thermal**.
     *   *Rule:* Gear doesn't just "turn off." It overheats, locks, freezes, or burns.
