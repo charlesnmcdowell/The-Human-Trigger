@@ -45,7 +45,7 @@ He didn't care about the criminal record. Going straight was a slow death senten
 
 "We don't have five hundred years," Zero said. "We have maybe five before the radiation in this sector cooks us or a Scrapper gets lucky."
 
-"Exactly," Cas grinned. "We take the money, and we disappear. I've got a line on a Shielded Atoll in the Tyros Sub-Surface Sea. It's a pressurized dome anchored to the thermal vents. Real dirt, Zero. Real pines. It’s inside the ice-crust, so the radiation doesn't touch you. We buy our way into the Closed-Loop Economy and never have to look at a scrubber again."
+"Exactly," Cas grinned. "We take the money, and we disappear. I've got a line on a Shielded Atoll in the Tyros Sub-Surface Sea. It's a pressurized dome anchored to the thermal vents. Real dirt, Zero. Real pines. And fifty million? That doesn't just buy the land; it buys the Life-Support Endowment—the massive energy budget required to keep the vents running so the trees don't freeze into glass. We buy our way into the Closed-Loop Economy and never have to look at a scrubber again."
 
 "Who's the client?" Zero asked, his eyes narrowing.
 
