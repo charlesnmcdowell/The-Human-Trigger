@@ -1,10 +1,10 @@
 # Chapter 3: The Blind Contract
 
-Zero sat on a crate in the cargo hold of the *Scrap-Vulture*, a rusted transport skimming the smog layer of Sector 4. The adrenaline from the fight was fading, replaced by the dull throb of a data-hangover. He wiped the last of the nosebleed away with the back of his glove, staring at the Cognis core humming on the deck. It was a cylinder of blue light, worth more than the ship they were flying in.
+Zero sat on a crate in the cargo hold of the *Scrap-Vulture*, a rusted transport skimming the smog layer of Sector 4. The adrenaline from the fight was fading, replaced by the dull throb of a headache. He wiped the last of the nosebleed away with the back of his glove, staring at the Cognis core humming on the deck. It was a cylinder of blue light, worth more than the ship they were flying in.
 
-"You okay, Samurai?" Cas asked, her voice echoing from the cockpit. "You zoned out for a second there."
+"You okay, Zero?" Cas asked, her voice echoing from the cockpit. "You zoned out for a second there."
 
-"Just a glitch," Zero muttered, shaking his head. The memory of the Helios-7 Spire—of Rook screaming as his gun melted, of Kilo's silence—clung to him like static. It had been three years, but the smell of burnt ozone always brought it back. He forced the ghost of Silas out of his mind. That was the past. This was business.
+"Just a glitch," Zero muttered, shaking his head. The memory of the Helios-7 Spire—of Rook grinning as he died, of Kilo's silence—clung to him like static. It had been three months, but the smell of burnt plastic always brought it back. He forced the ghost of the Flesh-Feed Star out of his mind. That was the past. This was business.
 
 "Well, snap out of it," Cas said, spinning her chair to face him. "Because we just got a ping on the Dark-Mesh. Priority One. Encrypted."
 

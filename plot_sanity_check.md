@@ -143,6 +143,7 @@
     *   *Chapter 2:* Flashback (The "Failure" Mission). Establishes trauma/betrayal.
     *   *Chapter 3+:* Present Day (The "Big Score"). Consequences of Ch 1 & 2 merge.
     *   *Consistency Check:* Ensure injuries/gear in Ch 3 match Ch 1, not Ch 2.
+    *   *Sanity Check:* Verify references to past events (e.g., Rook's death) are accurate to the flashback.
 ## 11. Lexicon of the Sprawl (Avant-Garde Slang)
 *   [ ] **World Terms:**
     *   **The Lattice:** The corporate-controlled global network (Internet).
