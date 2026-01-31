@@ -57,15 +57,15 @@ Zero looked at the schematic. The machine was a beast—forty feet of matte-blac
 
 ***
 
-The *Scrap-Vulture* docked at the service port of Deck 12 an hour later. The airlock cycled with a hiss of decontamination spray. Zero stepped out, the Lobotomizer strapped to his back, his hand hovering near the hilt.
+The *Scrap-Vulture* was en route to dock six hours later. Cas explained to Zero that she'd be masking his signature. To the local grid, he'd look like a maintenance worker with a really aggressive tool belt.
 
-"I'll stay on the line," Cas said over the Link. "I'm masking your signature. To the local grid, you're just a maintenance worker with a really aggressive tool belt."
+"What's the play?" Zero asked, checking the seals on his Oni-Menpo mask. The tactical rebreather covered the lower half of his face in matte-black ceramic, its lateral fangs housing active chemical scrubbers designed to filter out everything from tear gas to radioactive dust. It wasn't just protection; it was a face of war.
 
-"What's the play?" Zero asked, checking the seals on his Oni-Menpo mask.
-
-"Simple," Cas replied, her voice crisp in his ear. "Plan A: We meet the contact, verify the funds, and you assess the Titan. If the tech is legit, we take the job. Plan B: If it's a setup, I dump the ship's reactor core into the docking clamps to create a thermal smokescreen, and you cut your way back to the airlock. I've already looped the camera feeds on this level, so you've got a ten-minute window before the patrol drones cycle back. The Vault is three levels down."
+"Simple," Cas replied, stretching out in the cockpit seat, her back arching as her breasts pointed towards the bulkhead, legs spreading out in the air for a good stretch. Zero paid her no attention, continuing to check his gear. "Plan A: We meet the contact, verify the funds, and you assess the Titan. If the tech is legit, we take the job. Plan B: If it's a setup, I dump the ship's reactor core into the docking clamps to create a thermal smokescreen, and you cut your way back to the airlock. I've already looped the camera feeds on this level, so you've got a ten-minute window before the patrol drones cycle back. The Vault is three levels down."
 
 "Let's hope we don't need Plan B," Zero muttered.
+
+The ship shuddered as the docking clamps engaged. The airlock cycled with a hiss of decontamination spray. Zero stepped out, fully decked in his armored kimono and lead-lined gear, the Lobotomizer strapped to his back.
 
 He looked around. The service port was a cavernous, industrial throat of the station—pipes the size of redwoods running along the ceiling, dripping condensation that smelled of ozone and coolant. It was quiet here, the hum of the station's massive atmospheric scrubbers drowning out the distant noise of the upper decks.
 
