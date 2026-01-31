@@ -11,6 +11,9 @@
 *   [ ] **Sensory Overload:** Vibration of bass, metallic tang of blood, cloying humidity, toxic steam. Smell is critical.
 *   [ ] **Tone Consistency (No Slapstick):**
     *   *Rule:* **No Scatological Humor in Combat.** Keep the "Dirty" aesthetic industrial (rot, rust, chemical), not juvenile (farts, poop jokes). Maintain the "Noir" tension.
+*   [ ] **Dialogue Authority:** If a line feels "off" for a character, rewrite it.
+*   [ ] **One-Liner Quality Control:**
+    *   *Rule:* Avoid generic action-movie clichés. Dialogue should reflect **Scrapper Pride** and professional cynicism (e.g., "No need for a backup clone when you don't plan on dying").
 
 ## 2. Visceral Violence (The "Mortal Kombat" Threshold)
 *   [ ] **No "Power Ranger" Action:** Remove clean, stylized violence.
@@ -50,9 +53,6 @@
 ## 5. Style & Rhetoric (The "Hard-Boiled" Rules)
 *   [ ] **ELIMINATE "Not X, but Y":** Remove the Antithesis/Correctio pattern ("It wasn't a sword, it was a...").
     *   *Correction:* Use direct description. "The sword was a massive slab of..."
-*   [ ] **Dialogue Authority:** If a line feels "off" for a character, rewrite it.
-*   [ ] **One-Liner Quality Control:**
-    *   *Rule:* Avoid generic action-movie clichés. Dialogue should reflect **Scrapper Pride** and professional cynicism (e.g., "No need for a backup clone when you don't plan on dying").
 *   [ ] **Cinematic Transitions:** Scene changes must describe the *vehicle* and the *environment*.
 
 ## 6. Vocabulary Hygiene (De-Redundancy)
