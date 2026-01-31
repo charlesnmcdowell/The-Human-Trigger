@@ -10,13 +10,13 @@ Zero sat on a crate in the cargo hold of the *Scrap-Vulture*, a rusted transport
 
 Zero frowned. "We just finished a job, Cas. I need a drink and a week in a sensory-deprivation tank."
 
-Zero stepped into the cockpit, the synthetic whiskey a warm weight in his gut. The air here was brisk—14°C—as the ship’s Life Support diverted every spare watt to the Decryption Array humming in the machine room aft.
+Zero stepped into the cockpit, the synthetic whiskey a warm weight in his gut. The air here was brisk—18°C—as the ship’s Life Support diverted every spare watt to the Decryption Array humming in the machine room aft.
 
 He wasn't shirtless; he wore a charcoal-grey Thermal Compression Top that clung to his corded frame like a second skin. It was designed to regulate body temperature under a heavy kimono, but in the chilly cockpit, it just made him look like a shadow waiting to move. He hadn't bothered with pants yet, just his grey thermal boxers.
 
 "You're late," Cas quipped, her fingers flying across the holographic nav-slate. She was wrapped in a heavy, oversized flight jacket over her white tank-top, her "Terra-Born" islander blood clearly hating the LS-tax. She looked up, her beady eyes scanning his thermal-clad frame. "I can hear your metabolism redlining from here, Samurai. Drink the whiskey; you're going to need the calories."
 
-"Turn the heaters up, Cas. The air feels like a dead man's breath," Zero grunted.
+"Turn the heaters up, Cas. The air has a bite to it," Zero grunted.
 
 "Can't. The array is pulling a massive load on this 'Pre-Haywire' ping," she said, tapping a display showing the ship's power distribution. "LS is on a low-priority loop until I crack this handshake." She sat cross-legged, the jacket bunching up to reveal white, high-cut panties that looked like **Gilded-Lily** silk.
 
