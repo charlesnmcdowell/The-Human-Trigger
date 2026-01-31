@@ -14,6 +14,9 @@
 *   [ ] **Dialogue Authority:** If a line feels "off" for a character, rewrite it.
 *   [ ] **One-Liner Quality Control:**
     *   *Rule:* Avoid generic action-movie clichés. Dialogue should reflect **Scrapper Pride** and professional cynicism (e.g., "No need for a backup clone when you don't plan on dying").
+*   [ ] **Adult Character Dynamics (The "Sexy" Factor):**
+    *   *Rule:* Characters are physical, sexual beings. Don't sanitize their appearance or interactions.
+    *   *Detail:* Describe physique, specific clothing choices (brands/textures), and physical reactions (tension/attraction) to ground the story in a gritty, adult reality.
 
 ## 2. Visceral Violence (The "Mortal Kombat" Threshold)
 *   [ ] **No "Power Ranger" Action:** Remove clean, stylized violence.
