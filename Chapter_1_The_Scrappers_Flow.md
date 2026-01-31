@@ -66,7 +66,7 @@ Zero tapped his comms bead. "Cas. Tell me you got the money shot."
 
 "Got it? Escrow released. The funds are already bouncing through three shell accounts," Cas continued. "But seriously, Zero? A frontal assault? We've been running these ops for two years, and you still fight like you have **Diamond-Tier life insurance** money to have your most recent memories and skills beamed back to life via **Orbital-Link** to clone."
 
-Zero popped the seal on a stim-injector. "No need for a backup clone when you don't plan on dying, Cas."
+Zero popped the seal on a stim-injector. "**I'm not in the business of becoming a legacy file, Cas. Besides, the bandwidth for a soul-upload is too expensive in this sector.**"
 
 "Says the **larper** in god-damn samurai armor," Cas shot back.
 
