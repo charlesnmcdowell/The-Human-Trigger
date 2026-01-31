@@ -156,6 +156,14 @@
     *   *Chapter 3+:* Present Day (The "Big Score"). Consequences of Ch 1 & 2 merge.
     *   *Consistency Check:* Ensure injuries/gear in Ch 3 match Ch 1, not Ch 2.
     *   *Sanity Check:* Verify references to past events (e.g., Rook's death) are accurate to the flashback.
+*   [ ] **The "Status" vs. "Wealth" Correction:**
+    *   *Rule:* "Gold" and "Diamond" refer to **Insurance/Liability Tiers**, not social rank.
+    *   *Logic:* Zero wants "Diamond-Tier" to clear his criminal record (Soul-Verification), not for status.
+*   [ ] **The "Accountability" Paradox:**
+    *   *Rule:* Hacking a bot must account for the remote pilot.
+    *   *Fix:* Attacks target the **Handshake Protocol** (connection), not the AI itself.
+*   [ ] **Gallows Humor vs. Fluff:**
+    *   *Rule:* Humor must be a defense mechanism (coping with trauma), not "Marvel banter."
 ## 11. Lexicon of the Sprawl (Avant-Garde Slang)
 *   [ ] **World Terms:**
     *   **The Lattice:** The corporate-controlled global network (Internet).
