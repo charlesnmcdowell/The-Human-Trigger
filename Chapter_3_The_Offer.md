@@ -10,21 +10,19 @@ Zero sat on a crate in the cargo hold of the *Scrap-Vulture*, a rusted transport
 
 Zero frowned. "We just finished a job, Cas. I need a drink and a week in a sensory-deprivation tank."
 
-Zero stepped into the cockpit, the synthetic whiskey burning a trail down his throat. It was freezing—Cas liked to keep the servers at sub-zero, even if it meant the air felt like a razor against his skin.
+Zero stepped into the cockpit, the synthetic whiskey a warm weight in his gut. The air here was brisk—14°C—as the ship’s Life Support diverted every spare watt to the Decryption Array humming in the machine room aft.
 
-"You're doing it again," Cas quipped without turning, her fingers dancing across a holographic slate. "Walking around shirtless just to prove you've got more scars than sense. I can hear your muscle fibers shivering from here, Samurai."
+He wasn't shirtless; he wore a charcoal-grey Thermal Compression Top that clung to his corded frame like a second skin. It was designed to regulate body temperature under a heavy kimono, but in the chilly cockpit, it just made him look like a shadow waiting to move. He hadn't bothered with pants yet, just his grey thermal boxers.
 
-"Turn up the environmental, Cas. My locs are starting to frost," Zero grunted. He leaned against a cooling rack, his defined, corded frame casting a long shadow over the console. The scars on his ebony skin—jagged reminders of the Spire—pulled tight as he crossed his arms.
+"You're late," Cas quipped, her fingers flying across the holographic nav-slate. She was wrapped in a heavy, oversized flight jacket over her white tank-top, her "Terra-Born" islander blood clearly hating the LS-tax. She looked up, her beady eyes scanning his thermal-clad frame. "I can hear your metabolism redlining from here, Samurai. Drink the whiskey; you're going to need the calories."
 
-Cas spun her chair, her golden-brown skin glowing in the actinic light of the monitors. She looked like a tropical ghost in this ice-box. She sat cross-legged, a cybernetic kitten on her tank top staring back at him with an eyepatch.
+"Turn the heaters up, Cas. The air feels like a dead man's breath," Zero grunted.
 
-"Can't. Servers are spiking on this decryption," she said, her black, beady eyes magnified behind circular rims. She adjusted her glasses, her gaze drifting down to the white silk of her high-cut panties. "Besides, I like the cold. Keeps the 'Terra-Born' blood from getting sluggish."
+"Can't. The array is pulling a massive load on this 'Pre-Haywire' ping," she said, tapping a display showing the ship's power distribution. "LS is on a low-priority loop until I crack this handshake." She sat cross-legged, the jacket bunching up to reveal white, high-cut panties that looked like **Gilded-Lily** silk.
 
-"Expensive taste for a freezer-burn enthusiast," Zero noted, his hazel eyes locking onto the Gilded-Lily logo on the silk. "Executive-tier laundry in a Sector 4 cargo-ship? Who’d you lift those from?"
+"Expensive taste for a freezer-burn enthusiast," Zero noted, his hazel eyes locking onto the logo on the silk. "Executive-tier laundry in a Sector 4 cargo-ship? Who’d you lift those from?"
 
-"Gift from a grateful client," Cas smirked, her nipples pressing hard against the thin cotton of her top in the chill. She didn't bother to cover up. Instead, her gaze drifted lower, lingering on the obvious morning wood pressing against his grey boxers.
-
-"I guess you were overcompensating with that sword," she quipped, pushing her glasses up her nose.
+"Gift from a grateful client," Cas smirked, pulling the jacket tighter but letting her gaze drift lower, lingering on the obvious morning wood pressing against his boxers. "I guess you were overcompensating with that sword."
 
 Zero didn't blink. He just took another drink. "The ping, Cas."
 
