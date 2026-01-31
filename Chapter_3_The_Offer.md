@@ -22,9 +22,13 @@ Cas spun her chair, her golden-brown skin glowing in the actinic light of the mo
 
 "Expensive taste for a freezer-burn enthusiast," Zero noted, his hazel eyes locking onto the Gilded-Lily logo on the silk. "Executive-tier laundry in a Sector 4 cargo-ship? Who’d you lift those from?"
 
-"Gift from a grateful client," Cas smirked, her nipples pressing hard against the thin cotton of her top in the chill. She didn't bother to cover up. She just tapped the slate. "Now quit eye-balling my 'benefits' and look at the math. We've got a live one."
+"Gift from a grateful client," Cas smirked, her nipples pressing hard against the thin cotton of her top in the chill. She didn't bother to cover up. Instead, her gaze drifted lower, lingering on the obvious morning wood pressing against his grey boxers.
 
-"Right. Quit eye-balling the servers and look at this slate," Cas said, tapping the screen with a manicured nail. "We aren't talking pocket change or scrap-fees. This is the 'exit-the-planet' kind of money. This is the 'never-breathe-recycled-farts-again' payout."
+"I guess you were overcompensating with that sword," she quipped, pushing her glasses up her nose.
+
+Zero didn't blink. He just took another drink. "The ping, Cas."
+
+"Right. Quit eye-balling my 'benefits' and look at the math," Cas said, tapping the screen with a manicured nail. "We aren't talking pocket change or scrap-fees. This is the 'exit-the-planet' kind of money. This is the 'never-breathe-recycled-farts-again' payout."
 
 Zero leaned over her shoulder, the magnetic soles of his boots clicking on the deck. He looked at the screen. The message was simple, text-only, no sender ID.
 
