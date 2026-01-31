@@ -14,7 +14,7 @@ Zero stepped into the cockpit, the synthetic whiskey a warm weight in his gut. T
 
 He wasn't shirtless; he wore a charcoal-grey Thermal Compression Top that clung to his corded frame like a second skin. It was designed to regulate body temperature under a heavy kimono, but in the chilly cockpit, it just made him look like a shadow waiting to move. He hadn't bothered with pants yet, just his grey thermal boxers.
 
-"You're late," Cas quipped, her fingers flying across the holographic nav-slate. She was dressed for comfort, not company, in a white tank top emblazoned with a "Neko-Pop" character and a pair of white, high-cut panties that looked like **Gilded-Lily** silk. She adjusted her oversized, circular glasses, her beady eyes scanning his lean muscular frame slowing moving down his chest , 6 packs and boxers. "hmmmmmm"
+"You're late," Cas quipped, her fingers flying across the holographic nav-slate. She was dressed for comfort, not company, in a white tank top emblazoned with a "Neko-Pop" character and a pair of white, high-cut panties that looked like **Gilded-Lily** silk. She adjusted her oversized, circular glasses, her beady eyes scanning his lean muscular frame, slowly moving down his chest, six-pack, and boxers. "Hmmmmmm."
 
 "Turn the heaters up, Cas. The air has a bite to it," Zero grunted.
 
@@ -26,7 +26,7 @@ He wasn't shirtless; he wore a charcoal-grey Thermal Compression Top that clung 
 
 Zero didn't blink. He just took another drink. "The ping, Cas."
 
-"Right. Quit eye-balling my 'benefits' and look at the math," Cas said, tapping the screen with a manicured nail. "We aren't talking pocket change or scrap-fees. This is the 'exit-the-planet' kind of money. This is the 'never-breathe-recycled-farts-again' payout."
+"Right. Quit eye-raping me and look at the math," Cas said, tapping the screen with a manicured nail. "We aren't talking pocket change or scrap-fees. This is the 'exit-the-planet' kind of money. This is the 'never-breathe-recycled-farts-again' payout."
 
 Zero leaned over her shoulder, the magnetic soles of his boots clicking on the deck. He looked at the screen. The message was simple, text-only, no sender ID.
 
@@ -37,11 +37,7 @@ Zero leaned over her shoulder, the magnetic soles of his boots clicking on the d
 
 "50 million credits," Zero whispered.
 
-He didn't care about the criminal record. Going straight was a slow death sentence. He’d seen the 'law-abiding' citizens of the Sprawl—wage slaves packing dolls into crates, their eyes dead, their bodies failing from malnutrition and stress while they thanked the Corp for the privilege of breathing recycled air. Even the Dolls were 'legal' workers. The system didn't reward obedience; it consumed it.
-
-"Do the math," Zero said, his voice low.
-
-"Math’s already clocked, Samurai," Cas said, popping a bubble of gum. "Your average Tier-4 drone pulls forty-five k a year—and that’s if they’re lucky. You want the six-figure bracket? You gotta sell your likeness rights and hope the Corp doesn't use your face for a bio-sludge ad. At a hundred grand, it’s a five-century grind to hit this payout. Five hundred years of boot-licking, Zero. We don't have that kind of shelf-life."
+"Do the math," Cas said, popping a bubble of gum. "Your average Tier-4 drone pulls forty-five k a year—and that’s if they’re lucky. You want the six-figure bracket? You gotta sell your likeness rights and hope the Corp doesn't use your face for a bio-sludge ad. At a hundred grand, it’s a five-century grind to hit this payout. Five hundred years of boot-licking, Zero. We don't have that kind of shelf-life."
 
 "We don't have five hundred years," Zero said. "We have maybe five before the radiation in this sector cooks us or a Scrapper gets lucky."
 
@@ -51,15 +47,13 @@ He didn't care about the criminal record. Going straight was a slow death senten
 
 "Anonymous," Cas said, her fingers dancing over the keys. "But the encryption? It's 'Pre-Haywire' grade. We're talking 2030s architecture—stuff that predates the Mandate by centuries. I can't crack it, which means this isn't some script-kiddy. This is a surviving artifact. Maybe a rogue AI that slipped the leash before the Great Haywire, or a Corp hoarding ancient tech."
 
-"It's a trap," Zero said flatly. "Nobody pays that much for a heist unless it's suicide. And 'Pre-Haywire' tech? That screams corporate black-ops."
-
-"A team," Zero scoffed. "I work alone."
+"A team," Zero scoffed. "Nobody pays that much for a heist unless it's suicide. And 'Pre-Haywire' tech? That screams corporate black-ops. I'll take this risk alone."
 
 "Not for fifty million, you don't," Cas countered. "Look at the specs. It's a Titan. A prototype. The NSFW-32. Rumor is, it cooks every pilot who plugs into it. That's why they need you. They need a Scrapper who runs 'Dirty' tech. Someone who can override the safeties."
 
 Zero looked at the schematic. The machine was a beast—forty feet of matte-black armor and fusion reactors. It looked like a god of war wrapped in industrial chains.
 
-"Set a course," Zero said, turning back to the hold. "Let's go see who wants to play god."
+"Set a course, let's check it out," Zero said, turning back to the hold.
 
 ***
 
@@ -67,14 +61,14 @@ The *Scrap-Vulture* docked at the service port of Deck 12 an hour later. The air
 
 "I'll stay on the line," Cas said over the Link. "I'm ghosting your signature. To the local grid, you're just a maintenance worker with a really aggressive tool belt."
 
-"Keep your eyes open," Zero said. "If this goes south, dump the core and run."
+"Why the subterfuge?" Zero asked, checking the seals on his Oni-Menpo mask. "If they hired us, shouldn't we have a red carpet?"
 
-"Ye of little faith," Cas chirped. "Go make us rich, Samurai."
+"The client hired us, Zero. But Deck 12 is Cognis territory," Cas explained, her voice tinny in his ear. "This is a 'Black-Book' extraction. The local security grid doesn't know we're coming because the client doesn't want a paper trail. If we walk in the front door, we trigger a Level 5 alert. If we go in the back way, masked as maintenance? We're invisible until we hit the vault."
 
-Zero moved into the corridor. The air here was hotter, thicker. He could hear the distant thrum of riot control measures—flash-bangs and screaming. Deck 12 was already a war zone.
+Zero looked around. The service port was a cavernous, industrial throat of the station—pipes the size of redwoods running along the ceiling, dripping condensation that smelled of ozone and coolant. It was quiet here, the hum of the station's massive atmospheric scrubbers drowning out the distant noise of the upper decks.
 
-Perfect cover.
+"Security?" Zero asked.
 
-He checked his HUD. The rendezvous point was a docking bay on the far side of the riot. He adjusted his mask, the active scrubbers hissing as the lateral fangs vented superheated, filtered air, clearing the tear gas from his intake.
+"Tight, but automated," Cas replied. "I've looped the camera feeds on this level. You've got a ten-minute window before the patrol drones cycle back. The Vault is three levels down. And Zero? I've never been this deep in their system before. The architecture here... it's old. It feels like walking through a graveyard."
 
-"Time to work," Zero whispered.
+"Let's hope the ghosts stay dead," Zero muttered, moving into the shadows. "Lead the way."
