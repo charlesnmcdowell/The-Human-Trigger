@@ -137,6 +137,12 @@
 *   [ ] **Arc Consistency:**
     *   *Zero:* Starts as a Survivor/Rookie (Flashback) -> Becomes a Legend/Leader.
     *   *Silas:* Consistently cold, calculated, corporate. Never cruel for cruelty's sake, only for profit.
+*   [ ] **Timeline Architecture:**
+    *   *Rule:* **Present -> Flashback -> Present**.
+    *   *Chapter 1:* Present Day (The "Success" Mission). Establishes competence.
+    *   *Chapter 2:* Flashback (The "Failure" Mission). Establishes trauma/betrayal.
+    *   *Chapter 3+:* Present Day (The "Big Score"). Consequences of Ch 1 & 2 merge.
+    *   *Consistency Check:* Ensure injuries/gear in Ch 3 match Ch 1, not Ch 2.
 ## 11. Lexicon of the Sprawl (Avant-Garde Slang)
 *   [ ] **World Terms:**
     *   **The Lattice:** The corporate-controlled global network (Internet).

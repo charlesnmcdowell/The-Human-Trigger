@@ -42,7 +42,7 @@ Then, a different voice. An older man. *"This is Dr. Aris Thorne. I uploaded him
 
 Silence filled the room.
 
-"I heard that," Zero whispered, the memory of the server room flooding back. "On the chip Silas gave me. A fragment. I thought it was a glitch."
+"I heard that," Zero whispered, the memory of the encrypted file flooding back. "Attached to the contract Cas found. A fragment. I thought it was a glitch."
 
 "It wasn't a glitch," Cas said grimly. "It was a plea."
 
