@@ -9,6 +9,8 @@
     *   *Neural Hedonism:* Describe the wealthy twitching in VR ecstacy while their bodies waste away.
     *   *The Mandate:* Technology is a leash. "Sanctified" = Soul-Verified (human accountability). "Dirty" = Lethal/Radiation/Heat.
 *   [ ] **Sensory Overload:** Vibration of bass, metallic tang of blood, cloying humidity, toxic steam. Smell is critical.
+*   [ ] **Tone Consistency (No Slapstick):**
+    *   *Rule:* **No Scatological Humor in Combat.** Keep the "Dirty" aesthetic industrial (rot, rust, chemical), not juvenile (farts, poop jokes). Maintain the "Noir" tension.
 
 ## 2. Visceral Violence (The "Mortal Kombat" Threshold)
 *   [ ] **No "Power Ranger" Action:** Remove clean, stylized violence.
@@ -49,6 +51,8 @@
 *   [ ] **ELIMINATE "Not X, but Y":** Remove the Antithesis/Correctio pattern ("It wasn't a sword, it was a...").
     *   *Correction:* Use direct description. "The sword was a massive slab of..."
 *   [ ] **Dialogue Authority:** If a line feels "off" for a character, rewrite it.
+*   [ ] **One-Liner Quality Control:**
+    *   *Rule:* Avoid generic action-movie clichés. Dialogue should reflect **Scrapper Pride** and professional cynicism (e.g., "No need for a backup clone when you don't plan on dying").
 *   [ ] **Cinematic Transitions:** Scene changes must describe the *vehicle* and the *environment*.
 
 ## 6. Vocabulary Hygiene (De-Redundancy)
@@ -99,6 +103,12 @@
 *   [ ] **Light-Lag (Comms & Hacking):**
     *   *Rule:* Information cannot travel faster than light.
     *   *Detail:* Real-time hacking/comms is only possible at **Short Range** (Local Mesh). Inter-planetary comms have minutes/hours of lag. No "live video calls" with Mars from Jupiter.
+*   [ ] **Broadcast Physics (Antennas):**
+    *   *Rule:* An antenna cannot transmit if it is **grounded** into a conductor.
+    *   *Fix:* Use **Magnetic Braking** (non-contact friction) to slow descents if using a weapon as a transmitter. Do not cut into the metal while broadcasting.
+*   [ ] **Shielding Semantics:**
+    *   *Rule:* If it has containment coils, it is *shielded*.
+    *   *Fix:* Use "**Overclocked**," "**Straining**," or "**Leaking**" to describe dangerous high-output weapons. Avoid "Unshielded" unless it's a raw fusion vent.
 
 ## 8. Lore & Timeline (The "Great Haywire")
 *   **Logistics Check:**
@@ -134,6 +144,8 @@
 *   [ ] **The "Competence" Check:**
     *   *Rule:* Characters should not hold the "Idiot Ball." Mistakes must be forced by stress, enemy skill, or tech failure, not stupidity.
     *   *Example:* Zero doesn't "forget" to check for traps; Silas jams his sensors.
+*   [ ] **Tactical Necessity:**
+    *   *Rule:* If a character performs a risky move (e.g., frontal assault), there must be a **Technical Reason** (e.g., "Handshake Override requires < 5m proximity").
 *   [ ] **Arc Consistency:**
     *   *Zero:* Starts as a Survivor/Rookie (Flashback) -> Becomes a Legend/Leader.
     *   *Silas:* Consistently cold, calculated, corporate. Never cruel for cruelty's sake, only for profit.
