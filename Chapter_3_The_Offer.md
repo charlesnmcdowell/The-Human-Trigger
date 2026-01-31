@@ -1,67 +1,68 @@
-# Chapter 3: The Offer
+# Chapter 3: The Blind Contract
 
-The escape wasn't a run; it was a bleed.
+Zero sat on a crate in the cargo hold of the *Scrap-Vulture*, a rusted transport skimming the smog layer of Sector 4. The adrenaline from the fight was fading, replaced by the dull throb of a data-hangover. He wiped the last of the nosebleed away with the back of his glove, staring at the Cognis core humming on the deck. It was a cylinder of blue light, worth more than the ship they were flying in.
 
-Zero moved through the *Golden Spire's* waste-disposal veins, a labyrinth of pressurized chutes and chemical sluices that stank of **stale recycled air** and corporate excess. Above him, the alarms were a distant, rhythmic throb, like a headache that wouldn't quit. He could hear the Cleaners moving through the upper ventilation shafts—**wet slaps of synthetic flesh** hunting for a pulse.
+"You okay, Samurai?" Cas asked, her voice echoing from the cockpit. "You zoned out for a second there."
 
-He didn't give them one. He scrambled down a service ladder, his breath misting in the rapidly dropping temperature. He was descending into the building's nervous system, leaving the gilded atrium for the frozen, sterile dark of the data-core.
+"Just a glitch," Zero muttered, shaking his head. The memory of the Helios-7 Spire—of Rook screaming as his gun melted, of Kilo's silence—clung to him like static. It had been three years, but the smell of burnt ozone always brought it back. He forced the ghost of Silas out of his mind. That was the past. This was business.
 
-Zero holed up in Server Node 7, a sub-zero archive room filled with rows of humming backup drives. The cold bit through his flight suit, numbing the chemical burn in his lungs, but it couldn't scrub the stench of the waste chute from his skin—a cloying layer of recycled filth that made him feel like a rat hiding in a palace. It was perfect. Thermal optics would struggle to distinguish his body heat from the servers' exhaust vents.
+"Well, snap out of it," Cas said, spinning her chair to face him. "Because we just got a ping on the Dark-Mesh. Priority One. Encrypted."
 
-He sat with his back against a rack, the Lobotomizer laid across his knees. He ran a diagnostic on the blade—magnetic containment at 94%. It was leaking heat, singing the deck plating with a faint, violet aura that hissed like a trapped snake. He pulled a rag from his pocket and began to wipe the carbon scoring from the hilt, his hands shaking with a "White Finger" tremor that the cold only made worse.
+Zero frowned. "We just finished a job, Cas. I need a drink and a week in a sensory-deprivation tank."
 
-*Breathe. Wipe. Check.*
+"You'll want to see this," Cas insisted, tapping her slate. "The payout isn't in credits. It's in *freedom*."
 
-"Impressive work in the airlock," a voice echoed from the shadows.
+Zero walked to the cockpit, the magnetic soles of his boots clicking on the deck. He looked at the screen. The message was simple, text-only, no sender ID.
 
-Zero tightened his grip on the hilt, his knuckles whitening through his lead-lined gloves. "Identify," Zero said, his voice flat as the deck plates.
+**CONTRACT: PROJECT NSFW-32**
+**OBJECTIVE: ACQUISITION & EXTRACTION**
+**TARGET: COGNIS VAULT, DECK 12**
+**PAYMENT: GOLD STATUS CITIZENSHIP + 50 MILLION CREDITS**
 
-A figure stepped out from the darkness between the server racks. Charcoal suit, Italian cut. Silver augged eyes that whirred softly as they focused. Zero scanned him: high-end Cognis oculars, thermal and kinetic tracking. Subdermal armor weave under the silk suit. This wasn't a grunt; this was management.
+"Gold Status," Zero whispered. It was a myth. A corporate pardon. It meant no more hiding in the Rust, no more bribing dispatchers, no more looking over your shoulder for a Cleaner squad. It meant a life in the Upper Ring, or better yet, a private moon where the air didn't taste like battery acid.
 
-"Call me Silas," the man said, smoothing a non-existent crease on his lapel. "And you are Zero Vex. Fugitive. Liability. And currently, my only option."
+"Who's the client?" Zero asked.
 
-Zero stood up slowly, the Odachi scraping against the metal floor with a sound like grinding teeth. "I watched you kill them," Zero said, his voice trembling with suppressed rage. "Rook. Kilo. You locked the vault. You sold us out for a Diamond-Tier debt correction."
+"Anonymous," Cas said, popping a bubble of gum. "The encryption is 'Pre-Haywire' grade. I can't crack it. But the escrow is verified. The money is real, Zero."
 
-Silas smiled, a thin expression devoid of humor. "Those were assets, Zero. Depreciating ones. You, however... you improvised. You survived. That makes you a variable I can still use."
+"It's a trap," Zero said flatly. "Nobody pays that much for a heist unless it's suicide."
 
-"Why aren't you dead?" Zero asked, shifting his weight. "I should cut you in half right now and see if your blood is as silver as your eyes."
+"It's a Titan," Cas said, pulling up a schematic. "A prototype. The NSFW-32. Rumor is, it cooks every pilot who plugs into it. That's why they need you. They need a Scrapper who runs 'Dirty' tech. Someone who can override the safeties."
 
-"Because I turned the alarm off," Silas said, tapping his temple. "Kill me, and it goes back on. The Viper Squad outside will turn this room into a tomb before your blade clears the lock. I am the only reason you are still breathing."
+Zero looked at the schematic. The machine was a beast—forty feet of matte-black armor and fusion reactors. It looked like a god of war wrapped in industrial chains.
 
-Zero glanced at his HUD. The threat indicator had turned a benign green.
+"If we do this," Zero said, "we're done. No more scraping. No more running."
 
-"I'm the man who reads the spreadsheets," Silas said, stepping closer. "Your friends died because they were obsolete. They relied on 'Sanctified' tech—safe, legal, tethered. You use 'dirty' tech. You are a chaotic variable in a system of constants."
+"Exactly," Cas grinned. "We take the money, and we disappear. I've already got a line on a private island on Europa. It has real trees, Zero. Trees that make oxygen, not scrubbers."
 
-"Get to the point," Zero growled.
+Zero looked at his reflection in the dark viewport. The Oni-Menpo mask stared back, a demon of his own making. He was tired of the mask. Tired of the smell of rust and blood.
 
-"I have a job for you. You are trapped. A 'Ghost' in a locked room. Dead man walking," Silas said. "Unless you do something for me. A 'Debt-Correction'. I can wipe your file, Zero. I can give you enough credits to buy your own moon. A private rock away from the trillions of parasites in the system. No more scavenging for scraps. No more expensive street-doc enzymes for those UV burns."
+"Where's the meet?" Zero asked.
 
-He tossed Zero a **Data-Shard**. Zero caught it, the plastic clicking against his numb palm.
+"Deck 12," Cas said. "There's a team waiting. A pilot and a heavy. We provide the entry and the trigger."
 
-"Project NSFW-32," Silas continued. "A fusion-powered Titan. Prototype class. It rejects standard pilots. We burned through three 'Dolls' last week—wiped their personalities and plugged them in, hoping a blank slate would work. It didn't. Cooked their brains in the casing. It needs a Scrapper. Someone who can jailbreak a soul."
+"A team," Zero scoffed. "I work alone."
 
-"You want me to pilot your death machine?" Zero asked, turning the **shard** over.
+"Not for fifty million, you don't," Cas countered. "Besides, the client was specific. 'The Human Trigger' is the key."
 
-"I want you to steal it," Silas corrected. "I represent a splinter faction within Cognis. We believe the Mandate has become... stagnant. We want the asset gone. And yes, I am betraying my employers. Again. Consistency is a virtue, Zero."
+Zero felt a chill. That name. It was what Silas used to call him. But Silas was just a corporate suit, a ghost from a bad memory. This was a ticket out.
 
-"And if I refuse?"
+"Set a course," Zero said, turning back to the hold. "Let's go steal a god."
 
-"Then I reactivate the pylon. And the Viper Squad waiting in the corridor will turn this room into a very cold tomb. They're Gen-Mods, Zero. No neural jacks for you to hack. You'll die tired."
+***
 
-Zero looked at the Lobotomizer. He could kill him. But Silas was right. He was trapped. The math was against him.
+The *Scrap-Vulture* docked at the service port of Deck 12 an hour later. The airlock cycled with a hiss of decontamination spray. Zero stepped out, the Lobotomizer strapped to his back, his hand hovering near the hilt.
 
-He slipped the **shard** into his pocket. "Where is it?" Zero asked.
+"I'll stay on the line," Cas said over the Link. "I'm ghosting your signature. To the local grid, you're just a maintenance worker with a really aggressive tool belt."
 
-"Deck 12. The Vault," Silas said, turning to leave. "Try not to break it. It's worth more than this entire sector."
+"Keep your eyes open," Zero said. "If this goes south, dump the core and run."
 
-"I don't do statistics," Zero said to the man's back. "I do salvage."
+"Ye of little faith," Cas chirped. "Go make us rich, Samurai."
 
-Silas vanished into the shadows of the server farm. Zero waited a full minute, listening to the hum of the drives, before he looked at the **Data-Shard**. He slotted it into his **Cyber-Deck** to verify the coordinates. The schematic for the NSFW-32 scrolled across his HUD—technical specs, fusion output, armor density. But buried in the metadata, underneath the weapon protocols, there was an audio file. Encrypted. Fragmented.
+Zero moved into the corridor. The air here was hotter, thicker. He could hear the distant thrum of riot control measures—flash-bangs and screaming. Deck 12 was already a war zone.
 
-Zero triggered it. A voice cut through the static. Instead of the cold, synthetic tone of a machine, it was soft. Small. A child’s voice, filtered through a million miles of vacuum.
+Perfect cover.
 
-*"...dark... it's so dark in here... is anyone out there? Pilot? ...please..."*
+He checked his HUD. The rendezvous point was a docking bay on the far side of the riot. He adjusted his mask, the scrubbers hissing as they filtered out the tear gas.
 
-The file corrupted and dissolved into white noise. Zero frowned, ejecting the **shard**. A glitch? Or something else? He looked at the Lobotomizer, then back at the **shard**.
-
-"Just a job," he muttered to himself, trying to ignore the chill that had nothing to do with the server room's temperature. "Just salvage."
+"Time to work," Zero whispered.

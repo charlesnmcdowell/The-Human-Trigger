@@ -1,7 +1,5 @@
 # Chapter 4: The Outlaw Link
 
-Getting from the sub-zero silence of the server farm to Deck 12 required a vertical climb through five levels of corporate hell. Zero bypassed the locked elevators, opting for the mag-lev maintenance shafts. The air grew hotter and thicker with every deck he ascended, the sterile chill of the data-core replaced by the copper tang of overheated machinery and the acrid bite of tear gas.
-
 Deck 12 was a war zone. Through the slats of a ventilation grate, Zero watched the chaos unfold. Corporate security—armored in riot-black—was engaging a mob of discarded 'Dolls'. Their service contracts had likely expired, turning them from high-end luxury goods back into refuse. Flash-bangs detonated with bone-shaking concussions, turning the corridor into a strobe-lit nightmare of screaming, porcelain-skinned figures and the staccato bark of suppression rounds.
 
 "Chaos is a ladder," Zero whispered to himself, kicking the grate free. He dropped into the smoke-filled corridor, a ghost in the melee, moving unseen while the security teams focused on beating back the crowd.
