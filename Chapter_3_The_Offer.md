@@ -57,7 +57,9 @@ Zero looked at the schematic. The machine was a beast—forty feet of matte-blac
 
 ***
 
-The *Scrap-Vulture* was en route to dock six hours later. Cas explained to Zero that she'd be masking his signature. To the local grid, he'd look like a maintenance worker with a really aggressive tool belt.
+The *Scrap-Vulture* was en route to dock six hours later.
+
+"We're six hours out," Cas said, her fingers flying across the console. "I'm building you a ghost-profile. By the time we dock, the local grid won't see a mercenary. It'll see a Maintenance Specialist with a really aggressive tool belt."
 
 "What's the play?" Zero asked, checking the seals on his Oni-Menpo mask. The tactical rebreather covered the lower half of his face in matte-black ceramic, its lateral fangs housing active chemical scrubbers designed to filter out everything from tear gas to radioactive dust. It wasn't just protection; it was a face of war.
 
