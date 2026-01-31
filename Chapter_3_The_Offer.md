@@ -26,7 +26,7 @@ Cas looked him up and down, her gaze lingering on the obvious morning wood press
 
 Zero didn't blink. He didn't cover up. He just took another drink. "The ping, Cas."
 
-"Right. Anyway, you'll want to see this," Cas said, tapping her slate. "The payout isn't in credits. It's in *freedom*."
+"Right. Quit eye-balling the servers and look at this slate," Cas said, tapping the screen with a manicured nail. "We aren't talking pocket change or scrap-fees. This is the 'exit-the-planet' kind of money. This is the 'never-breathe-recycled-farts-again' payout."
 
 Zero leaned over her shoulder, the magnetic soles of his boots clicking on the deck. He looked at the screen. The message was simple, text-only, no sender ID.
 
@@ -41,27 +41,23 @@ He didn't care about the criminal record. Going straight was a slow death senten
 
 "Do the math," Zero said, his voice low.
 
-"I already did," Cas said, popping a bubble of gum. "The average Tier-4 employee makes forty-five thousand credits a year. A specialist, maybe a doctor or a mid-level engineer, pulls in a hundred thousand if they sell their likeness rights."
-
-"And they never break two hundred," Zero added. "That kind of wealth doesn't come from labor. It comes from owning things. Owning people."
-
-"At a hundred grand a year," Cas continued, looking at the number on the screen, "it would take you five hundred years to earn this. Five centuries of perfect attendance, zero sick days, and licking the boot every morning."
+"Math’s already clocked, Samurai," Cas said, popping a bubble of gum. "Your average Tier-4 drone pulls forty-five k a year—and that’s if they’re lucky. You want the six-figure bracket? You gotta sell your likeness rights and hope the Corp doesn't use your face for a bio-sludge ad. At a hundred grand, it’s a five-century grind to hit this payout. Five hundred years of boot-licking, Zero. We don't have that kind of shelf-life."
 
 "We don't have five hundred years," Zero said. "We have maybe five before the radiation in this sector cooks us or a Scrapper gets lucky."
 
-"Exactly," Cas grinned. "We take the money, and we disappear. I've already got a line on a private island on Europa. It has real trees, Zero. Trees that make oxygen, not scrubbers. We buy our way out of the food chain."
+"Exactly," Cas grinned. "We take the money, and we disappear. I've got a line on a Shielded Atoll in the Tyros Sub-Surface Sea. It's a pressurized dome anchored to the thermal vents. Real dirt, Zero. Real pines. It’s inside the ice-crust, so the radiation doesn't touch you. We buy our way into the Closed-Loop Economy and never have to look at a scrubber again."
 
 "Who's the client?" Zero asked, his eyes narrowing.
 
-"Anonymous," Cas said. "The encryption is 'Pre-Haywire' grade. I can't crack it. That means this isn't some street-level fixer. This is a Tier-1 power player with resources that predate the Mandate."
+"Anonymous," Cas said, her fingers dancing over the keys. "But the encryption? It's 'Pre-Haywire' grade. We're talking 2030s architecture—stuff that predates the Mandate by centuries. I can't crack it, which means this isn't some script-kiddy. This is a surviving artifact. Maybe a rogue AI that slipped the leash before the Great Haywire, or a Corp hoarding ancient tech."
 
 "It's a trap," Zero said flatly. "Nobody pays that much for a heist unless it's suicide. And 'Pre-Haywire' tech? That screams corporate black-ops."
 
 "A team," Zero scoffed. "I work alone."
 
-"Not for fifty million, you don't," Cas countered. "Besides, the client was specific. 'The Human Trigger' is the key."
+"Not for fifty million, you don't," Cas countered. "Look at the specs. It's a Titan. A prototype. The NSFW-32. Rumor is, it cooks every pilot who plugs into it. That's why they need you. They need a Scrapper who runs 'Dirty' tech. Someone who can override the safeties."
 
-Zero felt a chill. That name. It wasn't just a nickname; it was what Silas used to call him before the betrayal. If an anonymous client with military-grade encryption was using that specific term, this wasn't a random job. It was a summons.
+Zero looked at the schematic. The machine was a beast—forty feet of matte-black armor and fusion reactors. It looked like a god of war wrapped in industrial chains.
 
 "Set a course," Zero said, turning back to the hold. "Let's go see who wants to play god."
 
