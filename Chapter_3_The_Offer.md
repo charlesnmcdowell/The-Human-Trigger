@@ -59,16 +59,14 @@ Zero looked at the schematic. The machine was a beast—forty feet of matte-blac
 
 The *Scrap-Vulture* docked at the service port of Deck 12 an hour later. The airlock cycled with a hiss of decontamination spray. Zero stepped out, the Lobotomizer strapped to his back, his hand hovering near the hilt.
 
-"I'll stay on the line," Cas said over the Link. "I'm ghosting your signature. To the local grid, you're just a maintenance worker with a really aggressive tool belt."
+"I'll stay on the line," Cas said over the Link. "I'm masking your signature. To the local grid, you're just a maintenance worker with a really aggressive tool belt."
 
-"Why the subterfuge?" Zero asked, checking the seals on his Oni-Menpo mask. "If they hired us, shouldn't we have a red carpet?"
+"What's the play?" Zero asked, checking the seals on his Oni-Menpo mask.
 
-"The client hired us, Zero. But Deck 12 is Cognis territory," Cas explained, her voice tinny in his ear. "This is a 'Black-Book' extraction. The local security grid doesn't know we're coming because the client doesn't want a paper trail. If we walk in the front door, we trigger a Level 5 alert. If we go in the back way, masked as maintenance? We're invisible until we hit the vault."
+"Simple," Cas replied, her voice crisp in his ear. "Plan A: We meet the contact, verify the funds, and you assess the Titan. If the tech is legit, we take the job. Plan B: If it's a setup, I dump the ship's reactor core into the docking clamps to create a thermal smokescreen, and you cut your way back to the airlock. I've already looped the camera feeds on this level, so you've got a ten-minute window before the patrol drones cycle back. The Vault is three levels down."
 
-Zero looked around. The service port was a cavernous, industrial throat of the station—pipes the size of redwoods running along the ceiling, dripping condensation that smelled of ozone and coolant. It was quiet here, the hum of the station's massive atmospheric scrubbers drowning out the distant noise of the upper decks.
+"Let's hope we don't need Plan B," Zero muttered.
 
-"Security?" Zero asked.
+He looked around. The service port was a cavernous, industrial throat of the station—pipes the size of redwoods running along the ceiling, dripping condensation that smelled of ozone and coolant. It was quiet here, the hum of the station's massive atmospheric scrubbers drowning out the distant noise of the upper decks.
 
-"Tight, but automated," Cas replied. "I've looped the camera feeds on this level. You've got a ten-minute window before the patrol drones cycle back. The Vault is three levels down. And Zero? I've never been this deep in their system before. The architecture here... it's old. It feels like walking through a graveyard."
-
-"Let's hope the ghosts stay dead," Zero muttered, moving into the shadows. "Lead the way."
+"Lead the way," Zero said, moving into the shadows.
