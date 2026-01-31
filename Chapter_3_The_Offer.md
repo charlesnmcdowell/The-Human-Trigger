@@ -17,15 +17,15 @@ Zero walked to the cockpit, the magnetic soles of his boots clicking on the deck
 **CONTRACT: PROJECT NSFW-32**
 **OBJECTIVE: ACQUISITION & EXTRACTION**
 **TARGET: COGNIS VAULT, DECK 12**
-**PAYMENT: GOLD STATUS CITIZENSHIP + 50 MILLION CREDITS**
+**PAYMENT: DIAMOND-TIER LIABILITY PARDON + 50 MILLION CREDITS**
 
-"Gold Status," Zero whispered. It was a myth. A corporate pardon. It meant no more hiding in the Rust, no more bribing dispatchers, no more looking over your shoulder for a Cleaner squad. It meant a life in the Upper Ring, or better yet, a private moon where the air didn't taste like battery acid.
+"Diamond-Tier," Zero whispered. It wasn't just money. It was a corporate pardon. It meant his entire criminal history—every 'Unsanctified' flag, every warrant, every debt—would be wiped from the Cognis servers. It meant he could walk through a sensor gate without triggering a kill-team. It meant he could stop breathing battery acid and buy a life where the air was filtered by trees, not scrubbers.
 
-"Who's the client?" Zero asked.
+"Who's the client?" Zero asked, his suspicion spiking.
 
-"Anonymous," Cas said, popping a bubble of gum. "The encryption is 'Pre-Haywire' grade. I can't crack it. But the escrow is verified. The money is real, Zero."
+"Anonymous," Cas said, popping a bubble of gum. "The encryption is 'Pre-Haywire' grade. I can't crack it. That means this isn't some street-level fixer. This is a Tier-1 power player with resources that predate the Mandate."
 
-"It's a trap," Zero said flatly. "Nobody pays that much for a heist unless it's suicide."
+"It's a trap," Zero said flatly. "Nobody pays that much for a heist unless it's suicide. And 'Pre-Haywire' tech? That screams corporate black-ops."
 
 "It's a Titan," Cas said, pulling up a schematic. "A prototype. The NSFW-32. Rumor is, it cooks every pilot who plugs into it. That's why they need you. They need a Scrapper who runs 'Dirty' tech. Someone who can override the safeties."
 
@@ -45,9 +45,9 @@ Zero looked at his reflection in the dark viewport. The Oni-Menpo mask stared ba
 
 "Not for fifty million, you don't," Cas countered. "Besides, the client was specific. 'The Human Trigger' is the key."
 
-Zero felt a chill. That name. It was what Silas used to call him. But Silas was just a corporate suit, a ghost from a bad memory. This was a ticket out.
+Zero felt a chill. That name. It wasn't just a nickname; it was what Silas used to call him before the betrayal. If an anonymous client with military-grade encryption was using that specific term, this wasn't a random job. It was a summons.
 
-"Set a course," Zero said, turning back to the hold. "Let's go steal a god."
+"Set a course," Zero said, turning back to the hold. "Let's go see who wants to play god."
 
 ***
 
@@ -63,6 +63,6 @@ Zero moved into the corridor. The air here was hotter, thicker. He could hear th
 
 Perfect cover.
 
-He checked his HUD. The rendezvous point was a docking bay on the far side of the riot. He adjusted his mask, the scrubbers hissing as they filtered out the tear gas.
+He checked his HUD. The rendezvous point was a docking bay on the far side of the riot. He adjusted his mask, the **active scrubbers hissing as the lateral fangs vented superheated, filtered air, clearing the tear gas from his intake.**
 
 "Time to work," Zero whispered.
